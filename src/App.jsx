@@ -6,6 +6,7 @@ function App() {
   return (
     <>
      <div>hi</div>
+     <div>hi testing netlify</div>
     </>
   )
 }
