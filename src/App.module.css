@@ -52,6 +52,12 @@
     }
   }
 
+  @media screen and (max-width: 600px) {
+    .flagImg {
+      height: 250px !important;
+    }
+  }
+
 .flagImg {
     object-fit: fill;
     height: 100%;
