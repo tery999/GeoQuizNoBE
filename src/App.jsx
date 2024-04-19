@@ -63,7 +63,7 @@ function App() {
           <div className={styles.flagContainer}> <img className={[styles.flagImg, styles[currentFlagImage]].join(' ')} src={currentFlag.flagURL} alt="" /></div>
           <div className={styles.Options}>
             {fourChoicesShuffled.map((oneOption => {
-              return <button key={oneOption._id} onClick={() => choiceClickFunction(oneOption.name)}> {oneOption.name}</button>
+              return <button key={oneOption._id[0]} onClick={() => choiceClickFunction(oneOption.name)}> {oneOption.name}</button>
             }))}
 
           </div>
