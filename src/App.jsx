@@ -5,10 +5,13 @@ import Home from './Components/Home/Home'
 import Flags from './Components/Flags/Flags'
 import EuropeFlags from './Components/Flags/EuropeFlags/EuropeFlags'
 import AsiaFlags from './Components/Flags/AsiaFlags/AsiaFlags'
+import Navigation from './Components/Navigation/Navigation'
 
 
 function App() {
   return (
+    <>
+    <Navigation />
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="Flags" >
@@ -17,6 +20,7 @@ function App() {
         <Route path="Asia" element={<AsiaFlags />} />
       </Route>
     </Routes>
+    </>
   )
 }
 
