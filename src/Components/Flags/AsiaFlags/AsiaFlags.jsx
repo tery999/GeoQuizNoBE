@@ -1,35 +1,16 @@
 import { useEffect, useRef, useState } from 'react'
-import * as styles from "./EuropeFlags.module.css"
-import { getEuroFlags } from '../../../Services/Services';
+import * as styles from "./AsiaFlags.module.css"
+import { useCustomFlags } from '../../../Services/useCustomFlags';
+import { getAsiaFlags } from '../../../Services/Services';
 
-export default function EuropeFlags () {
-  //original without custom hook
 
-    const [flagsArrShuffled, setFlagsArrShuffled] = useState([]);
-    const [choices, setChoices] = useState([]);
-    const [currentFlag, setCurrentFlag] = useState({});
-    const [loaded, setLoaded] = useState(false);
-    const correctAsnwers = useRef(0);
-    const totalAnswers = useRef(0);
-    const currentTurn = useRef(1);
+export default function AsiaFlags () {
+    //using custom hook, doesnt look pretty, need to make it better
+    const [ flagsArrShuffled ,choices, 
+        setChoices, currentFlag, setCurrentFlag, 
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAsiaFlags);
   
-  
-    useEffect(() => {
-      const getFlags = async () => {
-        debugger;
-        const flags = await getEuroFlags();
-        const shuffling = flags.sort(() => Math.random() - 0.5);
-        const choices = [...shuffling];
-        setChoices(choices);
-        totalAnswers.current = flags.length;
-  
-        const currentFlg = shuffling.splice(0, 1)[0];
-        setFlagsArrShuffled(shuffling);
-        setCurrentFlag(currentFlg);
-        setLoaded(true);
-      }
-      getFlags();
-    }, [])
+
     const fourChoices = [];
     fourChoices.push(currentFlag);
     const choicesWithoutCurrent = choices.filter((flagObj) => {

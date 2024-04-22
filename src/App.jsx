@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Components/Home/Home'
 import Flags from './Components/Flags/Flags'
 import EuropeFlags from './Components/Flags/EuropeFlags/EuropeFlags'
+import AsiaFlags from './Components/Flags/AsiaFlags/AsiaFlags'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Route path="Flags" >
       <Route index element={<Flags />} />
         <Route path="Europe" element={<EuropeFlags />} />
+        <Route path="Asia" element={<AsiaFlags />} />
       </Route>
     </Routes>
   )
