@@ -1,0 +1,118 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.container > a {
+    height: 150px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.container > a > .Europe{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("../../../public/OutlinesImages/Europe_map.png");
+    background-position:40% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+}
+
+.container > a > .Europe:hover{
+    filter: brightness(80%);
+    transition: 0.3s;
+}
+
+.container > a > .Asia{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("../../../public/OutlinesImages/Asia_on_the_globe_\(white-red\)-INALCO.svg");
+    background-position: 50% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+}
+
+.container > a > .Asia:hover{
+    filter: brightness(80%);
+    transition: 0.3s;
+}
+
+.container > a > .America{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("../../../public/OutlinesImages/north-america-country-map-map-of-north-america-in-blue-color-vector.jpg");
+    background-position: 50% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    color: white;
+    background-color: rgb(202, 202, 255);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+}
+
+.container > a > .America:hover{
+    filter: brightness(80%);
+    transition: 0.3s;
+}
+
+.container > a > .Africa{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("../../../public/FlagsImages/peakpx\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    color: white;
+    background-color: rgb(202, 202, 255);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+}
+
+.container > a > .Africa:hover{
+    filter: brightness(80%);
+    transition: 0.3s;
+}
+
+
+
