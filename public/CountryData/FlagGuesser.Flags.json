@@ -3,320 +3,366 @@
     "$oid": "661d1261e415625eb3425a5a"
   },
   "name": "Albania",
-  "flagURL": "https://www.nationalflags.shop/WebRoot/vilkasfi01/Shops/2014080403/53E6/2F4A/9366/B9BF/AD6C/0A28/100B/043B/Flag_of_Albania.png"
+  "flagURL": "https://www.nationalflags.shop/WebRoot/vilkasfi01/Shops/2014080403/53E6/2F4A/9366/B9BF/AD6C/0A28/100B/043B/Flag_of_Albania.png",
+  "OutlineURL": "https://e7.pngegg.com/pngimages/641/660/png-clipart-national-road-3-albania-kosovo-highway-road-highway-transport.png"
 },
 {
   "_id": {
     "$oid": "661d1540e415625eb3425a60"
   },
   "name": "Andora",
-  "flagURL": "https://www.nationsonline.org/flags_big/Andorra_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Andorra_lgflag.gif",
+  "OutlineURL": "https://t3.ftcdn.net/jpg/02/67/85/62/360_F_267856234_EOEEuH9ycxFGvDHB61Z0IudqoOqrqkVv.jpg"
 },
 {
   "_id": {
     "$oid": "661d1540e415625eb3425a61"
   },
   "name": "Austria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Austria_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Austria_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/736x/ec/70/da/ec70da1b204f68b50e0a7f9f31da98d4.jpg"
 },
 {
   "_id": {
     "$oid": "661d1540e415625eb3425a62"
   },
   "name": "Belarus",
-  "flagURL": "https://www.nationsonline.org/flags_big/Belarus_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Belarus_lgflag.gif",
+  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/outline-map-of-belarus-bigalbaloo-stock.jpg"
 },
 {
   "_id": {
     "$oid": "661d1540e415625eb3425a63"
   },
   "name": "Belgium",
-  "flagURL": "https://www.nationsonline.org/flags_big/Belgium_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Belgium_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/22/15/d9/2215d9748728f05aa07ef0b4613d97bb.gif"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cc9"
   },
   "name": "Bosnia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Bosnia_Herzegovina_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Bosnia_Herzegovina_lgflag.gif",
+  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/bosnia-and-herzegovina-country-outline-bigalbaloo-stock.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cca"
   },
   "name": "Bulgaria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Bulgaria_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Bulgaria_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/bg-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ccb"
   },
   "name": "Croatia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Croatia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Croatia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/hr-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ccc"
   },
   "name": "Cyprus",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cyprus_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Cyprus_lgflag.gif",
+  "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ccd"
   },
   "name": "Czech Republic",
-  "flagURL": "https://www.nationsonline.org/flags_big/Czech_Republic_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Czech_Republic_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/9b/83/13/9b8313c5f6c66d99cb4baf188d63bba5.gif"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cce"
   },
   "name": "Denmark",
-  "flagURL": "https://www.nationsonline.org/flags_big/Denmark_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Denmark_lgflag.gif",
+  "OutlineURL": "https://media.istockphoto.com/id/470863190/vector/denmark-country-map.jpg?s=612x612&w=0&k=20&c=UgPMxUpVNGFG0XEf1Vk29AEsWOnRiPZq8bstX5wEVoA="
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ccf"
   },
   "name": "Estonia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Estonia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Estonia_lgflag.gif",
+  "OutlineURL": "https://img.freepik.com/premium-vector/outline-map-estonia-white-background-vector-map-with-contour_652994-1781.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd0"
   },
   "name": "Finland",
-  "flagURL": "https://www.nationsonline.org/flags_big/Finland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Finland_lgflag.gif",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/864/original/map-of-finland-outline-map-illustration-free-vector.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd1"
   },
   "name": "France",
-  "flagURL": "https://www.nationsonline.org/flags_big/France_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/France_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/d9/a6/8e/d9a68e344bfe976a660f4b388196cfab.gif"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd2"
   },
   "name": "Germany",
-  "flagURL": "https://www.nationsonline.org/flags_big/Germany_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Germany_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/big/de-03.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd3"
   },
   "name": "Greece",
-  "flagURL": "https://www.nationsonline.org/flags_big/Greece_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Greece_lgflag.gif",
+  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-greece-2-coloring-page.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd4"
   },
   "name": "Hungary",
-  "flagURL": "https://www.nationsonline.org/flags_big/Hungary_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Hungary_lgflag.gif",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/774/original/map-of-hungary-outline-map-illustration-free-vector.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd5"
   },
   "name": "Iceland",
-  "flagURL": "https://www.nationsonline.org/flags_big/Iceland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Iceland_lgflag.gif",
+  "OutlineURL": "https://t4.ftcdn.net/jpg/01/92/50/23/360_F_192502323_mSxYMXn1ULAP1B6IZ9BSOoPT6nfr8bWl.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd6"
   },
   "name": "Ireland",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ireland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Ireland_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ie-01.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd7"
   },
   "name": "Italy",
-  "flagURL": "https://www.nationsonline.org/flags_big/Italy_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Italy_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/13/06/d2/1306d29a7d2e3f3d5d040e9704e96750.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd8"
   },
   "name": "Latvia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Latvia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Latvia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/lv-01.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cd9"
   },
   "name": "Lithuania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Lithuania_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Lithuania_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/lt-01.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cda"
   },
   "name": "Luxembourg",
-  "flagURL": "https://www.nationsonline.org/flags_big/Luxembourg_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Luxembourg_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/lu-04.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cdb"
   },
   "name": "N.Macedonia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Macedonia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Macedonia_lgflag.gif",
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/North-Macedonia-Country-Map-Black-White-Solid-Outline-Map-JPG-SVG-PNG-PDF-EPS-AI-6435026-1610333884/original-6435026-3.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cdc"
   },
   "name": "Malta",
-  "flagURL": "https://www.nationsonline.org/flags_big/Malta_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Malta_lgflag.gif",
+  "OutlineURL": "https://cdn.vectorstock.com/i/500p/65/04/malta-island-map-silhouette-vector-41356504.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cdd"
   },
   "name": "Moldova",
-  "flagURL": "https://www.nationsonline.org/flags_big/Moldova_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Moldova_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/big/md-03.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cde"
   },
   "name": "Monaco",
-  "flagURL": "https://www.nationsonline.org/flags_big/Monaco_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Monaco_lgflag.gif",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/020/715/192/original/outline-country-state-monaco-border-outline-state-monaco-vector.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cdf"
   },
   "name": "Montenegro",
-  "flagURL": "https://www.nationsonline.org/flags_big/Montenegro_lgflag.jpg"
+  "flagURL": "https://www.nationsonline.org/flags_big/Montenegro_lgflag.jpg",
+  "OutlineURL": "https://i.pinimg.com/736x/5f/cf/d2/5fcfd2691f7ec02b66c5cf14c0a6401a.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce0"
   },
   "name": "Netherlands",
-  "flagURL": "https://www.nationsonline.org/flags_big/Netherlands_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Netherlands_lgflag.gif",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blank_map_of_the_Netherlands.svg/1928px-Blank_map_of_the_Netherlands.svg.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce1"
   },
   "name": "Norway",
-  "flagURL": "https://www.nationsonline.org/flags_big/Norway_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Norway_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/no-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce2"
   },
   "name": "Poland",
-  "flagURL": "https://www.nationsonline.org/flags_big/Poland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Poland_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/large/pl-03.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce3"
   },
   "name": "Portugal",
-  "flagURL": "https://www.nationsonline.org/flags_big/Portugal_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Portugal_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/9a/0c/29/9a0c2908ff412b8cdea1cbb9301795c2.gif"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce4"
   },
   "name": "Romania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Romania_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Romania_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/large/ro-01.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce5"
   },
   "name": "Russia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Russia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Russia_lgflag.gif",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce6"
   },
   "name": "Serbia",
-  "flagURL": "https://www.nationsonline.org/flags_big/serbia-lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/serbia-lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/rs-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce7"
   },
   "name": "San Marino",
-  "flagURL": "https://www.nationsonline.org/flags_big/San_Marino_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/San_Marino_lgflag.gif",
+  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-san-marino-coloring-page.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce8"
   },
   "name": "Slovakia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Slovakia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Slovakia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/sk-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ce9"
   },
   "name": "Slovenia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Slovenia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Slovenia_lgflag.gif",
+  "OutlineURL": "https://media.istockphoto.com/id/470865712/vector/slovenia-country-map.jpg?s=612x612&w=0&k=20&c=mmBKIvEnifaLnM9YtnC4XZeoBODDuNVbLtteUyAibwE="
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cea"
   },
   "name": "Spain",
-  "flagURL": "https://www.nationsonline.org/flags_big/Spain_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Spain_lgflag.gif",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blank_Spain_Map_%28Autonomous_Communities%29.svg/2560px-Blank_Spain_Map_%28Autonomous_Communities%29.svg.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ceb"
   },
   "name": "Sweden",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sweden_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Sweden_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/se-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cec"
   },
   "name": "Switzerland",
-  "flagURL": "https://www.nationsonline.org/flags_big/Switzerland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Switzerland_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ch-03.png"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58ced"
   },
   "name": "Turkey",
-  "flagURL": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif",
+  "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU="
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cee"
   },
   "name": "Ukraine",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ukraine_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Ukraine_lgflag.gif",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/675/original/map-of-ukraine-outline-map-illustration-free-vector.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cef"
   },
   "name": "United Kingdom",
-  "flagURL": "https://www.nationsonline.org/flags_big/United_Kingdom_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/United_Kingdom_lgflag.gif",
+  "OutlineURL": "https://ukmap360.com/img/1200/united%20kingdom%20(uk)-map-vector.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cf0"
   },
   "name": "Vatican",
-  "flagURL": "https://www.nationsonline.org/flags_big/Vatican_City_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Vatican_City_lgflag.gif",
+  "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/37/55/map-of-vatican-high-detailed-vector-22403755.jpg"
 },
 {
   "_id": {
     "$oid": "661eacb26f746774e6a58cf1"
   },
   "name": "Kosovo",
-  "flagURL": "https://cdn.britannica.com/18/114418-004-2A12F087/Flag-Kosovo.jpg"
+  "flagURL": "https://cdn.britannica.com/18/114418-004-2A12F087/Flag-Kosovo.jpg",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kosovo_outline.svg"
 }]

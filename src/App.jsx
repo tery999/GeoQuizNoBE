@@ -9,6 +9,7 @@ import Navigation from './Components/Navigation/Navigation'
 import AmericaFlags from './Components/Flags/AmericaFlags/AmericaFlags'
 import AfricaFlags from './Components/Flags/AfricaFlags/AfricaFlags'
 import Outlines from './Components/Outlines/Flags'
+import EuropeOutlines from './Components/Outlines/EuropeOutlines/EuropeOutlines'
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       </Route>
       <Route path="Outlines" >
         <Route index element={<Outlines/>} />
+        <Route path="Europe" element={<EuropeOutlines />} />
       </Route>
     </Routes>
     </>
