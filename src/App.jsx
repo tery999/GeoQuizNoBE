@@ -10,6 +10,7 @@ import AmericaFlags from './Components/Flags/AmericaFlags/AmericaFlags'
 import AfricaFlags from './Components/Flags/AfricaFlags/AfricaFlags'
 import Outlines from './Components/Outlines/Flags'
 import EuropeOutlines from './Components/Outlines/EuropeOutlines/EuropeOutlines'
+import AsiaOutlines from './Components/Outlines/AsiaOutlines/AsiaOutlines'
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <Route path="Outlines" >
         <Route index element={<Outlines/>} />
         <Route path="Europe" element={<EuropeOutlines />} />
+        <Route path="Asia" element={<AsiaOutlines />} />
       </Route>
     </Routes>
     </>
