@@ -1,0 +1,91 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Options {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+}
+
+.Options > button {
+    background-color: rgb(177, 233, 247);
+    border: 2px solid rgb(169, 169, 254);
+    border-radius: 8px;
+    cursor: pointer;
+    width: 160px;
+    height: 45px;
+    transition: 0.2s;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 700px) {
+    .Options > button {
+      width: 40%;
+    }
+  }
+
+
+.Options > button:hover {
+    background-color: rgb(133, 206, 224);
+    transition: 0.2s;
+}
+
+.flagContainer {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+}
+
+@media screen and (max-width: 600px) {
+    .flagContainer {
+      width: 90%;
+      height: 400px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .flagImg {
+      height: 400px !important;
+    }
+  }
+
+.flagImg {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
+
+.FinalScore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    margin-top: 220px;
+}
+
+.tryAgain {
+    cursor: pointer;
+    background-color: rgb(177, 233, 247);
+    border: 2px solid rgb(169, 169, 254);
+    border-radius: 10px;
+    margin: 10px;
+    width: 160px;
+    height: 40px;
+    font-size: 22px;
+    transition: 0.3s;
+}
+
+.tryAgain:hover {
+    transition: 0.3s;
+    background-color: rgb(140, 199, 255);
+    width: 180px;
+}
