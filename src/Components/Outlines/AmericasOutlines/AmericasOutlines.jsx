@@ -9,8 +9,9 @@ export default function AmericasOutlines () {
     const [ countryArrShuffled ,choices, 
         setChoices, currentOutline, setCurrentOutline, 
         loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAmericaFlags);
-  
-
+        
+      const [imageHasLoaded, setImageHasLoaded] = useState(false);
+      
     const fourChoices = [];
     fourChoices.push(currentOutline);
     const choicesWithoutCurrent = choices.filter((country) => {
@@ -25,10 +26,10 @@ export default function AmericasOutlines () {
       if (name === currentOutline.name) {
         correctAsnwers.current++;
       }
-      debugger;
       const newCurOutline = countryArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentOutline(newCurOutline);
+      setImageHasLoaded(false);
     }
   
     const ResetFunction = () => {
@@ -43,10 +44,11 @@ export default function AmericasOutlines () {
         }
         {loaded && currentOutline &&
           <>
-            <div className={styles.flagContainer}> <img className={[styles.flagImg, styles[currentOutlineName]].join(' ')} src={currentOutline.OutlineURL} alt="" /></div>
+            <div className={styles.flagContainer}> <img className={[styles.flagImg, styles[currentOutlineName]].join(' ')} src={currentOutline.OutlineURL} 
+            alt="" onLoad={() => setImageHasLoaded(true)} /></div>
             <div className={styles.Options}>
               {fourChoicesShuffled.map((oneOption => {
-                return <button key={oneOption._id[0]} onClick={() => choiceClickFunction(oneOption.name)}> {oneOption.name}</button>
+                return <button key={oneOption._id[0]} disabled={!imageHasLoaded} onClick={() => choiceClickFunction(oneOption.name)}> {oneOption.name}</button>
               }))}
   
             </div>

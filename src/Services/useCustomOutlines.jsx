@@ -12,7 +12,7 @@ export function useCustomOutlines(getOutlineFunc) {
 
     useEffect(() => {
         const getOutlines = async () => {
-          debugger;
+          // debugger;
           const outlines = await getOutlineFunc();
           const shuffling = outlines.sort(() => Math.random() - 0.5);
           const choices = [...shuffling];
