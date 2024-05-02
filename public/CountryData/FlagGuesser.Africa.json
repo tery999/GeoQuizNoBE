@@ -3,362 +3,414 @@
     "$oid": "662807f3b0f3c7c2b3eaf3fe"
   },
   "name": "Algeria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Algeria_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Algeria_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/dz-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf3ff"
   },
   "name": "Angola",
-  "flagURL": "https://www.nationsonline.org/flags_big/Angola_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Angola_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ao-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf400"
   },
   "name": "Benin",
-  "flagURL": "https://www.nationsonline.org/flags_big/Benin_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Benin_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/bj-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf401"
   },
   "name": "Botswana",
-  "flagURL": "https://www.nationsonline.org/flags_big/Botswana_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Botswana_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/bw-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf402"
   },
   "name": "Burkina Faso",
-  "flagURL": "https://www.nationsonline.org/flags_big/Burkina_Faso_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Burkina_Faso_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/bf-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf403"
   },
   "name": "Burundi",
-  "flagURL": "https://www.nationsonline.org/flags_big/Burundi_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Burundi_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/bi-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf404"
   },
   "name": "Cameroon",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cameroon_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Cameroon_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/cm-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf405"
   },
   "name": "Cape Verde",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cape_Verde_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Cape_Verde_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/cv-04.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf406"
   },
   "name": "Central African Republic",
-  "flagURL": "https://www.nationsonline.org/flags_big/Central_African_Rep_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Central_African_Rep_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcYUF0cQOW5g9oxtaosH8uBwg6wwT4bSp3SxQLnyOGw&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf407"
   },
   "name": "Chad",
-  "flagURL": "https://www.nationsonline.org/flags_big/Chad_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Chad_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxO77G0zzgSV0w0CH3RGLiJLe0L53065flNCKIYIXW3g&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf408"
   },
   "name": "Comoros",
-  "flagURL": "https://www.nationsonline.org/flags_big/Comoros_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Comoros_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/km-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf409"
   },
   "name": "D.R. Congo",
-  "flagURL": "https://www.nationsonline.org/flags_big/DRC_lgflag.jpg"
+  "flagURL": "https://www.nationsonline.org/flags_big/DRC_lgflag.jpg",
+  "OutlineURL": "https://vemaps.com/uploads/img/cd-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40a"
   },
   "name": "Congo",
-  "flagURL": "https://www.nationsonline.org/flags_big/Rep_of_the_Congo_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Rep_of_the_Congo_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/big/cg-04.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40b"
   },
   "name": "Djibouti",
-  "flagURL": "https://www.nationsonline.org/flags_big/Djibouti_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Djibouti_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/dj-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40c"
   },
   "name": "Egypt",
-  "flagURL": "https://www.nationsonline.org/flags_big/Egypt_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Egypt_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/eg-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40d"
   },
   "name": "Equatorial Guinea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Equatorial_Guinea_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Equatorial_Guinea_lgflag.gif",
+  "OutlineURL": "https://www.shutterstock.com/image-vector/equatorial-guinea-map-line-outline-260nw-1591981507.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40e"
   },
   "name": "Eritrea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Eritrea_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Eritrea_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/er-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf40f"
   },
   "name": "Ethiopia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ethiopia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Ethiopia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/et-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf410"
   },
   "name": "Gabon",
-  "flagURL": "https://www.nationsonline.org/flags_big/Gabon_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Gabon_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ga-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf411"
   },
   "name": "Eswatini",
-  "flagURL": "https://www.nationsonline.org/flags_big/Swaziland_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Swaziland_lgflag.gif",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/040/134/463/non_2x/eswatini-map-with-administrative-divisions-illustration-vector.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf412"
   },
   "name": "Gambia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Gambia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Gambia_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Ljau9Vvp-1qR498j-un21VBSXp1OspyOd3_TpwvUWhG-k8kOcX7nuMQdMux59O_NEk8&usqp=CAU"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf413"
   },
   "name": "Ghana",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ghana_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Ghana_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/474x/5f/d3/c1/5fd3c1fad6856cac05fdeeac88ac933d.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf414"
   },
   "name": "Guinea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guinea_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Guinea_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIk4uEmCCkTjM1Y9yT3DqKEfcgsDj-WazMFNM2K9EJdg&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf415"
   },
   "name": "Guinea-Bissau",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guinea-Bissau_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Guinea-Bissau_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/gw-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf416"
   },
   "name": "Kenya",
-  "flagURL": "https://www.nationsonline.org/flags_big/Kenya_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Kenya_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRzcNsBBg_sCvCEcUQ1ITfzX4L2vsit7U-GlFPNk6jQ&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf417"
   },
   "name": "Lesotho",
-  "flagURL": "https://www.nationsonline.org/flags_big/Lesotho_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Lesotho_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ls-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf418"
   },
   "name": "Liberia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Liberia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Liberia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/lr-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf419"
   },
   "name": "Libya",
-  "flagURL": "https://www.nationsonline.org/flags_big/Libya-new-lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Libya-new-lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ly-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41a"
   },
   "name": "Madagascar",
-  "flagURL": "https://www.nationsonline.org/flags_big/Madagascar_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Madagascar_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/mg-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41b"
   },
   "name": "Malawi",
-  "flagURL": "https://www.nationsonline.org/flags_big/Malawi_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Malawi_lgflag.gif",
+  "OutlineURL": "https://www.shutterstock.com/image-vector/blue-map-malawi-260nw-435090628.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41c"
   },
   "name": "Mali",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mali_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Mali_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ml-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41d"
   },
   "name": "Mauritania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mauritania_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Mauritania_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/mr-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41e"
   },
   "name": "Morocco",
-  "flagURL": "https://www.nationsonline.org/flags_big/Morocco_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Morocco_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ma-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf41f"
   },
   "name": "Mozambique",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mozambique_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Mozambique_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/mz-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf420"
   },
   "name": "Namibia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Namibia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Namibia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/na-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf421"
   },
   "name": "Niger",
-  "flagURL": "https://www.nationsonline.org/flags_big/Niger_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Niger_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ne-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf422"
   },
   "name": "Nigeria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Nigeria_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Nigeria_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ng-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf423"
   },
   "name": "Rwanda",
-  "flagURL": "https://www.nationsonline.org/flags_big/Rwanda_lgflag.jpg"
+  "flagURL": "https://www.nationsonline.org/flags_big/Rwanda_lgflag.jpg",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1NigukbAV99zWpop-4zQHkKx4apZuXQ6Fv4KX3B1lw&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf424"
   },
   "name": "São Tomé and Príncipe",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sao_Tome_Principe_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Sao_Tome_Principe_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/big/st-03.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf425"
   },
   "name": "Senegal",
-  "flagURL": "https://www.nationsonline.org/flags_big/Senegal_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Senegal_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/sn-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf426"
   },
   "name": "Seychelles",
-  "flagURL": "https://www.nationsonline.org/flags_big/Seychelles_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Seychelles_lgflag.gif",
+  "OutlineURL": "https://www.shutterstock.com/image-vector/vector-illustration-seychelles-map-260nw-1108178672.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf427"
   },
   "name": "Sierra Leone",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sierra_Leone_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Sierra_Leone_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/sl-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf428"
   },
   "name": "Somalia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Somalia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Somalia_lgflag.gif",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Somalia_regions_map.svg/543px-Somalia_regions_map.svg.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf429"
   },
   "name": "South Africa",
-  "flagURL": "https://www.nationsonline.org/flags_big/South_Africa_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/South_Africa_lgflag.gif",
+  "OutlineURL": "https://southafricamap360.com/img/1200/south%20africa-map-outlines.jpg"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42a"
   },
   "name": "South Sudan",
-  "flagURL": "https://www.nationsonline.org/flags_big/South-Sudan-lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/South-Sudan-lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ss-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42b"
   },
   "name": "Sudan",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sudan_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Sudan_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTvLT_Goa4khcMle6hhFnTc0K7wv-B8l5nUAuNU1OEQ&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42c"
   },
   "name": "Tanzania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Tanzania_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Tanzania_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIt-4Lgjg0LCNaq3X2buIOjDymT1vWTYsjW6uuyBaGWg&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42d"
   },
   "name": "Togo",
-  "flagURL": "https://www.nationsonline.org/flags_big/Togo_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Togo_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKczbnID3jDjpLJx28N6SF6zhKadYJLAfuNsWoCmww4w&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42e"
   },
   "name": "Tunisia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Tunisia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Tunisia_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/tn-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf42f"
   },
   "name": "Uganda",
-  "flagURL": "https://www.nationsonline.org/flags_big/Uganda_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Uganda_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/ug-03.png"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf430"
   },
   "name": "Zambia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Zambia_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Zambia_lgflag.gif",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8viiB7anxDy4dXEGqgXk5s62xUH7sybUHA5-PX-6OQ&s"
 },
 {
   "_id": {
     "$oid": "662807f3b0f3c7c2b3eaf431"
   },
   "name": "Zimbabwe",
-  "flagURL": "https://www.nationsonline.org/flags_big/Zimbabwe_lgflag.gif"
+  "flagURL": "https://www.nationsonline.org/flags_big/Zimbabwe_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/zw-03.png"
 }]
