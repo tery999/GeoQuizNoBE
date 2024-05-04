@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState } from 'react'
-import * as styles from "./EuropeOutlines.module.css"
+import * as styles from "./AfricaOutlines.module.css"
 import {useCustomOutlines} from "../../../Services/useCustomOutlines"
-import { getEuroFlags } from '../../../Services/Services';
+import { getAfricaFlags } from '../../../Services/Services';
 
 
 export default function AfricaOutlines () {
     //using custom hook, doesnt look pretty, need to make it better
     const [ countryArrShuffled ,choices, 
         setChoices, currentOutline, setCurrentOutline, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getEuroFlags);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAfricaFlags);
   
 
     const fourChoices = [];

@@ -12,6 +12,7 @@ import Outlines from './Components/Outlines/Outlines'
 import EuropeOutlines from './Components/Outlines/EuropeOutlines/EuropeOutlines'
 import AsiaOutlines from './Components/Outlines/AsiaOutlines/AsiaOutlines'
 import AmericasOutlines from './Components/Outlines/AmericasOutlines/AmericasOutlines'
+import AfricaOutlines from './Components/Outlines/AfricaOutlines/AfricaOutlines'
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
         <Route path="Europe" element={<EuropeOutlines />} />
         <Route path="Asia" element={<AsiaOutlines />} />
         <Route path="Americas" element={<AmericasOutlines />} />
+        <Route path="Africa" element={<AfricaOutlines />} />
       </Route>
     </Routes>
     </>
