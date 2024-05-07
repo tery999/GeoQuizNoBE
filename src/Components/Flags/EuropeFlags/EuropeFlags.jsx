@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import * as styles from "./EuropeFlags.module.css"
-import { getEuroFlags } from '../../../Services/Services';
+import { getEuropeData } from '../../../Services/Services';
 
 export default function EuropeFlags () {
   //original without custom hook
@@ -17,7 +17,7 @@ export default function EuropeFlags () {
     useEffect(() => {
       const getFlags = async () => {
         debugger;
-        const flags = await getEuroFlags();
+        const flags = await getEuropeData();
         const shuffling = flags.sort(() => Math.random() - 0.5);
         const choices = [...shuffling];
         setChoices(choices);

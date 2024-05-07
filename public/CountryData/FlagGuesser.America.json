@@ -4,7 +4,9 @@
   },
   "name": "Antigua and Barbuda",
   "flagURL": "https://www.nationsonline.org/flags_big/Antigua_and_Barbuda_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/430/230/original/doodle-freehand-drawing-of-antigua-barbuda-map-free-png.png"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/430/230/original/doodle-freehand-drawing-of-antigua-barbuda-map-free-png.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -12,7 +14,9 @@
   },
   "name": "Argentina",
   "flagURL": "https://www.nationsonline.org/flags_big/Argentina_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/ar-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/ar-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -20,7 +24,9 @@
   },
   "name": "Bahamas",
   "flagURL": "https://www.nationsonline.org/flags_big/Bahamas_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bs-02.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bs-02.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -28,7 +34,9 @@
   },
   "name": "Barbados",
   "flagURL": "https://www.nationsonline.org/flags_big/Barbados_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bb-02.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bb-02.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -36,7 +44,9 @@
   },
   "name": "Belize",
   "flagURL": "https://www.nationsonline.org/flags_big/Belize_lgflag.gif",
-  "OutlineURL": "https://www.worldatlas.com/r/w768/webimage/countrys/namerica/camerica/outline/bzoutl.gif"
+  "OutlineURL": "https://www.worldatlas.com/r/w768/webimage/countrys/namerica/camerica/outline/bzoutl.gif",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -44,7 +54,9 @@
   },
   "name": "Bolivia",
   "flagURL": "https://www.nationsonline.org/flags_big/Bolivia_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxc75Xk2oCosC2BRV7VEVJTzy4JMjkcwTFTANLphfICw&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxc75Xk2oCosC2BRV7VEVJTzy4JMjkcwTFTANLphfICw&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -52,7 +64,9 @@
   },
   "name": "Brazil",
   "flagURL": "https://www.nationsonline.org/flags_big/Brazil_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/494/747/original/black-colored-brazil-outline-map-political-brazilian-map-illustration-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/494/747/original/black-colored-brazil-outline-map-political-brazilian-map-illustration-vector.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -60,7 +74,9 @@
   },
   "name": "Canada",
   "flagURL": "https://www.nationsonline.org/flags_big/Canada_lgflag.gif",
-  "OutlineURL": "https://www.shutterstock.com/image-vector/high-detailed-vector-map-canada-600nw-151004411.jpg"
+  "OutlineURL": "https://www.shutterstock.com/image-vector/high-detailed-vector-map-canada-600nw-151004411.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -68,7 +84,9 @@
   },
   "name": "Chile",
   "flagURL": "https://www.nationsonline.org/flags_big/Chile_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863318/vector/chile-country-map.jpg?s=612x612&w=0&k=20&c=iHZrlLWiKKlfjeTD6jqNYZGJOFITqnI22Ne2n70a2kA="
+  "OutlineURL": "https://media.istockphoto.com/id/470863318/vector/chile-country-map.jpg?s=612x612&w=0&k=20&c=iHZrlLWiKKlfjeTD6jqNYZGJOFITqnI22Ne2n70a2kA=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -76,7 +94,9 @@
   },
   "name": "Colombia",
   "flagURL": "https://www.nationsonline.org/flags_big/Colombia_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobxHm1oiKumI9djuECTrtEAy1KgKthmMlznEC_xi9Gg&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobxHm1oiKumI9djuECTrtEAy1KgKthmMlznEC_xi9Gg&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -84,7 +104,9 @@
   },
   "name": "Costa Rica",
   "flagURL": "https://www.nationsonline.org/flags_big/Costa_Rica_lgflag.gif",
-  "OutlineURL": "https://t3.ftcdn.net/jpg/01/10/06/50/360_F_110065035_1MLTDfkfIG58yNL3pvEytX0tT4SXLcRD.jpg"
+  "OutlineURL": "https://t3.ftcdn.net/jpg/01/10/06/50/360_F_110065035_1MLTDfkfIG58yNL3pvEytX0tT4SXLcRD.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -92,7 +114,9 @@
   },
   "name": "Cuba",
   "flagURL": "https://www.nationsonline.org/flags_big/Cuba_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1-dMkKoV6IPw736WnR4-uJMbMkModKhF_sLQrCFdFw&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1-dMkKoV6IPw736WnR4-uJMbMkModKhF_sLQrCFdFw&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -100,7 +124,9 @@
   },
   "name": "Dominica",
   "flagURL": "https://www.nationsonline.org/flags_big/Dominica_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/909550968/vector/black-silhouette-country-borders-map-of-dominica-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ovF1EXOS4zOEBczzkkgcXBd52xgcQyDp_ACg6eT2MGo="
+  "OutlineURL": "https://media.istockphoto.com/id/909550968/vector/black-silhouette-country-borders-map-of-dominica-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ovF1EXOS4zOEBczzkkgcXBd52xgcQyDp_ACg6eT2MGo=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -108,7 +134,9 @@
   },
   "name": "Dominican Republic",
   "flagURL": "https://www.nationsonline.org/flags_big/Dominican_Republic_lgflag.gif",
-  "OutlineURL": "https://t4.ftcdn.net/jpg/00/05/07/01/360_F_5070139_mxnSkb5Wh3ZiscLsbaB6m7uYcpCWq5fT.jpg"
+  "OutlineURL": "https://t4.ftcdn.net/jpg/00/05/07/01/360_F_5070139_mxnSkb5Wh3ZiscLsbaB6m7uYcpCWq5fT.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -116,7 +144,9 @@
   },
   "name": "Ecuador",
   "flagURL": "https://www.nationsonline.org/flags_big/Ecuador_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863336/vector/ecuador-country-map.jpg?s=612x612&w=0&k=20&c=Xcl88grI0f2yQz8Zx74Uwce_hbFcY7N2NYS1wrzvRDA="
+  "OutlineURL": "https://media.istockphoto.com/id/470863336/vector/ecuador-country-map.jpg?s=612x612&w=0&k=20&c=Xcl88grI0f2yQz8Zx74Uwce_hbFcY7N2NYS1wrzvRDA=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -124,7 +154,9 @@
   },
   "name": "El Salvador",
   "flagURL": "https://www.nationsonline.org/flags_big/El_Salvador_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/776/original/outline-simple-map-of-el-salvador-free-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/776/original/outline-simple-map-of-el-salvador-free-vector.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -132,7 +164,9 @@
   },
   "name": "Grenada",
   "flagURL": "https://www.nationsonline.org/flags_big/Grenada_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Grenada_parishes_blank.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Grenada_parishes_blank.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -140,7 +174,9 @@
   },
   "name": "Guatemala",
   "flagURL": "https://www.nationsonline.org/flags_big/Guatemala_lgflag.gif",
-  "OutlineURL": "https://t4.ftcdn.net/jpg/01/06/51/07/360_F_106510756_iB7kwt4LZZ9bymOWwRQYgcoLQ3qPpq3O.jpg"
+  "OutlineURL": "https://t4.ftcdn.net/jpg/01/06/51/07/360_F_106510756_iB7kwt4LZZ9bymOWwRQYgcoLQ3qPpq3O.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -148,7 +184,9 @@
   },
   "name": "Guyana",
   "flagURL": "https://www.nationsonline.org/flags_big/Guyana_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/798/non_2x/outline-simple-map-of-guyana-free-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/798/non_2x/outline-simple-map-of-guyana-free-vector.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -156,7 +194,9 @@
   },
   "name": "Haiti",
   "flagURL": "https://www.nationsonline.org/flags_big/Haiti_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWkmu-sMpnKDo11eixhm7FeNAvkQFhDNuD3t-kySlhg&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWkmu-sMpnKDo11eixhm7FeNAvkQFhDNuD3t-kySlhg&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -164,7 +204,9 @@
   },
   "name": "Honduras",
   "flagURL": "https://www.nationsonline.org/flags_big/Honduras_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBxv8P1oC7wLR8a8jFHvd2JLrvvKVhiZluVvUjoDdSdg&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBxv8P1oC7wLR8a8jFHvd2JLrvvKVhiZluVvUjoDdSdg&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -172,7 +214,9 @@
   },
   "name": "Jamaica",
   "flagURL": "https://www.nationsonline.org/flags_big/Jamaica_lgflag.gif",
-  "OutlineURL": "https://cdn.vectorstock.com/i/500p/62/98/jamaica-island-map-silhouette-vector-41356298.jpg"
+  "OutlineURL": "https://cdn.vectorstock.com/i/500p/62/98/jamaica-island-map-silhouette-vector-41356298.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -180,7 +224,9 @@
   },
   "name": "Mexico",
   "flagURL": "https://www.nationsonline.org/flags_big/Mexico_lgflag.gif",
-  "OutlineURL": "https://i.etsystatic.com/16634666/r/il/cc2990/2112239331/il_570xN.2112239331_jlr4.jpg"
+  "OutlineURL": "https://i.etsystatic.com/16634666/r/il/cc2990/2112239331/il_570xN.2112239331_jlr4.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -188,7 +234,9 @@
   },
   "name": "Nicaragua",
   "flagURL": "https://www.nationsonline.org/flags_big/Nicaragua_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVNkxz16iwF2O9HsTxM8GHyRBpWEh3TOP9ES2LLSAJw&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVNkxz16iwF2O9HsTxM8GHyRBpWEh3TOP9ES2LLSAJw&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -196,7 +244,9 @@
   },
   "name": "Panama",
   "flagURL": "https://www.nationsonline.org/flags_big/Panama_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Panama%28outline%29.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Panama%28outline%29.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -204,7 +254,9 @@
   },
   "name": "Paraguay",
   "flagURL": "https://www.nationsonline.org/flags_big/Paraguay_lgflag.gif",
-  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Paraguay-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435083-1610338042/original-6435083-3.jpg"
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Paraguay-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435083-1610338042/original-6435083-3.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -212,7 +264,9 @@
   },
   "name": "Peru",
   "flagURL": "https://www.nationsonline.org/flags_big/Peru_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470870854/vector/peru-country-map.jpg?s=612x612&w=0&k=20&c=vJAZuz6To42znPGk-EjHzRDqUEPmOu4_gwtnSYm4waA="
+  "OutlineURL": "https://media.istockphoto.com/id/470870854/vector/peru-country-map.jpg?s=612x612&w=0&k=20&c=vJAZuz6To42znPGk-EjHzRDqUEPmOu4_gwtnSYm4waA=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -220,7 +274,9 @@
   },
   "name": "Puerto Rico",
   "flagURL": "https://www.nationsonline.org/flags_big/Puerto_Rico_lgflag.gif",
-  "OutlineURL": "https://t3.ftcdn.net/jpg/01/04/36/26/360_F_104362699_ti81s2m34Pqaglv59Lc6dpolbgJAfuaP.jpg"
+  "OutlineURL": "https://t3.ftcdn.net/jpg/01/04/36/26/360_F_104362699_ti81s2m34Pqaglv59Lc6dpolbgJAfuaP.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -228,7 +284,9 @@
   },
   "name": "St. Kitts and Nevis",
   "flagURL": "https://www.nationsonline.org/flags_big/Saint_Kitts_Nevis_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Saint_Kitts_and_Nevis_blank.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Saint_Kitts_and_Nevis_blank.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -236,7 +294,9 @@
   },
   "name": "Saint Lucia",
   "flagURL": "https://www.nationsonline.org/flags_big/Saint_Lucia_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/1129593717/vector/vector-isolated-illustration-icon-with-black-silhouette-of-simplified-map-of-saint-lucia.jpg?s=612x612&w=0&k=20&c=t0onX49zTwD_uOcn8Q2YgMtVTpPvfVhzgwkuWr4NkMU="
+  "OutlineURL": "https://media.istockphoto.com/id/1129593717/vector/vector-isolated-illustration-icon-with-black-silhouette-of-simplified-map-of-saint-lucia.jpg?s=612x612&w=0&k=20&c=t0onX49zTwD_uOcn8Q2YgMtVTpPvfVhzgwkuWr4NkMU=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -244,7 +304,9 @@
   },
   "name": "St. Vincent and the Grenadines",
   "flagURL": "https://www.nationsonline.org/flags_big/Saint_Vincent_Grenad_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/vc-02.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/vc-02.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -252,7 +314,9 @@
   },
   "name": "Suriname",
   "flagURL": "https://www.nationsonline.org/flags_big/Suriname_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn4Z_WmfpZL_EWOQuhj25V8ZqIAv4hTEHe2TPWgagbg&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn4Z_WmfpZL_EWOQuhj25V8ZqIAv4hTEHe2TPWgagbg&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -260,7 +324,9 @@
   },
   "name": "Trinidad and Tobago",
   "flagURL": "https://www.nationsonline.org/flags_big/Trinidad_and_Tobago_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/tt-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/tt-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -268,7 +334,9 @@
   },
   "name": "United States",
   "flagURL": "https://www.nationsonline.org/flags_big/United_States_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTni-4mbY2BKdhk9K71HwlsM9OOZoyiT3QytC8_gEDT7Q&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTni-4mbY2BKdhk9K71HwlsM9OOZoyiT3QytC8_gEDT7Q&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -276,7 +344,9 @@
   },
   "name": "Uruguay",
   "flagURL": "https://www.nationsonline.org/flags_big/Uruguay_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqnuzyGk1mK_yZ8KFCVbrle5hoZdfxPU873aOdQ92PA&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqnuzyGk1mK_yZ8KFCVbrle5hoZdfxPU873aOdQ92PA&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -284,5 +354,7 @@
   },
   "name": "Venezuela",
   "flagURL": "https://www.nationsonline.org/flags_big/Venezuela_new_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/ve-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/ve-03.png",
+  "Capital": "",
+  "Plus": false
 }]

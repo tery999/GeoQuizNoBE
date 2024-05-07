@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-import { getEuroFlags } from "./Services";
 
 export function useCustomFlags(getFlagFunc) {
     const [flagsArrShuffled, setFlagsArrShuffled] = useState([]);

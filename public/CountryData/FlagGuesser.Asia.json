@@ -4,7 +4,9 @@
   },
   "name": "Afghanistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Afghanistan_New_Flag.jpg",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Map_of_Afghanistan%2C_outline.svg/2560px-Map_of_Afghanistan%2C_outline.svg.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Map_of_Afghanistan%2C_outline.svg/2560px-Map_of_Afghanistan%2C_outline.svg.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -12,7 +14,9 @@
   },
   "name": "Armenia",
   "flagURL": "https://www.nationsonline.org/flags_big/Armenia_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/77/51/d6/7751d617e57809ba04022f4eb653cc73.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/77/51/d6/7751d617e57809ba04022f4eb653cc73.gif",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -20,7 +24,9 @@
   },
   "name": "Azerbaijan",
   "flagURL": "https://www.nationsonline.org/flags_big/Azerbaijan_lgflag.gif",
-  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg"
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -28,7 +34,9 @@
   },
   "name": "Bahrain",
   "flagURL": "https://www.nationsonline.org/flags_big/Bahrain_lgflag.gif",
-  "OutlineURL": "https://t3.ftcdn.net/jpg/03/02/69/14/360_F_302691439_CZ3ksDMVlGwYI3ylxPI2i2K6P7X1WCGZ.jpg"
+  "OutlineURL": "https://t3.ftcdn.net/jpg/03/02/69/14/360_F_302691439_CZ3ksDMVlGwYI3ylxPI2i2K6P7X1WCGZ.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -36,7 +44,9 @@
   },
   "name": "Bangladesh",
   "flagURL": "https://www.nationsonline.org/flags_big/Bangladesh_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bd-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bd-01.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -44,7 +54,9 @@
   },
   "name": "Bhutan",
   "flagURL": "https://www.nationsonline.org/flags_big/Bhutan_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bt-02.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bt-02.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -52,7 +64,9 @@
   },
   "name": "Brunei",
   "flagURL": "https://www.nationsonline.org/flags_big/Brunei_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bn-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bn-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -60,7 +74,9 @@
   },
   "name": "Cambodia",
   "flagURL": "https://www.nationsonline.org/flags_big/Cambodia_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/ff/6b/28/ff6b2834725155e4b7f0e550a3784f93.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/ff/6b/28/ff6b2834725155e4b7f0e550a3784f93.gif",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -68,7 +84,9 @@
   },
   "name": "China",
   "flagURL": "https://www.nationsonline.org/flags_big/China_lgflag.gif",
-  "OutlineURL": "https://www.shutterstock.com/image-vector/freehand-china-map-sketch-on-600nw-313355906.jpg"
+  "OutlineURL": "https://www.shutterstock.com/image-vector/freehand-china-map-sketch-on-600nw-313355906.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -76,7 +94,9 @@
   },
   "name": "Georgia",
   "flagURL": "https://www.nationsonline.org/flags_big/Georgia_lgflag.gif",
-  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/pytyczech/pytyczech1901/pytyczech190100748.jpg"
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/pytyczech/pytyczech1901/pytyczech190100748.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -84,7 +104,9 @@
   },
   "name": "India",
   "flagURL": "https://www.nationsonline.org/flags_big/India_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863648/vector/india-country-map.jpg?s=612x612&w=0&k=20&c=0E5DKB51c0E3AKk_8pPTWZhBHbi1O2pocYNxlEE-sfc="
+  "OutlineURL": "https://media.istockphoto.com/id/470863648/vector/india-country-map.jpg?s=612x612&w=0&k=20&c=0E5DKB51c0E3AKk_8pPTWZhBHbi1O2pocYNxlEE-sfc=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -92,7 +114,9 @@
   },
   "name": "Indonesia",
   "flagURL": "https://www.nationsonline.org/flags_big/Indonesia_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/id-02.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/id-02.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -100,7 +124,9 @@
   },
   "name": "Iran",
   "flagURL": "https://www.nationsonline.org/flags_big/Iran_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/933502048/vector/map-of-iran.jpg?s=612x612&w=0&k=20&c=RrvKkW0vAv4JjS-Tf6MAbl4lfaJI5aewooXop1c6EUc="
+  "OutlineURL": "https://media.istockphoto.com/id/933502048/vector/map-of-iran.jpg?s=612x612&w=0&k=20&c=RrvKkW0vAv4JjS-Tf6MAbl4lfaJI5aewooXop1c6EUc=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -108,7 +134,9 @@
   },
   "name": "Iraq",
   "flagURL": "https://www.nationsonline.org/flags_big/Iraq_lgflag.gif",
-  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Iraq-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424439-1610077379/original-6424439-3.jpg"
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Iraq-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424439-1610077379/original-6424439-3.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -116,7 +144,9 @@
   },
   "name": "Israel",
   "flagURL": "https://www.nationsonline.org/flags_big/Israel_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/il-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/il-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -124,7 +154,9 @@
   },
   "name": "Japan",
   "flagURL": "https://www.nationsonline.org/flags_big/Japan_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/898679300/vector/black-silhouette-country-borders-map-of-japan-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZBIrtcuJk3nL4MmRibtN41gw2hcQ4OBoppFDEO8VW1k="
+  "OutlineURL": "https://media.istockphoto.com/id/898679300/vector/black-silhouette-country-borders-map-of-japan-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZBIrtcuJk3nL4MmRibtN41gw2hcQ4OBoppFDEO8VW1k=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -132,7 +164,9 @@
   },
   "name": "Jordan",
   "flagURL": "https://www.nationsonline.org/flags_big/Jordan_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/jo-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/jo-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -140,7 +174,9 @@
   },
   "name": "Kazakhstan",
   "flagURL": "https://www.nationsonline.org/flags_big/Kazakhstan_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/b5/e9/38/b5e938f945f3fa46c8816e3369eb9744.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/b5/e9/38/b5e938f945f3fa46c8816e3369eb9744.gif",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -148,7 +184,9 @@
   },
   "name": "North Korea",
   "flagURL": "https://www.nationsonline.org/flags_big/Korea-North_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/kp-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/kp-01.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -156,7 +194,9 @@
   },
   "name": "South Korea",
   "flagURL": "https://www.nationsonline.org/flags_big/Korea-South_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/564x/89/b8/77/89b87797a01b09988874e15741689931.jpg"
+  "OutlineURL": "https://i.pinimg.com/564x/89/b8/77/89b87797a01b09988874e15741689931.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -164,7 +204,9 @@
   },
   "name": "Kuwait",
   "flagURL": "https://www.nationsonline.org/flags_big/Kuwait_lgflag.gif",
-  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Kuwait-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424467-1610078329/original-6424467-3.jpg"
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Kuwait-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424467-1610078329/original-6424467-3.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -172,7 +214,9 @@
   },
   "name": "Kyrgyztan",
   "flagURL": "https://www.nationsonline.org/flags_big/Kyrgyzstan_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/1306508565/vector/vector-illustration-of-the-black-map-of-kyrgyzstan-on-white-background.jpg?s=612x612&w=0&k=20&c=DYg8TxCjlG42f9OWePMo2vLP6vryCWs4w5_20j6oQko="
+  "OutlineURL": "https://media.istockphoto.com/id/1306508565/vector/vector-illustration-of-the-black-map-of-kyrgyzstan-on-white-background.jpg?s=612x612&w=0&k=20&c=DYg8TxCjlG42f9OWePMo2vLP6vryCWs4w5_20j6oQko=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -180,7 +224,9 @@
   },
   "name": "Laos",
   "flagURL": "https://www.nationsonline.org/flags_big/Laos_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/la-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/la-01.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -188,7 +234,9 @@
   },
   "name": "Lebanon",
   "flagURL": "https://www.nationsonline.org/flags_big/Lebanon_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRpdhFBwSr_ZBokw7DyvlHE1Yd-5sOYSDB_qxrjDs-w&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRpdhFBwSr_ZBokw7DyvlHE1Yd-5sOYSDB_qxrjDs-w&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -196,7 +244,9 @@
   },
   "name": "Malaysia",
   "flagURL": "https://www.nationsonline.org/flags_big/Malaysia_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/564x/cb/4f/00/cb4f00e3c51c73157c1343ec77349183.jpg"
+  "OutlineURL": "https://i.pinimg.com/564x/cb/4f/00/cb4f00e3c51c73157c1343ec77349183.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -204,7 +254,9 @@
   },
   "name": "Maldives",
   "flagURL": "https://www.nationsonline.org/flags_big/Maldives_lgflag.gif",
-  "OutlineURL": "https://t3.ftcdn.net/jpg/02/26/54/70/360_F_226547051_IgWWFzaweeZRseM0ItMtcWcpFPW2e7an.jpg"
+  "OutlineURL": "https://t3.ftcdn.net/jpg/02/26/54/70/360_F_226547051_IgWWFzaweeZRseM0ItMtcWcpFPW2e7an.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -212,7 +264,9 @@
   },
   "name": "Mongolia",
   "flagURL": "https://www.nationsonline.org/flags_big/Mongolia_lgflag.gif",
-  "OutlineURL": "https://cdn.vectorstock.com/i/500p/56/06/mongolia-map-vector-43615606.jpg"
+  "OutlineURL": "https://cdn.vectorstock.com/i/500p/56/06/mongolia-map-vector-43615606.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -220,7 +274,9 @@
   },
   "name": "Myanmar",
   "flagURL": "https://www.nationsonline.org/flags_big/Myanmar_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470870778/vector/burma-country-map.jpg?s=612x612&w=0&k=20&c=ur8PmC6oa_SHOUZvxrMoCudgpU5NvsUJEcRmWHBJgWU="
+  "OutlineURL": "https://media.istockphoto.com/id/470870778/vector/burma-country-map.jpg?s=612x612&w=0&k=20&c=ur8PmC6oa_SHOUZvxrMoCudgpU5NvsUJEcRmWHBJgWU=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -228,7 +284,9 @@
   },
   "name": "Nepal",
   "flagURL": "https://www.nationsonline.org/flags_big/Nepal_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/np-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/np-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -236,7 +294,9 @@
   },
   "name": "Oman",
   "flagURL": "https://www.nationsonline.org/flags_big/Oman_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95hmTUwnfoDou1tn2vzYQY7eIzfG6KrPOFdmMpfVYXA&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95hmTUwnfoDou1tn2vzYQY7eIzfG6KrPOFdmMpfVYXA&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -244,7 +304,9 @@
   },
   "name": "Pakistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Pakistan_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vQoYaXlTkEh3AM_nnM_tHxRM3pCmH3m-60n7-_-QEA&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vQoYaXlTkEh3AM_nnM_tHxRM3pCmH3m-60n7-_-QEA&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -252,7 +314,9 @@
   },
   "name": "Palestine",
   "flagURL": "https://www.nationsonline.org/flags_big/Palestine_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg/800px-Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg/800px-Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -260,7 +324,9 @@
   },
   "name": "Philippines",
   "flagURL": "https://www.nationsonline.org/flags_big/Philippines_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470870866/vector/phillipines-country-map.jpg?s=612x612&w=0&k=20&c=V4McdKt8va8F4SEF5AThepwBNu22Qf2W78pLjeULb3U="
+  "OutlineURL": "https://media.istockphoto.com/id/470870866/vector/phillipines-country-map.jpg?s=612x612&w=0&k=20&c=V4McdKt8va8F4SEF5AThepwBNu22Qf2W78pLjeULb3U=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -268,7 +334,9 @@
   },
   "name": "Qatar",
   "flagURL": "https://www.nationsonline.org/flags_big/Qatar_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTBKXDQEJQaFKPIrbCukDho0ix0-NcUOSLXcm1-z1vw&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTBKXDQEJQaFKPIrbCukDho0ix0-NcUOSLXcm1-z1vw&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -276,7 +344,9 @@
   },
   "name": "Saudi Arabia",
   "flagURL": "https://www.nationsonline.org/flags_big/Saudi_Arabia_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/sa-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/sa-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -284,7 +354,9 @@
   },
   "name": "Singapore",
   "flagURL": "https://www.nationsonline.org/flags_big/Singapore_lgflag.gif",
-  "OutlineURL": "https://fvmstatic.s3.amazonaws.com/maps/m/SG-EPS-01-0001.png"
+  "OutlineURL": "https://fvmstatic.s3.amazonaws.com/maps/m/SG-EPS-01-0001.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -292,7 +364,9 @@
   },
   "name": "Sri Lanka",
   "flagURL": "https://www.nationsonline.org/flags_big/Sri_Lanka_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0aYjIT2vKNeiiIW2fdr9GnC20q6hng58qktnWyl34w&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0aYjIT2vKNeiiIW2fdr9GnC20q6hng58qktnWyl34w&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -300,7 +374,9 @@
   },
   "name": "Syria",
   "flagURL": "https://www.nationsonline.org/flags_big/Syria_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvc-QeJaqEy5TYxGMjJsbcqw07EQWXDQEZng48Nr5Muw&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvc-QeJaqEy5TYxGMjJsbcqw07EQWXDQEZng48Nr5Muw&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -308,7 +384,9 @@
   },
   "name": "Taiwan",
   "flagURL": "https://www.nationsonline.org/flags_big/Taiwan_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/tw-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/tw-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -316,7 +394,9 @@
   },
   "name": "Tajikistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Tajikistan_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/tj-04.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/tj-04.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -324,7 +404,9 @@
   },
   "name": "Thailand",
   "flagURL": "https://www.nationsonline.org/flags_big/Thailand_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/736x/df/53/72/df53720c1cdebfab466bfcb42be6a4c7.jpg"
+  "OutlineURL": "https://i.pinimg.com/736x/df/53/72/df53720c1cdebfab466bfcb42be6a4c7.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -332,7 +414,9 @@
   },
   "name": "Turkey",
   "flagURL": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU="
+  "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -340,7 +424,9 @@
   },
   "name": "Turkmenistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Turkmenistan_lgflag.gif",
-  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Turkmenistan-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435334-1610350413/original-6435334-2.jpg"
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Turkmenistan-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435334-1610350413/original-6435334-2.jpg",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -348,7 +434,9 @@
   },
   "name": "United Arab Emirates",
   "flagURL": "https://www.nationsonline.org/flags_big/United_Arab_Emirates_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/ae-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/ae-03.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -356,7 +444,9 @@
   },
   "name": "Uzbekistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Uzbekistan_lgflag.gif",
-  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTPafKcsZiC7nWdycOk444S_XFn6rHuZAQppUDDZqlQ&s"
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTPafKcsZiC7nWdycOk444S_XFn6rHuZAQppUDDZqlQ&s",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -364,7 +454,9 @@
   },
   "name": "Vietnam",
   "flagURL": "https://www.nationsonline.org/flags_big/Vietnam_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863218/vector/vietnam-country-map.jpg?s=612x612&w=0&k=20&c=_E9zetLPcQ5bEUgidwv0T37ru-BQoRfZAuPOmVfzbS0="
+  "OutlineURL": "https://media.istockphoto.com/id/470863218/vector/vietnam-country-map.jpg?s=612x612&w=0&k=20&c=_E9zetLPcQ5bEUgidwv0T37ru-BQoRfZAuPOmVfzbS0=",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -372,5 +464,7 @@
   },
   "name": "Yemen",
   "flagURL": "https://www.nationsonline.org/flags_big/Yemen_lgflag.gif",
-  "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/35/40/yemen-country-mapborder-grey-color-vector-25623540.jpg"
+  "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/35/40/yemen-country-mapborder-grey-color-vector-25623540.jpg",
+  "Capital": "",
+  "Plus": false
 }]

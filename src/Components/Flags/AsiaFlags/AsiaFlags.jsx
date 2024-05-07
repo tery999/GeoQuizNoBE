@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState } from 'react'
 import * as styles from "./AsiaFlags.module.css"
 import { useCustomFlags } from '../../../Services/useCustomFlags';
-import { getAsiaFlags } from '../../../Services/Services';
+import { getAsiaData } from '../../../Services/Services';
 
 
 export default function AsiaFlags () {
     //using custom hook, doesnt look pretty, need to make it better
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAsiaFlags);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAsiaData);
   
 
     const fourChoices = [];

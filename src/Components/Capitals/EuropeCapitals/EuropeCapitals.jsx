@@ -1,20 +1,18 @@
 import { useEffect, useRef, useState } from 'react'
-import * as styles from "./AmericaFlags.module.css"
-import { useCustomFlags } from '../../../Services/useCustomFlags';
-import { getAmericaData } from '../../../Services/Services';
+import * as styles from "./EuropeCapitals.module.css"
+import { useCustomCapitals } from '../../../Services/useCustomCapitals';
+import { getEuropeData } from '../../../Services/Services';
 
 
-export default function AmericaFlags () {
+export default function EuropeCapitals () {
     //using custom hook, doesnt look pretty, need to make it better
-    const [ flagsArrShuffled ,choices, 
-        setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAmericaData);
+    const [ countryArrShuffled, choices, setChoices, currentCapital, setCurrentCapital, loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomCapitals(getEuropeData);
   
 
     const fourChoices = [];
-    fourChoices.push(currentFlag);
+    fourChoices.push(currentCapital);
     const choicesWithoutCurrent = choices.filter((flagObj) => {
-      return flagObj?.name !== currentFlag?.name;
+      return flagObj?.name !== currentCapital?.name;
     })
     const choicesWithoutCurrentShuffled = choicesWithoutCurrent.sort(() => Math.random() - 0.5);
     const threeLeft = choicesWithoutCurrentShuffled.slice(0, 3);
@@ -22,28 +20,30 @@ export default function AmericaFlags () {
     const fourChoicesShuffled = fourChoices.sort(() => Math.random() - 0.5);
   
     const choiceClickFunction = (name) => {
-      if (name === currentFlag.name) {
+      if (name === currentCapital.name) {
         correctAsnwers.current++;
       }
       debugger;
-      const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
+      const newCurCap = countryArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
-      setCurrentFlag(newCurFlag);
+      setCurrentCapital(newCurCap);
     }
   
     const ResetFunction = () => {
       window.location.reload();
     }
-  
-    const currentFlagImage = currentFlag?.name;
+    debugger;
+    const currentCapitalName = currentCapital?.name;
     return (
       <div className={styles.container}>
         {currentTurn.current <= totalAnswers.current &&
           <div> {currentTurn.current}/{totalAnswers.current}</div>
         }
-        {loaded && currentFlag &&
+        {loaded && currentCapitalName &&
           <>
-            <div className={styles.flagContainer}> <img className={[styles.flagImg, styles[currentFlagImage]].join(' ')} src={currentFlag.flagURL} alt="" /></div>
+           <div>
+            {currentCapital.Capital}
+           </div>
             <div className={styles.Options}>
               {fourChoicesShuffled.map((oneOption => {
                 return <button key={oneOption._id[0]} onClick={() => choiceClickFunction(oneOption.name)}> {oneOption.name}</button>
@@ -52,14 +52,14 @@ export default function AmericaFlags () {
             </div>
           </>
         }
-        {!currentFlag && correctAsnwers.current !== totalAnswers.current &&
+        {!currentCapitalName && correctAsnwers.current !== totalAnswers.current &&
           <div className={styles.FinalScore}>Your score is {correctAsnwers.current} out of {totalAnswers.current}</div>
         }
-        {!currentFlag && correctAsnwers.current === totalAnswers.current &&
+        {!currentCapitalName && correctAsnwers.current === totalAnswers.current &&
           <div className={styles.FinalScore}>Perfect score</div>
         }
   
-        {!currentFlag &&
+        {!currentCapitalName &&
           <button className={styles.tryAgain} onClick={ResetFunction}> Try again </button>
         }
       </div>

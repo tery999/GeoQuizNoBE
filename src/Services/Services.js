@@ -1,5 +1,5 @@
 //Getting countries proper
-export const getEuroFlags = async () => {
+export const getEuropeData = async () => {
 
     const localRoute = '/CountryData/FlagGuesser.Flags.json';
     const response = await fetch(localRoute, {
@@ -16,7 +16,7 @@ export const getEuroFlags = async () => {
     return flagsProper;
 }
 
-export const getAsiaFlags = async () => {
+export const getAsiaData = async () => {
   const localRoute = '/CountryData/FlagGuesser.Asia.json';
   const response = await fetch(localRoute, {
       headers : { 
@@ -31,7 +31,7 @@ export const getAsiaFlags = async () => {
   return flagsProper;
 }
 
-export const getAmericaFlags = async () => {
+export const getAmericaData = async () => {
   const localRoute = '/CountryData/FlagGuesser.America.json';
   const response = await fetch(localRoute, {
       headers : { 
@@ -46,7 +46,7 @@ export const getAmericaFlags = async () => {
   return flagsProper;
 }
 
-export const getAfricaFlags = async () => {
+export const getAfricaData = async () => {
   const localRoute = '/CountryData/FlagGuesser.Africa.json';
   const response = await fetch(localRoute, {
       headers : { 

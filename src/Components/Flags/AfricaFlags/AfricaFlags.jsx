@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState } from 'react'
 import * as styles from "./AfricaFlags.module.css"
 import { useCustomFlags } from '../../../Services/useCustomFlags';
-import { getAfricaFlags } from '../../../Services/Services';
+import { getAfricaData } from '../../../Services/Services';
 
 
 export default function AfricaFlags () {
     //using custom hook, doesnt look pretty, need to make it better
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAfricaFlags);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAfricaData);
   
 
     const fourChoices = [];
