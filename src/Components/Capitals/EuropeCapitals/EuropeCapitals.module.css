@@ -95,3 +95,18 @@
     background-color: rgb(140, 199, 255);
     width: 180px;
 }
+
+.capitalNameDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  margin-top: 10px;
+  min-width: 200px;
+  height: 120px;
+  border: 2px solid lightskyblue;
+  background-color: rgb(220, 230, 245);
+  border-radius: 15px;
+font-size: 35px;
+font-weight: bold;
+}

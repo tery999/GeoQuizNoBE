@@ -41,7 +41,7 @@ export default function EuropeCapitals () {
         }
         {loaded && currentCapitalName &&
           <>
-           <div>
+           <div className={styles.capitalNameDiv}>
             {currentCapital.Capital}
            </div>
             <div className={styles.Options}>
