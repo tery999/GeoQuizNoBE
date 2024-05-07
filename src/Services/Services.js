@@ -1,3 +1,4 @@
+//Getting countries proper
 export const getEuroFlags = async () => {
 
     const localRoute = '/CountryData/FlagGuesser.Flags.json';
@@ -7,8 +8,12 @@ export const getEuroFlags = async () => {
           'Accept': 'application/json'
          }
        });
+       debugger;
     const allFlags = await response.json();
-    return allFlags;
+    const flagsProper = allFlags.filter( (country)=> {
+      return country.Plus === false
+    })
+    return flagsProper;
 }
 
 export const getAsiaFlags = async () => {
@@ -20,7 +25,10 @@ export const getAsiaFlags = async () => {
        }
      });
   const allFlags = await response.json();
-  return allFlags;
+  const flagsProper = allFlags.filter( (country)=> {
+    return country.Plus === false
+  })
+  return flagsProper;
 }
 
 export const getAmericaFlags = async () => {
@@ -32,7 +40,10 @@ export const getAmericaFlags = async () => {
        }
      });
   const allFlags = await response.json();
-  return allFlags;
+  const flagsProper = allFlags.filter( (country)=> {
+    return country.Plus === false
+  })
+  return flagsProper;
 }
 
 export const getAfricaFlags = async () => {
@@ -44,5 +55,11 @@ export const getAfricaFlags = async () => {
        }
      });
   const allFlags = await response.json();
-  return allFlags;
+  const flagsProper = allFlags.filter( (country)=> {
+    return country.Plus === false
+  })
+  return flagsProper;
 }
+
+//getting countries PLUS
+// unrecognised, partially recognised, defacto countries, famous autonomies

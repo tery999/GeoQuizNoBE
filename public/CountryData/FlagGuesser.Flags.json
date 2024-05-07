@@ -4,7 +4,9 @@
   },
   "name": "Albania",
   "flagURL": "https://www.nationalflags.shop/WebRoot/vilkasfi01/Shops/2014080403/53E6/2F4A/9366/B9BF/AD6C/0A28/100B/043B/Flag_of_Albania.png",
-  "OutlineURL": "https://e7.pngegg.com/pngimages/641/660/png-clipart-national-road-3-albania-kosovo-highway-road-highway-transport.png"
+  "OutlineURL": "https://e7.pngegg.com/pngimages/641/660/png-clipart-national-road-3-albania-kosovo-highway-road-highway-transport.png",
+  "Capital": "Tirana",
+  "Plus": false
 },
 {
   "_id": {
@@ -12,7 +14,19 @@
   },
   "name": "Andora",
   "flagURL": "https://www.nationsonline.org/flags_big/Andorra_lgflag.gif",
-  "OutlineURL": "https://t3.ftcdn.net/jpg/02/67/85/62/360_F_267856234_EOEEuH9ycxFGvDHB61Z0IudqoOqrqkVv.jpg"
+  "OutlineURL": "https://t3.ftcdn.net/jpg/02/67/85/62/360_F_267856234_EOEEuH9ycxFGvDHB61Z0IudqoOqrqkVv.jpg",
+  "Capital": "Andorra la Vella",
+  "Plus": false
+},
+{
+  "_id": {
+    "$oid": "663a16e6082f9f53b0dd433c"
+  },
+  "name": "Armenia",
+  "flagURL": "https://www.nationsonline.org/flags_big/Armenia_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/77/51/d6/7751d617e57809ba04022f4eb653cc73.gif",
+  "Capital": "Yerevan",
+  "Plus": true
 },
 {
   "_id": {
@@ -20,7 +34,9 @@
   },
   "name": "Austria",
   "flagURL": "https://www.nationsonline.org/flags_big/Austria_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/736x/ec/70/da/ec70da1b204f68b50e0a7f9f31da98d4.jpg"
+  "OutlineURL": "https://i.pinimg.com/736x/ec/70/da/ec70da1b204f68b50e0a7f9f31da98d4.jpg",
+  "Capital": "Vienna",
+  "Plus": false
 },
 {
   "_id": {
@@ -28,7 +44,9 @@
   },
   "name": "Belarus",
   "flagURL": "https://www.nationsonline.org/flags_big/Belarus_lgflag.gif",
-  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/outline-map-of-belarus-bigalbaloo-stock.jpg"
+  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/outline-map-of-belarus-bigalbaloo-stock.jpg",
+  "Capital": "Minsk",
+  "Plus": false
 },
 {
   "_id": {
@@ -36,7 +54,9 @@
   },
   "name": "Belgium",
   "flagURL": "https://www.nationsonline.org/flags_big/Belgium_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/22/15/d9/2215d9748728f05aa07ef0b4613d97bb.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/22/15/d9/2215d9748728f05aa07ef0b4613d97bb.gif",
+  "Capital": "Brussels",
+  "Plus": false
 },
 {
   "_id": {
@@ -44,7 +64,9 @@
   },
   "name": "Bosnia",
   "flagURL": "https://www.nationsonline.org/flags_big/Bosnia_Herzegovina_lgflag.gif",
-  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/bosnia-and-herzegovina-country-outline-bigalbaloo-stock.jpg"
+  "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/bosnia-and-herzegovina-country-outline-bigalbaloo-stock.jpg",
+  "Capital": "Sarajevo",
+  "Plus": false
 },
 {
   "_id": {
@@ -52,7 +74,9 @@
   },
   "name": "Bulgaria",
   "flagURL": "https://www.nationsonline.org/flags_big/Bulgaria_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/bg-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/bg-03.png",
+  "Capital": "Sofia",
+  "Plus": false
 },
 {
   "_id": {
@@ -60,7 +84,9 @@
   },
   "name": "Croatia",
   "flagURL": "https://www.nationsonline.org/flags_big/Croatia_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/hr-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/hr-03.png",
+  "Capital": "Zagreb",
+  "Plus": false
 },
 {
   "_id": {
@@ -68,7 +94,9 @@
   },
   "name": "Cyprus",
   "flagURL": "https://www.nationsonline.org/flags_big/Cyprus_lgflag.gif",
-  "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png"
+  "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png",
+  "Capital": "Nicosia",
+  "Plus": false
 },
 {
   "_id": {
@@ -76,7 +104,9 @@
   },
   "name": "Czech Republic",
   "flagURL": "https://www.nationsonline.org/flags_big/Czech_Republic_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/9b/83/13/9b8313c5f6c66d99cb4baf188d63bba5.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/9b/83/13/9b8313c5f6c66d99cb4baf188d63bba5.gif",
+  "Capital": "Prague",
+  "Plus": false
 },
 {
   "_id": {
@@ -84,7 +114,9 @@
   },
   "name": "Denmark",
   "flagURL": "https://www.nationsonline.org/flags_big/Denmark_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863190/vector/denmark-country-map.jpg?s=612x612&w=0&k=20&c=UgPMxUpVNGFG0XEf1Vk29AEsWOnRiPZq8bstX5wEVoA="
+  "OutlineURL": "https://media.istockphoto.com/id/470863190/vector/denmark-country-map.jpg?s=612x612&w=0&k=20&c=UgPMxUpVNGFG0XEf1Vk29AEsWOnRiPZq8bstX5wEVoA=",
+  "Capital": "Copenhagen",
+  "Plus": false
 },
 {
   "_id": {
@@ -92,7 +124,9 @@
   },
   "name": "Estonia",
   "flagURL": "https://www.nationsonline.org/flags_big/Estonia_lgflag.gif",
-  "OutlineURL": "https://img.freepik.com/premium-vector/outline-map-estonia-white-background-vector-map-with-contour_652994-1781.jpg"
+  "OutlineURL": "https://img.freepik.com/premium-vector/outline-map-estonia-white-background-vector-map-with-contour_652994-1781.jpg",
+  "Capital": "Tallinn",
+  "Plus": false
 },
 {
   "_id": {
@@ -100,7 +134,9 @@
   },
   "name": "Finland",
   "flagURL": "https://www.nationsonline.org/flags_big/Finland_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/864/original/map-of-finland-outline-map-illustration-free-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/864/original/map-of-finland-outline-map-illustration-free-vector.jpg",
+  "Capital": "Helsinki",
+  "Plus": false
 },
 {
   "_id": {
@@ -108,7 +144,19 @@
   },
   "name": "France",
   "flagURL": "https://www.nationsonline.org/flags_big/France_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/d9/a6/8e/d9a68e344bfe976a660f4b388196cfab.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/d9/a6/8e/d9a68e344bfe976a660f4b388196cfab.gif",
+  "Capital": "Paris",
+  "Plus": false
+},
+{
+  "_id": {
+    "$oid": "663a16e6082f9f53b0dd433d"
+  },
+  "name": "Georgia",
+  "flagURL": "https://www.nationsonline.org/flags_big/Georgia_lgflag.gif",
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/pytyczech/pytyczech1901/pytyczech190100748.jpg",
+  "Capital": "Tbilisi",
+  "Plus": true
 },
 {
   "_id": {
@@ -116,7 +164,9 @@
   },
   "name": "Germany",
   "flagURL": "https://www.nationsonline.org/flags_big/Germany_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/big/de-03.jpg"
+  "OutlineURL": "https://vemaps.com/uploads/img/big/de-03.jpg",
+  "Capital": "Berlin",
+  "Plus": false
 },
 {
   "_id": {
@@ -124,7 +174,9 @@
   },
   "name": "Greece",
   "flagURL": "https://www.nationsonline.org/flags_big/Greece_lgflag.gif",
-  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-greece-2-coloring-page.png"
+  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-greece-2-coloring-page.png",
+  "Capital": "Athens",
+  "Plus": false
 },
 {
   "_id": {
@@ -132,7 +184,9 @@
   },
   "name": "Hungary",
   "flagURL": "https://www.nationsonline.org/flags_big/Hungary_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/774/original/map-of-hungary-outline-map-illustration-free-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/774/original/map-of-hungary-outline-map-illustration-free-vector.jpg",
+  "Capital": "Budapest",
+  "Plus": false
 },
 {
   "_id": {
@@ -140,7 +194,9 @@
   },
   "name": "Iceland",
   "flagURL": "https://www.nationsonline.org/flags_big/Iceland_lgflag.gif",
-  "OutlineURL": "https://t4.ftcdn.net/jpg/01/92/50/23/360_F_192502323_mSxYMXn1ULAP1B6IZ9BSOoPT6nfr8bWl.jpg"
+  "OutlineURL": "https://t4.ftcdn.net/jpg/01/92/50/23/360_F_192502323_mSxYMXn1ULAP1B6IZ9BSOoPT6nfr8bWl.jpg",
+  "Capital": "Reykjavík",
+  "Plus": false
 },
 {
   "_id": {
@@ -148,7 +204,9 @@
   },
   "name": "Ireland",
   "flagURL": "https://www.nationsonline.org/flags_big/Ireland_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/ie-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/ie-01.png",
+  "Capital": "Dublin",
+  "Plus": false
 },
 {
   "_id": {
@@ -156,7 +214,19 @@
   },
   "name": "Italy",
   "flagURL": "https://www.nationsonline.org/flags_big/Italy_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/13/06/d2/1306d29a7d2e3f3d5d040e9704e96750.jpg"
+  "OutlineURL": "https://i.pinimg.com/originals/13/06/d2/1306d29a7d2e3f3d5d040e9704e96750.jpg",
+  "Capital": "Rome",
+  "Plus": false
+},
+{
+  "_id": {
+    "$oid": "663a16e6082f9f53b0dd433e"
+  },
+  "name": "Kazakhstan",
+  "flagURL": "https://www.nationsonline.org/flags_big/Kazakhstan_lgflag.gif",
+  "OutlineURL": "https://i.pinimg.com/originals/b5/e9/38/b5e938f945f3fa46c8816e3369eb9744.gif",
+  "Capital": "Astana",
+  "Plus": true
 },
 {
   "_id": {
@@ -164,7 +234,9 @@
   },
   "name": "Latvia",
   "flagURL": "https://www.nationsonline.org/flags_big/Latvia_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/lv-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/lv-01.png",
+  "Capital": "Riga",
+  "Plus": false
 },
 {
   "_id": {
@@ -172,7 +244,9 @@
   },
   "name": "Lithuania",
   "flagURL": "https://www.nationsonline.org/flags_big/Lithuania_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/lt-01.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/lt-01.png",
+  "Capital": "",
+  "Plus": false
 },
 {
   "_id": {
@@ -180,7 +254,9 @@
   },
   "name": "Luxembourg",
   "flagURL": "https://www.nationsonline.org/flags_big/Luxembourg_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/lu-04.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/lu-04.png",
+  "Capital": "Luxembourg",
+  "Plus": false
 },
 {
   "_id": {
@@ -188,7 +264,9 @@
   },
   "name": "N.Macedonia",
   "flagURL": "https://www.nationsonline.org/flags_big/Macedonia_lgflag.gif",
-  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/North-Macedonia-Country-Map-Black-White-Solid-Outline-Map-JPG-SVG-PNG-PDF-EPS-AI-6435026-1610333884/original-6435026-3.jpg"
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/North-Macedonia-Country-Map-Black-White-Solid-Outline-Map-JPG-SVG-PNG-PDF-EPS-AI-6435026-1610333884/original-6435026-3.jpg",
+  "Capital": "Skopje",
+  "Plus": false
 },
 {
   "_id": {
@@ -196,7 +274,9 @@
   },
   "name": "Malta",
   "flagURL": "https://www.nationsonline.org/flags_big/Malta_lgflag.gif",
-  "OutlineURL": "https://cdn.vectorstock.com/i/500p/65/04/malta-island-map-silhouette-vector-41356504.jpg"
+  "OutlineURL": "https://cdn.vectorstock.com/i/500p/65/04/malta-island-map-silhouette-vector-41356504.jpg",
+  "Capital": "Valletta",
+  "Plus": false
 },
 {
   "_id": {
@@ -204,7 +284,9 @@
   },
   "name": "Moldova",
   "flagURL": "https://www.nationsonline.org/flags_big/Moldova_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/big/md-03.jpg"
+  "OutlineURL": "https://vemaps.com/uploads/img/big/md-03.jpg",
+  "Capital": "Chișinău",
+  "Plus": false
 },
 {
   "_id": {
@@ -212,7 +294,9 @@
   },
   "name": "Monaco",
   "flagURL": "https://www.nationsonline.org/flags_big/Monaco_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/020/715/192/original/outline-country-state-monaco-border-outline-state-monaco-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/020/715/192/original/outline-country-state-monaco-border-outline-state-monaco-vector.jpg",
+  "Capital": "Monaco",
+  "Plus": false
 },
 {
   "_id": {
@@ -220,7 +304,9 @@
   },
   "name": "Montenegro",
   "flagURL": "https://www.nationsonline.org/flags_big/Montenegro_lgflag.jpg",
-  "OutlineURL": "https://i.pinimg.com/736x/5f/cf/d2/5fcfd2691f7ec02b66c5cf14c0a6401a.jpg"
+  "OutlineURL": "https://i.pinimg.com/736x/5f/cf/d2/5fcfd2691f7ec02b66c5cf14c0a6401a.jpg",
+  "Capital": "Podgorica",
+  "Plus": false
 },
 {
   "_id": {
@@ -228,7 +314,9 @@
   },
   "name": "Netherlands",
   "flagURL": "https://www.nationsonline.org/flags_big/Netherlands_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blank_map_of_the_Netherlands.svg/1928px-Blank_map_of_the_Netherlands.svg.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blank_map_of_the_Netherlands.svg/1928px-Blank_map_of_the_Netherlands.svg.png",
+  "Capital": "Amsterdam",
+  "Plus": false
 },
 {
   "_id": {
@@ -236,7 +324,9 @@
   },
   "name": "Norway",
   "flagURL": "https://www.nationsonline.org/flags_big/Norway_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/no-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/no-03.png",
+  "Capital": "Oslo",
+  "Plus": false
 },
 {
   "_id": {
@@ -244,7 +334,9 @@
   },
   "name": "Poland",
   "flagURL": "https://www.nationsonline.org/flags_big/Poland_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/large/pl-03.jpg"
+  "OutlineURL": "https://vemaps.com/uploads/img/large/pl-03.jpg",
+  "Capital": "Warsaw",
+  "Plus": false
 },
 {
   "_id": {
@@ -252,7 +344,9 @@
   },
   "name": "Portugal",
   "flagURL": "https://www.nationsonline.org/flags_big/Portugal_lgflag.gif",
-  "OutlineURL": "https://i.pinimg.com/originals/9a/0c/29/9a0c2908ff412b8cdea1cbb9301795c2.gif"
+  "OutlineURL": "https://i.pinimg.com/originals/9a/0c/29/9a0c2908ff412b8cdea1cbb9301795c2.gif",
+  "Capital": "Lisbon",
+  "Plus": false
 },
 {
   "_id": {
@@ -260,7 +354,9 @@
   },
   "name": "Romania",
   "flagURL": "https://www.nationsonline.org/flags_big/Romania_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/large/ro-01.jpg"
+  "OutlineURL": "https://vemaps.com/uploads/img/large/ro-01.jpg",
+  "Capital": "Bucharest",
+  "Plus": false
 },
 {
   "_id": {
@@ -268,7 +364,9 @@
   },
   "name": "Russia",
   "flagURL": "https://www.nationsonline.org/flags_big/Russia_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg",
+  "Capital": "Moscow",
+  "Plus": false
 },
 {
   "_id": {
@@ -276,7 +374,9 @@
   },
   "name": "Serbia",
   "flagURL": "https://www.nationsonline.org/flags_big/serbia-lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/rs-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/rs-03.png",
+  "Capital": "Belgrade",
+  "Plus": false
 },
 {
   "_id": {
@@ -284,7 +384,9 @@
   },
   "name": "San Marino",
   "flagURL": "https://www.nationsonline.org/flags_big/San_Marino_lgflag.gif",
-  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-san-marino-coloring-page.png"
+  "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-san-marino-coloring-page.png",
+  "Capital": "San Marino",
+  "Plus": false
 },
 {
   "_id": {
@@ -292,7 +394,9 @@
   },
   "name": "Slovakia",
   "flagURL": "https://www.nationsonline.org/flags_big/Slovakia_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/sk-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/sk-03.png",
+  "Capital": "Bratislava",
+  "Plus": false
 },
 {
   "_id": {
@@ -300,7 +404,9 @@
   },
   "name": "Slovenia",
   "flagURL": "https://www.nationsonline.org/flags_big/Slovenia_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470865712/vector/slovenia-country-map.jpg?s=612x612&w=0&k=20&c=mmBKIvEnifaLnM9YtnC4XZeoBODDuNVbLtteUyAibwE="
+  "OutlineURL": "https://media.istockphoto.com/id/470865712/vector/slovenia-country-map.jpg?s=612x612&w=0&k=20&c=mmBKIvEnifaLnM9YtnC4XZeoBODDuNVbLtteUyAibwE=",
+  "Capital": "Ljubljana",
+  "Plus": false
 },
 {
   "_id": {
@@ -308,7 +414,9 @@
   },
   "name": "Spain",
   "flagURL": "https://www.nationsonline.org/flags_big/Spain_lgflag.gif",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blank_Spain_Map_%28Autonomous_Communities%29.svg/2560px-Blank_Spain_Map_%28Autonomous_Communities%29.svg.png"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blank_Spain_Map_%28Autonomous_Communities%29.svg/2560px-Blank_Spain_Map_%28Autonomous_Communities%29.svg.png",
+  "Capital": "Madrid",
+  "Plus": false
 },
 {
   "_id": {
@@ -316,7 +424,9 @@
   },
   "name": "Sweden",
   "flagURL": "https://www.nationsonline.org/flags_big/Sweden_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/se-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/se-03.png",
+  "Capital": "Stockholm",
+  "Plus": false
 },
 {
   "_id": {
@@ -324,7 +434,9 @@
   },
   "name": "Switzerland",
   "flagURL": "https://www.nationsonline.org/flags_big/Switzerland_lgflag.gif",
-  "OutlineURL": "https://vemaps.com/uploads/img/ch-03.png"
+  "OutlineURL": "https://vemaps.com/uploads/img/ch-03.png",
+  "Capital": "Bern",
+  "Plus": false
 },
 {
   "_id": {
@@ -332,7 +444,9 @@
   },
   "name": "Turkey",
   "flagURL": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif",
-  "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU="
+  "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU=",
+  "Capital": "Ankara",
+  "Plus": true
 },
 {
   "_id": {
@@ -340,7 +454,9 @@
   },
   "name": "Ukraine",
   "flagURL": "https://www.nationsonline.org/flags_big/Ukraine_lgflag.gif",
-  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/675/original/map-of-ukraine-outline-map-illustration-free-vector.jpg"
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/675/original/map-of-ukraine-outline-map-illustration-free-vector.jpg",
+  "Capital": "Kiev",
+  "Plus": false
 },
 {
   "_id": {
@@ -348,7 +464,9 @@
   },
   "name": "United Kingdom",
   "flagURL": "https://www.nationsonline.org/flags_big/United_Kingdom_lgflag.gif",
-  "OutlineURL": "https://ukmap360.com/img/1200/united%20kingdom%20(uk)-map-vector.jpg"
+  "OutlineURL": "https://ukmap360.com/img/1200/united%20kingdom%20(uk)-map-vector.jpg",
+  "Capital": "London",
+  "Plus": false
 },
 {
   "_id": {
@@ -356,7 +474,9 @@
   },
   "name": "Vatican",
   "flagURL": "https://www.nationsonline.org/flags_big/Vatican_City_lgflag.gif",
-  "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/37/55/map-of-vatican-high-detailed-vector-22403755.jpg"
+  "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/37/55/map-of-vatican-high-detailed-vector-22403755.jpg",
+  "Capital": "Vatican",
+  "Plus": false
 },
 {
   "_id": {
@@ -364,5 +484,7 @@
   },
   "name": "Kosovo",
   "flagURL": "https://cdn.britannica.com/18/114418-004-2A12F087/Flag-Kosovo.jpg",
-  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kosovo_outline.svg"
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kosovo_outline.svg",
+  "Capital": "Pristina",
+  "Plus": false
 }]
