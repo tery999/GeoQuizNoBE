@@ -24,7 +24,7 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    background-image: url("../../../public/FlagsImages/EUFlag.jpg");
+    background-image: url("../../../public/CapitalsImages/Paris.jpg");
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -48,7 +48,7 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    background-image: url("../../../public/FlagsImages/ChinaIndia.png");
+    background-image: url("../../../public/CapitalsImages/Tokyo.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -72,7 +72,7 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    background-image: url("../../../public/FlagsImages/Brazilian\ and\ American\ flag.jpg");
+    background-image: url("../../../public/CapitalsImages/NewYork.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -97,7 +97,7 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    background-image: url("../../../public/FlagsImages/peakpx\ \(1\).jpg");
+    background-image: url("../../../public/CapitalsImages/Cairo.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
