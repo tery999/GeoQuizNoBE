@@ -5,8 +5,15 @@
   "name": "Afghanistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Afghanistan_New_Flag.jpg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Map_of_Afghanistan%2C_outline.svg/2560px-Map_of_Afghanistan%2C_outline.svg.png",
-  "Capital": "",
+  "Capital": "Kabul",
   "Plus": false
+},
+{
+  "name": "Abkhazia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/schwabenblitz/schwabenblitz1608/schwabenblitz160800197.jpg",
+  "Capital": "Sukhumi",
+  "Plus": true
 },
 {
   "_id": {
@@ -15,7 +22,7 @@
   "name": "Armenia",
   "flagURL": "https://www.nationsonline.org/flags_big/Armenia_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/originals/77/51/d6/7751d617e57809ba04022f4eb653cc73.gif",
-  "Capital": "",
+  "Capital": "Yerevan",
   "Plus": false
 },
 {
@@ -25,7 +32,7 @@
   "name": "Azerbaijan",
   "flagURL": "https://www.nationsonline.org/flags_big/Azerbaijan_lgflag.gif",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg",
-  "Capital": "",
+  "Capital": "Baku",
   "Plus": false
 },
 {
@@ -35,7 +42,7 @@
   "name": "Bahrain",
   "flagURL": "https://www.nationsonline.org/flags_big/Bahrain_lgflag.gif",
   "OutlineURL": "https://t3.ftcdn.net/jpg/03/02/69/14/360_F_302691439_CZ3ksDMVlGwYI3ylxPI2i2K6P7X1WCGZ.jpg",
-  "Capital": "",
+  "Capital": "Manama",
   "Plus": false
 },
 {
@@ -45,7 +52,7 @@
   "name": "Bangladesh",
   "flagURL": "https://www.nationsonline.org/flags_big/Bangladesh_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/bd-01.png",
-  "Capital": "",
+  "Capital": "Dhaka",
   "Plus": false
 },
 {
@@ -55,7 +62,7 @@
   "name": "Bhutan",
   "flagURL": "https://www.nationsonline.org/flags_big/Bhutan_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/bt-02.png",
-  "Capital": "",
+  "Capital": "Thimphu",
   "Plus": false
 },
 {
@@ -65,7 +72,7 @@
   "name": "Brunei",
   "flagURL": "https://www.nationsonline.org/flags_big/Brunei_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/bn-03.png",
-  "Capital": "",
+  "Capital": "Bandar Seri Begawan",
   "Plus": false
 },
 {
@@ -75,7 +82,7 @@
   "name": "Cambodia",
   "flagURL": "https://www.nationsonline.org/flags_big/Cambodia_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/originals/ff/6b/28/ff6b2834725155e4b7f0e550a3784f93.gif",
-  "Capital": "",
+  "Capital": "Phnom Penh",
   "Plus": false
 },
 {
@@ -85,8 +92,29 @@
   "name": "China",
   "flagURL": "https://www.nationsonline.org/flags_big/China_lgflag.gif",
   "OutlineURL": "https://www.shutterstock.com/image-vector/freehand-china-map-sketch-on-600nw-313355906.jpg",
-  "Capital": "",
+  "Capital": "Beijing",
   "Plus": false
+},
+{
+  "name": "Cyprus",
+  "flagURL": "https://www.nationsonline.org/flags_big/Cyprus_lgflag.gif",
+  "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png",
+  "Capital": "Nicosia",
+  "Plus": true
+},
+{
+  "name": "East Timur",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/800px-Flag_of_East_Timor.svg.png?20231030040223",
+  "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHFhcBRo-Gxdbn2aNBaZXYWNOxeSA-cUv-tnQRUbLGA&s",
+  "Capital": "Dili",
+  "Plus": true
+},
+{
+  "name": "Egypt",
+  "flagURL": "https://www.nationsonline.org/flags_big/Egypt_lgflag.gif",
+  "OutlineURL": "https://vemaps.com/uploads/img/eg-03.png",
+  "Capital": "Cairo",
+  "Plus": true
 },
 {
   "_id": {
@@ -95,7 +123,7 @@
   "name": "Georgia",
   "flagURL": "https://www.nationsonline.org/flags_big/Georgia_lgflag.gif",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/pytyczech/pytyczech1901/pytyczech190100748.jpg",
-  "Capital": "",
+  "Capital": "Tbilisi",
   "Plus": false
 },
 {
@@ -105,7 +133,7 @@
   "name": "India",
   "flagURL": "https://www.nationsonline.org/flags_big/India_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/470863648/vector/india-country-map.jpg?s=612x612&w=0&k=20&c=0E5DKB51c0E3AKk_8pPTWZhBHbi1O2pocYNxlEE-sfc=",
-  "Capital": "",
+  "Capital": "New Delhi",
   "Plus": false
 },
 {
@@ -115,7 +143,7 @@
   "name": "Indonesia",
   "flagURL": "https://www.nationsonline.org/flags_big/Indonesia_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/id-02.png",
-  "Capital": "",
+  "Capital": "Jakarta",
   "Plus": false
 },
 {
@@ -125,7 +153,7 @@
   "name": "Iran",
   "flagURL": "https://www.nationsonline.org/flags_big/Iran_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/933502048/vector/map-of-iran.jpg?s=612x612&w=0&k=20&c=RrvKkW0vAv4JjS-Tf6MAbl4lfaJI5aewooXop1c6EUc=",
-  "Capital": "",
+  "Capital": "Tehran",
   "Plus": false
 },
 {
@@ -135,7 +163,7 @@
   "name": "Iraq",
   "flagURL": "https://www.nationsonline.org/flags_big/Iraq_lgflag.gif",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Iraq-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424439-1610077379/original-6424439-3.jpg",
-  "Capital": "",
+  "Capital": "Baghdad",
   "Plus": false
 },
 {
@@ -145,7 +173,7 @@
   "name": "Israel",
   "flagURL": "https://www.nationsonline.org/flags_big/Israel_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/il-03.png",
-  "Capital": "",
+  "Capital": "Jerusalem",
   "Plus": false
 },
 {
@@ -155,7 +183,7 @@
   "name": "Japan",
   "flagURL": "https://www.nationsonline.org/flags_big/Japan_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/898679300/vector/black-silhouette-country-borders-map-of-japan-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ZBIrtcuJk3nL4MmRibtN41gw2hcQ4OBoppFDEO8VW1k=",
-  "Capital": "",
+  "Capital": "Tokyo",
   "Plus": false
 },
 {
@@ -165,7 +193,7 @@
   "name": "Jordan",
   "flagURL": "https://www.nationsonline.org/flags_big/Jordan_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/jo-03.png",
-  "Capital": "",
+  "Capital": "Amman",
   "Plus": false
 },
 {
@@ -175,7 +203,7 @@
   "name": "Kazakhstan",
   "flagURL": "https://www.nationsonline.org/flags_big/Kazakhstan_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/originals/b5/e9/38/b5e938f945f3fa46c8816e3369eb9744.gif",
-  "Capital": "",
+  "Capital": "Astana",
   "Plus": false
 },
 {
@@ -185,7 +213,7 @@
   "name": "North Korea",
   "flagURL": "https://www.nationsonline.org/flags_big/Korea-North_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/kp-01.png",
-  "Capital": "",
+  "Capital": "Pyongyang",
   "Plus": false
 },
 {
@@ -195,7 +223,7 @@
   "name": "South Korea",
   "flagURL": "https://www.nationsonline.org/flags_big/Korea-South_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/564x/89/b8/77/89b87797a01b09988874e15741689931.jpg",
-  "Capital": "",
+  "Capital": "Seoul",
   "Plus": false
 },
 {
@@ -205,7 +233,7 @@
   "name": "Kuwait",
   "flagURL": "https://www.nationsonline.org/flags_big/Kuwait_lgflag.gif",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Kuwait-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6424467-1610078329/original-6424467-3.jpg",
-  "Capital": "",
+  "Capital": "Kuwait",
   "Plus": false
 },
 {
@@ -215,7 +243,7 @@
   "name": "Kyrgyztan",
   "flagURL": "https://www.nationsonline.org/flags_big/Kyrgyzstan_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/1306508565/vector/vector-illustration-of-the-black-map-of-kyrgyzstan-on-white-background.jpg?s=612x612&w=0&k=20&c=DYg8TxCjlG42f9OWePMo2vLP6vryCWs4w5_20j6oQko=",
-  "Capital": "",
+  "Capital": "Bishkek",
   "Plus": false
 },
 {
@@ -225,7 +253,7 @@
   "name": "Laos",
   "flagURL": "https://www.nationsonline.org/flags_big/Laos_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/la-01.png",
-  "Capital": "",
+  "Capital": "Vientiane",
   "Plus": false
 },
 {
@@ -235,7 +263,7 @@
   "name": "Lebanon",
   "flagURL": "https://www.nationsonline.org/flags_big/Lebanon_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRpdhFBwSr_ZBokw7DyvlHE1Yd-5sOYSDB_qxrjDs-w&s",
-  "Capital": "",
+  "Capital": "Beirut",
   "Plus": false
 },
 {
@@ -245,7 +273,7 @@
   "name": "Malaysia",
   "flagURL": "https://www.nationsonline.org/flags_big/Malaysia_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/564x/cb/4f/00/cb4f00e3c51c73157c1343ec77349183.jpg",
-  "Capital": "",
+  "Capital": "Kuala Lumpur",
   "Plus": false
 },
 {
@@ -255,7 +283,7 @@
   "name": "Maldives",
   "flagURL": "https://www.nationsonline.org/flags_big/Maldives_lgflag.gif",
   "OutlineURL": "https://t3.ftcdn.net/jpg/02/26/54/70/360_F_226547051_IgWWFzaweeZRseM0ItMtcWcpFPW2e7an.jpg",
-  "Capital": "",
+  "Capital": "Male",
   "Plus": false
 },
 {
@@ -265,7 +293,7 @@
   "name": "Mongolia",
   "flagURL": "https://www.nationsonline.org/flags_big/Mongolia_lgflag.gif",
   "OutlineURL": "https://cdn.vectorstock.com/i/500p/56/06/mongolia-map-vector-43615606.jpg",
-  "Capital": "",
+  "Capital": "Ulaanbaatar",
   "Plus": false
 },
 {
@@ -275,7 +303,7 @@
   "name": "Myanmar",
   "flagURL": "https://www.nationsonline.org/flags_big/Myanmar_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/470870778/vector/burma-country-map.jpg?s=612x612&w=0&k=20&c=ur8PmC6oa_SHOUZvxrMoCudgpU5NvsUJEcRmWHBJgWU=",
-  "Capital": "",
+  "Capital": "Nay Pyi Taw",
   "Plus": false
 },
 {
@@ -285,8 +313,15 @@
   "name": "Nepal",
   "flagURL": "https://www.nationsonline.org/flags_big/Nepal_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/np-03.png",
-  "Capital": "",
+  "Capital": "Kathmandu",
   "Plus": false
+},
+{
+  "name": "Northern Cyprus",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/1280px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
+  "OutlineURL": "https://as1.ftcdn.net/v2/jpg/05/38/92/64/1000_F_538926468_o7et19q4VtNSZEtcF8VwN2ND0RQdGZRj.jpg",
+  "Capital": "North Nicosia",
+  "Plus": true
 },
 {
   "_id": {
@@ -295,7 +330,7 @@
   "name": "Oman",
   "flagURL": "https://www.nationsonline.org/flags_big/Oman_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95hmTUwnfoDou1tn2vzYQY7eIzfG6KrPOFdmMpfVYXA&s",
-  "Capital": "",
+  "Capital": "Muscat",
   "Plus": false
 },
 {
@@ -305,7 +340,7 @@
   "name": "Pakistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Pakistan_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vQoYaXlTkEh3AM_nnM_tHxRM3pCmH3m-60n7-_-QEA&s",
-  "Capital": "",
+  "Capital": "Islamabad",
   "Plus": false
 },
 {
@@ -315,7 +350,7 @@
   "name": "Palestine",
   "flagURL": "https://www.nationsonline.org/flags_big/Palestine_lgflag.gif",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg/800px-Flag_map_of_Mandatory_Palestine_with_a_Palestinian_flag.svg.png",
-  "Capital": "",
+  "Capital": "Ramallah",
   "Plus": false
 },
 {
@@ -325,7 +360,7 @@
   "name": "Philippines",
   "flagURL": "https://www.nationsonline.org/flags_big/Philippines_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/470870866/vector/phillipines-country-map.jpg?s=612x612&w=0&k=20&c=V4McdKt8va8F4SEF5AThepwBNu22Qf2W78pLjeULb3U=",
-  "Capital": "",
+  "Capital": "Manila",
   "Plus": false
 },
 {
@@ -335,8 +370,15 @@
   "name": "Qatar",
   "flagURL": "https://www.nationsonline.org/flags_big/Qatar_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTBKXDQEJQaFKPIrbCukDho0ix0-NcUOSLXcm1-z1vw&s",
-  "Capital": "",
+  "Capital": "Doha",
   "Plus": false
+},
+{
+  "name": "Russia",
+  "flagURL": "https://www.nationsonline.org/flags_big/Russia_lgflag.gif",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg",
+  "Capital": "Moscow",
+  "Plus": true
 },
 {
   "_id": {
@@ -345,7 +387,7 @@
   "name": "Saudi Arabia",
   "flagURL": "https://www.nationsonline.org/flags_big/Saudi_Arabia_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/sa-03.png",
-  "Capital": "",
+  "Capital": "Riyadh",
   "Plus": false
 },
 {
@@ -355,7 +397,7 @@
   "name": "Singapore",
   "flagURL": "https://www.nationsonline.org/flags_big/Singapore_lgflag.gif",
   "OutlineURL": "https://fvmstatic.s3.amazonaws.com/maps/m/SG-EPS-01-0001.png",
-  "Capital": "",
+  "Capital": "Singapore",
   "Plus": false
 },
 {
@@ -365,7 +407,7 @@
   "name": "Sri Lanka",
   "flagURL": "https://www.nationsonline.org/flags_big/Sri_Lanka_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0aYjIT2vKNeiiIW2fdr9GnC20q6hng58qktnWyl34w&s",
-  "Capital": "",
+  "Capital": "Kotte",
   "Plus": false
 },
 {
@@ -375,7 +417,14 @@
   "name": "Syria",
   "flagURL": "https://www.nationsonline.org/flags_big/Syria_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvc-QeJaqEy5TYxGMjJsbcqw07EQWXDQEZng48Nr5Muw&s",
-  "Capital": "",
+  "Capital": "Damascus",
+  "Plus": false
+},
+{
+  "name": "South Ossetia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Districts_South_Ossetia.svg/800px-Districts_South_Ossetia.svg.png",
+  "Capital": "Tskhinvali",
   "Plus": false
 },
 {
@@ -385,7 +434,7 @@
   "name": "Taiwan",
   "flagURL": "https://www.nationsonline.org/flags_big/Taiwan_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/tw-03.png",
-  "Capital": "",
+  "Capital": "Taipei",
   "Plus": false
 },
 {
@@ -395,7 +444,7 @@
   "name": "Tajikistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Tajikistan_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/tj-04.png",
-  "Capital": "",
+  "Capital": "Dushanbe",
   "Plus": false
 },
 {
@@ -405,7 +454,7 @@
   "name": "Thailand",
   "flagURL": "https://www.nationsonline.org/flags_big/Thailand_lgflag.gif",
   "OutlineURL": "https://i.pinimg.com/736x/df/53/72/df53720c1cdebfab466bfcb42be6a4c7.jpg",
-  "Capital": "",
+  "Capital": "Bangkok",
   "Plus": false
 },
 {
@@ -415,7 +464,7 @@
   "name": "Turkey",
   "flagURL": "https://www.nationsonline.org/flags_big/Turkey_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU=",
-  "Capital": "",
+  "Capital": "Ankara",
   "Plus": false
 },
 {
@@ -425,7 +474,7 @@
   "name": "Turkmenistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Turkmenistan_lgflag.gif",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Turkmenistan-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435334-1610350413/original-6435334-2.jpg",
-  "Capital": "",
+  "Capital": "Ashgabat",
   "Plus": false
 },
 {
@@ -435,7 +484,7 @@
   "name": "United Arab Emirates",
   "flagURL": "https://www.nationsonline.org/flags_big/United_Arab_Emirates_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/ae-03.png",
-  "Capital": "",
+  "Capital": "Abu Dhabi",
   "Plus": false
 },
 {
@@ -445,7 +494,7 @@
   "name": "Uzbekistan",
   "flagURL": "https://www.nationsonline.org/flags_big/Uzbekistan_lgflag.gif",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTPafKcsZiC7nWdycOk444S_XFn6rHuZAQppUDDZqlQ&s",
-  "Capital": "",
+  "Capital": "Tashkent",
   "Plus": false
 },
 {
@@ -455,7 +504,7 @@
   "name": "Vietnam",
   "flagURL": "https://www.nationsonline.org/flags_big/Vietnam_lgflag.gif",
   "OutlineURL": "https://media.istockphoto.com/id/470863218/vector/vietnam-country-map.jpg?s=612x612&w=0&k=20&c=_E9zetLPcQ5bEUgidwv0T37ru-BQoRfZAuPOmVfzbS0=",
-  "Capital": "",
+  "Capital": "Hanoi",
   "Plus": false
 },
 {
@@ -465,6 +514,6 @@
   "name": "Yemen",
   "flagURL": "https://www.nationsonline.org/flags_big/Yemen_lgflag.gif",
   "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/35/40/yemen-country-mapborder-grey-color-vector-25623540.jpg",
-  "Capital": "",
+  "Capital": "Sana'a",
   "Plus": false
 }]
