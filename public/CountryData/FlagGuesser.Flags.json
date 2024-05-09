@@ -29,6 +29,13 @@
   "Plus": true
 },
 {
+  "name": "Azerbaijan",
+  "flagURL": "https://www.nationsonline.org/flags_big/Azerbaijan_lgflag.gif",
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg",
+  "Capital": "Baku",
+  "Plus": true
+},
+{
   "_id": {
     "$oid": "661d1540e415625eb3425a61"
   },

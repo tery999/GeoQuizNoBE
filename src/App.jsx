@@ -16,6 +16,8 @@ import AfricaOutlines from './Components/Outlines/AfricaOutlines/AfricaOutlines'
 import Capitals from './Components/Capitals/Capitals'
 import EuropeCapitals from './Components/Capitals/EuropeCapitals/EuropeCapitals'
 import AfricaCapitals from './Components/Capitals/Africa Capitals/AfricaCapitals'
+import AsiaCapitals from './Components/Capitals/Asia Capitals/AsiaCapitals'
+import AmericaCapitals from './Components/Capitals/America Capitals/AmericaCapitals'
 
 
 function App() {
@@ -41,8 +43,8 @@ function App() {
       <Route path="Capitals" >
         <Route index element={<Capitals/>} />
         <Route path="Europe" element={<EuropeCapitals />} />
-        <Route path="Asia" element={<AfricaCapitals />} />
-        <Route path="Americas" element={<AmericasOutlines />} />
+        <Route path="Asia" element={<AsiaCapitals />} />
+        <Route path="Americas" element={<AmericaCapitals />} />
         <Route path="Africa" element={<AfricaCapitals />} />
       </Route>
     </Routes>
