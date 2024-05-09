@@ -425,7 +425,7 @@
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Districts_South_Ossetia.svg/800px-Districts_South_Ossetia.svg.png",
   "Capital": "Tskhinvali",
-  "Plus": false
+  "Plus": true
 },
 {
   "_id": {
