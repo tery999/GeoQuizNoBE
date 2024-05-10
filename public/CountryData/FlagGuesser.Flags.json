@@ -29,6 +29,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7a"
+  },
   "name": "Azerbaijan",
   "flagURL": "https://www.nationsonline.org/flags_big/Azerbaijan_lgflag.gif",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg",
@@ -496,6 +499,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7b"
+  },
   "name": "Abkhazia",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/schwabenblitz/schwabenblitz1608/schwabenblitz160800197.jpg",
@@ -503,6 +509,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7c"
+  },
   "name": "South Ossetia",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Districts_South_Ossetia.svg/800px-Districts_South_Ossetia.svg.png",
@@ -510,6 +519,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7d"
+  },
   "name": "Transnistria",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/1920px-Flag_of_Transnistria_%28state%29.svg.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/MDA/transnistria/MDA_transnistria.png",
@@ -517,6 +529,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7e"
+  },
   "name": "Åland",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/1280px-Flag_of_%C3%85land.svg.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/ALA/ALA.png",
@@ -524,6 +539,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce7f"
+  },
   "name": "Bailiwick of Guernsey",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
   "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
@@ -531,6 +549,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce80"
+  },
   "name": "Bailiwick of Jersey",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/1280px-Flag_of_Jersey.svg.png",
   "OutlineURL": "https://media.istockphoto.com/id/1216459423/vector/bailiwick-of-jersey-map-silhouette-vector.jpg?s=170667a&w=0&k=20&c=KXurlrWTdSqGe-M7KCNPKfJsnF0QJe1gn9ATL8FVbNo=",
@@ -538,6 +559,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce81"
+  },
   "name": "Faroe Islands",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1280px-Flag_of_the_Faroe_Islands.svg.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/FRO/FRO.png",
@@ -545,6 +569,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce82"
+  },
   "name": "Gibraltar",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/1920px-Flag_of_Gibraltar.svg.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/GIB/GIB.png",
@@ -552,6 +579,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce83"
+  },
   "name": "Greenland",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/1280px-Flag_of_Greenland.svg.png",
   "OutlineURL": "https://us.123rf.com/450wm/elenvd/elenvd1801/elenvd180100023/93323863-greenland-map-of-black-contour-curves-on-white-background-of-vector-illustration.jpg?ver=6",
@@ -559,6 +589,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce84"
+  },
   "name": "Isle of Man",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/1920px-Flag_of_the_Isle_of_Man.svg.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/IMN/IMN.png",
@@ -566,6 +599,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce85"
+  },
   "name": "Svalbard",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Svalbard_flag_%28Norway%29.png",
   "OutlineURL": "https://gadm.org/img/480/gadm/SJM/svalbard/SJM_svalbard.png",
@@ -573,6 +609,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce86"
+  },
   "name": "England",
   "flagURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png",
   "OutlineURL": "https://i.pinimg.com/originals/85/50/99/8550994dd32c195da3f95c33b8f4a5a9.gif",
@@ -580,6 +619,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce87"
+  },
   "name": "Northern Ireland",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/1920px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
   "OutlineURL": "https://cdn4.vectorstock.com/i/1000x1000/43/18/northern-ireland-map-silhouette-vector-10554318.jpg",
@@ -587,6 +629,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce88"
+  },
   "name": "Scotland",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1280px-Flag_of_Scotland.svg.png",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/461/896/non_2x/scotland-map-on-white-background-free-vector.jpg",
@@ -594,6 +639,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "663df43ed9267a160747ce89"
+  },
   "name": "Wales",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1280px-Flag_of_Wales.svg.png",
   "OutlineURL": "https://t4.ftcdn.net/jpg/01/50/87/33/360_F_150873386_qe5aW2XKZZJtcCsgMYL3bmfMt7xCZySF.jpg",
@@ -601,37 +649,152 @@
   "Plus": true
 },
 {
-  "name": "Bailiwick of Guernsey",
-  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
-  "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
-  "Capital": "St. Peter Port",
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8a"
+  },
+  "name": "Republic of Adygea",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Adygea.svg/1920px-Flag_of_Adygea.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Outline_Map_of_Adygea.svg/493px-Outline_Map_of_Adygea.svg.png",
+  "Capital": "Maykop",
   "Plus": true
 },
 {
-  "name": "Bailiwick of Guernsey",
-  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
-  "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
-  "Capital": "St. Peter Port",
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8b"
+  },
+  "name": "Chechnya",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_Chechen_Republic.svg/1280px-Flag_of_the_Chechen_Republic.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/chechnya/chechnya31.gif",
+  "Capital": "Grozny",
   "Plus": true
 },
 {
-  "name": "Bailiwick of Guernsey",
-  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
-  "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
-  "Capital": "St. Peter Port",
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8c"
+  },
+  "name": "Chuvashia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Chuvashia.svg/1280px-Flag_of_Chuvashia.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/chuvashia/chuvashia31.gif",
+  "Capital": "Cheboksary",
   "Plus": true
 },
 {
-  "name": "Bailiwick of Guernsey",
-  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
-  "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
-  "Capital": "St. Peter Port",
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8d"
+  },
+  "name": "Dagestan",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Dagestan.svg/1280px-Flag_of_Dagestan.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/dagestan/dagestan35.gif",
+  "Capital": "Makhachkala",
   "Plus": true
 },
 {
-  "name": "Bailiwick of Guernsey",
-  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/1280px-Flag_of_Guernsey.svg.png",
-  "OutlineURL": "https://cdn1.vectorstock.com/i/1000x1000/14/65/bailiwick-of-guernsey-map-vector-16751465.jpg",
-  "Capital": "St. Peter Port",
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8e"
+  },
+  "name": "Ingushetia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Ingushetia.svg/1280px-Flag_of_Ingushetia.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Outline_Map_of_Ingushetia.svg/1200px-Outline_Map_of_Ingushetia.svg.png",
+  "Capital": "Magas",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce8f"
+  },
+  "name": "Kabardino-Balkaria",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flag_of_Kabardino-Balkaria.svg/1280px-Flag_of_Kabardino-Balkaria.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Outline_Map_of_Kabardino-Balkaria.svg/601px-Outline_Map_of_Kabardino-Balkaria.svg.png",
+  "Capital": "Nalchik",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce90"
+  },
+  "name": "Kalmykia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Kalmykia.svg/1920px-Flag_of_Kalmykia.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Outline_Map_of_Kalmykia.svg/1200px-Outline_Map_of_Kalmykia.svg.png",
+  "Capital": "Elista",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce91"
+  },
+  "name": "Karachay-Cherkessia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Karachay-Cherkessia.svg/1920px-Flag_of_Karachay-Cherkessia.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Outline_Map_of_Karachay-Cherkessia.svg/2167px-Outline_Map_of_Karachay-Cherkessia.svg.png",
+  "Capital": "Cherkessk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce92"
+  },
+  "name": "Komi Republic",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Komi.svg/1280px-Flag_of_Komi.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/Outline_Map_of_Komi_Republic.png",
+  "Capital": "Syktyvkar",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce93"
+  },
+  "name": "Mari El",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Mari_El.svg/1280px-Flag_of_Mari_El.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/mariel/mariel31.gif",
+  "Capital": "Yoshkar-Ola",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce94"
+  },
+  "name": "Mordovia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Mordovia.svg/1280px-Flag_of_Mordovia.svg.png",
+  "OutlineURL": "https://gadm.org/img/480/gadm/RUS/mordovia/RUS_mordovia.png",
+  "Capital": "Saransk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce95"
+  },
+  "name": "Tatarstan",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Tatarstan.svg/1920px-Flag_of_Tatarstan.svg.png",
+  "OutlineURL": "https://gadm.org/img/480/gadm/RUS/tatarstan/RUS_tatarstan.png",
+  "Capital": "Kazan",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce96"
+  },
+  "name": "Udmurtia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Udmurtia.svg/1920px-Flag_of_Udmurtia.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/udmurtia/udmurtia05.gif",
+  "Capital": "Izhevsk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce97"
+  },
+  "name": "Karelia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Karelia.svg/1280px-Flag_of_Karelia.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/karelia/karelia43.gif",
+  "Capital": "Petrozavodsk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "663df43ed9267a160747ce98"
+  },
+  "name": "Crimea",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Crimea.svg/1920px-Flag_of_Crimea.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/ukraine/crimea/crimea01.gif",
+  "Capital": "Simferopol",
   "Plus": true
 }]
