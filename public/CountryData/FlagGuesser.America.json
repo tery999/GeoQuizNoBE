@@ -527,4 +527,11 @@
   "OutlineURL": "https://media.istockphoto.com/id/889257878/vector/usvi-map.jpg?s=170667a&w=0&k=20&c=EK6Z95iePnDR28C-XYjb6T4BSZrZTkjCrPpNWchNm5o=",
   "Capital": "Charlotte Amalie",
   "Plus": true
+},
+{
+  "name": "French Guiana",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1280px-Flag_of_French_Guiana.svg.png",
+  "OutlineURL": "https://fvmstatic.s3.amazonaws.com/maps/m/GF-EPS-01-0001.png",
+  "Capital": "Cayenne",
+  "Plus": true
 }]

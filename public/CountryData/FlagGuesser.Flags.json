@@ -797,4 +797,11 @@
   "OutlineURL": "https://d-maps.com/m/europa/ukraine/crimea/crimea01.gif",
   "Capital": "Simferopol",
   "Plus": true
+},
+{
+  "name": "Mount Athos",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_Greek_Orthodox_Church.svg/1280px-Flag_of_the_Greek_Orthodox_Church.svg.png",
+  "OutlineURL": "https://static.vecteezy.com/system/resources/previews/025/450/900/non_2x/monastic-community-of-mount-athos-map-autonomous-region-of-greece-illustration-vector.jpg",
+  "Capital": "Karyes",
+  "Plus": true
 }]
