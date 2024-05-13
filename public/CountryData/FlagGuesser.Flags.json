@@ -260,6 +260,16 @@
 },
 {
   "_id": {
+    "$oid": "66424d7554889e532c360c62"
+  },
+  "name": "Liechtenstein",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
+  "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Liechtenstein-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6434914-1610328657/original-6434914-3.jpg",
+  "Capital": "Vaduz",
+  "Plus": false
+},
+{
+  "_id": {
     "$oid": "661eacb26f746774e6a58cda"
   },
   "name": "Luxembourg",
@@ -799,6 +809,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d7554889e532c360c63"
+  },
   "name": "Mount Athos",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_Greek_Orthodox_Church.svg/1280px-Flag_of_the_Greek_Orthodox_Church.svg.png",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/025/450/900/non_2x/monastic-community-of-mount-athos-map-autonomous-region-of-greece-illustration-vector.jpg",

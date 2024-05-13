@@ -1,14 +1,17 @@
 [{
   "_id": {
-    "$oid": "6626247169a57fe736cae99e"
+    "$oid": "66424d4a54889e532c360c4c"
   },
   "name": "Afghanistan",
-  "flagURL": "https://www.nationsonline.org/flags_big/Afghanistan_New_Flag.jpg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/1920px-Flag_of_the_Taliban.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Map_of_Afghanistan%2C_outline.svg/2560px-Map_of_Afghanistan%2C_outline.svg.png",
   "Capital": "Kabul",
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c4d"
+  },
   "name": "Abkhazia",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/schwabenblitz/schwabenblitz1608/schwabenblitz160800197.jpg",
@@ -96,6 +99,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c4e"
+  },
   "name": "Cyprus",
   "flagURL": "https://www.nationsonline.org/flags_big/Cyprus_lgflag.gif",
   "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png",
@@ -103,6 +109,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c4f"
+  },
   "name": "East Timur",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/800px-Flag_of_East_Timor.svg.png?20231030040223",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHFhcBRo-Gxdbn2aNBaZXYWNOxeSA-cUv-tnQRUbLGA&s",
@@ -110,6 +119,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c50"
+  },
   "name": "Egypt",
   "flagURL": "https://www.nationsonline.org/flags_big/Egypt_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/eg-03.png",
@@ -317,6 +329,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c51"
+  },
   "name": "Northern Cyprus",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/1280px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
   "OutlineURL": "https://as1.ftcdn.net/v2/jpg/05/38/92/64/1000_F_538926468_o7et19q4VtNSZEtcF8VwN2ND0RQdGZRj.jpg",
@@ -374,6 +389,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c52"
+  },
   "name": "Russia",
   "flagURL": "https://www.nationsonline.org/flags_big/Russia_lgflag.gif",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg",
@@ -421,6 +439,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d4a54889e532c360c53"
+  },
   "name": "South Ossetia",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1920px-Flag_of_South_Ossetia.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Districts_South_Ossetia.svg/800px-Districts_South_Ossetia.svg.png",
@@ -516,4 +537,134 @@
   "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/35/40/yemen-country-mapborder-grey-color-vector-25623540.jpg",
   "Capital": "Sana'a",
   "Plus": false
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c54"
+  },
+  "name": "Altai Republic",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Altai_Republic.svg/1280px-Flag_of_Altai_Republic.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/altairepublic/altairepublic31.gif",
+  "Capital": "Gorno-Altaysk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c55"
+  },
+  "name": "Bashkortostan",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Bashkortostan.svg/1280px-Flag_of_Bashkortostan.svg.png",
+  "OutlineURL": "https://gadm.org/img/480/gadm/RUS/bashkortostan/RUS_bashkortostan.png",
+  "Capital": "Ufa",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c56"
+  },
+  "name": "Buryatia ",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Buryatia.svg/1920px-Flag_of_Buryatia.svg.png",
+  "OutlineURL": "https://gadm.org/img/480/gadm/RUS/buryat/RUS_buryat.png",
+  "Capital": "Ulan-Ude",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c57"
+  },
+  "name": "Khakassia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Khakassia.svg/1920px-Flag_of_Khakassia.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/khakassia/khakassia43.svg",
+  "Capital": "Abakan",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c58"
+  },
+  "name": "Sakha",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Sakha.svg/1920px-Flag_of_Sakha.svg.png",
+  "OutlineURL": "https://d-maps.com/m/europa/russia/sakha/sakha37.gif",
+  "Capital": "Yakutsk",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c59"
+  },
+  "name": "Tuva",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Tuva.svg/1280px-Flag_of_Tuva.svg.png",
+  "OutlineURL": "https://gadm.org/img/480/gadm/RUS/tuva/RUS_tuva.png",
+  "Capital": "Kyzyl",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5a"
+  },
+  "name": "Hong Kong",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1280px-Flag_of_Hong_Kong.svg.png",
+  "OutlineURL": "https://d-maps.com/m/asia/china/hongkong/hongkong15.gif",
+  "Capital": "Hong Kong",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5b"
+  },
+  "name": "Macau",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/1280px-Flag_of_Macau.svg.png",
+  "OutlineURL": "https://d-maps.com/m/asia/china/macau/macau05.gif",
+  "Capital": "Macau",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5c"
+  },
+  "name": "Tibet",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tibet_%281916-1951%29.svg/1280px-Flag_of_Tibet_%281916-1951%29.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/TibetMap.png",
+  "Capital": "Lhasa",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5d"
+  },
+  "name": "Inner Mongolia",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_the_Inner_Mongolian_People%27s_Party.svg/1280px-Flag_of_the_Inner_Mongolian_People%27s_Party.svg.png",
+  "OutlineURL": "https://images.assetsdelivery.com/compings_v2/meteoropata/meteoropata2104/meteoropata210400107.jpg",
+  "Capital": "Hohhot",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5e"
+  },
+  "name": "Shan state",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Shan_State.svg/1280px-Flag_of_Shan_State.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shan_State_in_Myanmar.svg/1200px-Shan_State_in_Myanmar.svg.png",
+  "Capital": "Taunggyi",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c5f"
+  },
+  "name": "Kachin State",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_Kachin_State.svg/1280px-Flag_of_Kachin_State.svg.png",
+  "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kachin_State_in_Myanmar.svg/1200px-Kachin_State_in_Myanmar.svg.png",
+  "Capital": "Myitkyina",
+  "Plus": true
+},
+{
+  "_id": {
+    "$oid": "66424d4a54889e532c360c60"
+  },
+  "name": "Kurdistan Region",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1280px-Flag_of_Kurdistan.svg.png",
+  "OutlineURL": "https://media.istockphoto.com/id/1318404247/vector/kurdistan-map-black-outline-with-shadow-on-white-background.jpg?s=612x612&w=0&k=20&c=ztej99poueoZNJPLWGr7Ev5OfTE9sXTplLm6nMAq_h8=",
+  "Capital": "Erbil",
+  "Plus": true
 }]

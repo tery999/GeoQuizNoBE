@@ -239,6 +239,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c3f"
+  },
   "name": "Ivory Coast",
   "flagURL": "https://www.nationsonline.org/flags_big/Cote_d_Ivoire_lgflag.gif",
   "OutlineURL": "https://vemaps.com/uploads/img/big/ci-03.jpg",
@@ -526,6 +529,9 @@
   "Plus": false
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c40"
+  },
   "name": "Sahrawi Republic",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/1920px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Western_Sahara_outline.svg/1200px-Western_Sahara_outline.svg.png",
@@ -533,6 +539,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c41"
+  },
   "name": "Canary Islands",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/1280px-Flag_of_the_Canary_Islands.svg.png",
   "OutlineURL": "https://www.worldatlas.com/r/w768/webimage/countrys/europe/outline/canary.gif",
@@ -540,6 +549,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c42"
+  },
   "name": "Madeira",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/1280px-Flag_of_Madeira.svg.png",
   "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-portugal-madeira-with-regions-coloring-page.png",
@@ -547,6 +559,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c43"
+  },
   "name": "Somaliland",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/1920px-Flag_of_Somaliland.svg.png",
   "OutlineURL": "https://blankmapsrepo.com/wp-content/uploads/2022/07/somaliland-outline-map.png",
@@ -554,6 +569,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c44"
+  },
   "name": "Mayotte",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_Arms_of_Mayotte.svg/1280px-Coat_of_Arms_of_Mayotte.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blank_Map_of_Mayotte_Department%2C_France%2C_with_Communes.svg/773px-Blank_Map_of_Mayotte_Department%2C_France%2C_with_Communes.svg.png",
@@ -561,6 +579,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c45"
+  },
   "name": "Ceuta",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_Ceuta.svg/1280px-Flag_Ceuta.svg.png",
   "OutlineURL": "https://www.shutterstock.com/image-vector/autonomous-community-map-ceuta-spain-260nw-1444128131.jpg",
@@ -568,6 +589,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c46"
+  },
   "name": "Melilla",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/1280px-Flag_of_Melilla.svg.png",
   "OutlineURL": "https://l450v.alamy.com/450v/kkayn0/melilla-map-vector-illustration-scribble-sketch-port-of-melilla-kkayn0.jpg",
@@ -575,6 +599,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c47"
+  },
   "name": "Zanzibar",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/1280px-Flag_of_Zanzibar.svg.png",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/026/573/668/original/doodle-freehand-drawing-of-zanzibar-island-map-free-png.png",
@@ -582,10 +609,12 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d0a54889e532c360c48"
+  },
   "name": "Mauritius",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1280px-Flag_of_Mauritius.svg.png",
   "OutlineURL": "https://vemaps.com/uploads/img/mu-02.png",
   "Capital": "Port Louis",
   "Plus": true
-}
-]
+}]

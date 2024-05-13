@@ -529,6 +529,9 @@
   "Plus": true
 },
 {
+  "_id": {
+    "$oid": "66424d2a54889e532c360c4a"
+  },
   "name": "French Guiana",
   "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/1280px-Flag_of_French_Guiana.svg.png",
   "OutlineURL": "https://fvmstatic.s3.amazonaws.com/maps/m/GF-EPS-01-0001.png",
