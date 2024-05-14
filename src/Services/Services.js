@@ -63,3 +63,53 @@ export const getAfricaData = async () => {
 
 //getting countries PLUS
 // unrecognised, partially recognised, defacto countries, famous autonomies
+
+export const getEuropeDataPlus = async () => {
+
+  const localRoute = '/CountryData/FlagGuesser.Flags.json';
+  const response = await fetch(localRoute, {
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+     });
+     debugger;
+  const allFlags = await response.json();
+  return allFlags;
+}
+
+export const getAsiaDataPlus = async () => {
+  const localRoute = '/CountryData/FlagGuesser.Asia.json';
+  const response = await fetch(localRoute, {
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+     });
+  const allFlags = await response.json();
+  return allFlags;
+}
+
+export const getAmericaDataPlus = async () => {
+  const localRoute = '/CountryData/FlagGuesser.America.json';
+  const response = await fetch(localRoute, {
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+     });
+  const allFlags = await response.json();
+  return allFlags;
+}
+
+export const getAfricaDataPlus = async () => {
+  const localRoute = '/CountryData/FlagGuesser.Africa.json';
+  const response = await fetch(localRoute, {
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+     });
+  const allFlags = await response.json();
+  return allFlags;
+}

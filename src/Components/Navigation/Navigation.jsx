@@ -7,15 +7,15 @@ export default function Navigation() {
             <Link to="/"><div>Home</div></Link>
             <div className={styles.BothVersions}>
                 <Link to="Flags"><div className={styles.DivLinks}>Flags</div></Link>
-                <Link to="Flags"><div className={styles.DivLinksPlus}>+</div></Link>
+                <Link to="Flags/Plus"><div className={styles.DivLinksPlus}>+</div></Link>
             </div>
             <div className={styles.BothVersions}>
                 <Link to="Outlines"><div className={styles.DivLinks}>Outlines</div></Link>
-                <Link to="Outlines"><div className={styles.DivLinksPlus}>+</div></Link>
+                <Link to="Outlines/Plus"><div className={styles.DivLinksPlus}>+</div></Link>
             </div>
             <div className={styles.BothVersions}>
                 <Link to="Capitals"><div className={styles.DivLinks}>Capitals</div></Link>
-                <Link to="Capitals"><div className={styles.DivLinksPlus}>+</div></Link>
+                <Link to="Capitals/Plus"><div className={styles.DivLinksPlus}>+</div></Link>
             </div>
         </div>
     )
