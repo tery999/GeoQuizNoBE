@@ -28,6 +28,11 @@ import EuropeFlagsPlus from './Components/Flags Plus/EuropeFlagsPlus/EuropeFlags
 import AsiaFlagsPlus from './Components/Flags Plus/AsiaFlagsPlus/AsiaFlagsPlus'
 import AmericaFlagsPlus from './Components/Flags Plus/AmericaFlagsPlus/AmericaFlagsPlus'
 import AfricaFlagsPlus from './Components/Flags Plus/AfricaFlagsPlus/AfricaFlagsPlus'
+import OutlinesPlus from './Components/OutlinesPlus/OutlinesPlus'
+import EuropeOutlinesPlus from './Components/OutlinesPlus/EuropeOutlinesPlus/EuropeOutlinesPlus'
+import AsiaOutlinesPlus from './Components/OutlinesPlus/AsiaOutlinesPlus/AsiaOutlinesPlus'
+import AmericasOutlinesPlus from './Components/OutlinesPlus/AmericasOutlinesPlus/AmericasOutlinesPlus'
+import AfricaOutlinesPlus from './Components/OutlinesPlus/AfricaOutlinesPlus/AfricaOutlinesPlus'
 
 
 function App() {
@@ -56,6 +61,13 @@ function App() {
           <Route path="Asia" element={<AsiaOutlines />} />
           <Route path="Americas" element={<AmericasOutlines />} />
           <Route path="Africa" element={<AfricaOutlines />} />
+          <Route path='Plus'>
+            <Route index element={<OutlinesPlus />} />
+            <Route path="Europe" element={<EuropeOutlinesPlus />} />
+            <Route path="Asia" element={<AsiaOutlinesPlus />} />
+            <Route path="Americas" element={<AmericasOutlinesPlus />} />
+            <Route path="Africa" element={<AfricaOutlinesPlus />} />
+          </Route>
         </Route>
         <Route path="Capitals" >
           <Route index element={<Capitals />} />
