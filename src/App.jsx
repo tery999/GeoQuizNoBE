@@ -33,6 +33,7 @@ import EuropeOutlinesPlus from './Components/OutlinesPlus/EuropeOutlinesPlus/Eur
 import AsiaOutlinesPlus from './Components/OutlinesPlus/AsiaOutlinesPlus/AsiaOutlinesPlus'
 import AmericasOutlinesPlus from './Components/OutlinesPlus/AmericasOutlinesPlus/AmericasOutlinesPlus'
 import AfricaOutlinesPlus from './Components/OutlinesPlus/AfricaOutlinesPlus/AfricaOutlinesPlus'
+import Scores from './Components/Scores/Scores'
 
 
 function App() {
@@ -83,6 +84,7 @@ function App() {
             <Route path="Africa" element={<AfricaCapitalsPlus />} />
           </Route>
         </Route>
+        <Route path="Scores" element={<Scores />} />
       </Routes>
     </>
   )

@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom"
 import * as styles from "./Navigation.module.css"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faDisplay } from "@fortawesome/free-solid-svg-icons"
 
 export default function Navigation() {
     return (
@@ -17,6 +19,7 @@ export default function Navigation() {
                 <Link to="Capitals"><div className={styles.DivLinks}>Capitals</div></Link>
                 <Link to="Capitals/Plus"><div className={styles.DivLinksPlus}>+</div></Link>
             </div>
+            <Link to="Scores"><div> <FontAwesomeIcon icon={faDisplay} /> </div></Link>
         </div>
     )
 }
