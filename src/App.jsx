@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { createContext, useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./App.module.css"
 import { Route, Routes } from 'react-router-dom'
 import Home from './Components/Home/Home'
@@ -37,55 +37,73 @@ import Scores from './Components/Scores/Scores'
 
 
 function App() {
+  const ScoreContext = createContext();
+  const [score, setScore] = useState({
+    EuroFlags: 0,
+    AsiaFlags: 0,
+    AfricaFlags: 0,
+    AmericasFlags: 0
+  })
+
+  const changeScoreFunc = (addedScore) => {
+    setScore((prev) => ({ ...prev, addedScore }))
+  }
+
+  const values = {
+    score,
+    changeScoreFunc
+  }
   return (
     <>
-      <Navigation />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="Flags" >
-          <Route index element={<Flags />} />
-          <Route path="Europe" element={<EuropeFlags />} />
-          <Route path="Asia" element={<AsiaFlags />} />
-          <Route path="Americas" element={<AmericaFlags />} />
-          <Route path="Africa" element={<AfricaFlags />} />
-          <Route path='Plus'>
-            <Route index element={<FlagsPlus />} />
-            <Route path="Europe" element={<EuropeFlagsPlus />} />
-            <Route path="Asia" element={<AsiaFlagsPlus />} />
-            <Route path="Americas" element={<AmericaFlagsPlus />} />
-            <Route path="Africa" element={<AfricaFlagsPlus />} />
+      <ScoreContext.Provider value={values}>
+        <Navigation />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="Flags" >
+            <Route index element={<Flags />} />
+            <Route path="Europe" element={<EuropeFlags />} />
+            <Route path="Asia" element={<AsiaFlags />} />
+            <Route path="Americas" element={<AmericaFlags />} />
+            <Route path="Africa" element={<AfricaFlags />} />
+            <Route path='Plus'>
+              <Route index element={<FlagsPlus />} />
+              <Route path="Europe" element={<EuropeFlagsPlus />} />
+              <Route path="Asia" element={<AsiaFlagsPlus />} />
+              <Route path="Americas" element={<AmericaFlagsPlus />} />
+              <Route path="Africa" element={<AfricaFlagsPlus />} />
+            </Route>
           </Route>
-        </Route>
-        <Route path="Outlines" >
-          <Route index element={<Outlines />} />
-          <Route path="Europe" element={<EuropeOutlines />} />
-          <Route path="Asia" element={<AsiaOutlines />} />
-          <Route path="Americas" element={<AmericasOutlines />} />
-          <Route path="Africa" element={<AfricaOutlines />} />
-          <Route path='Plus'>
-            <Route index element={<OutlinesPlus />} />
-            <Route path="Europe" element={<EuropeOutlinesPlus />} />
-            <Route path="Asia" element={<AsiaOutlinesPlus />} />
-            <Route path="Americas" element={<AmericasOutlinesPlus />} />
-            <Route path="Africa" element={<AfricaOutlinesPlus />} />
+          <Route path="Outlines" >
+            <Route index element={<Outlines />} />
+            <Route path="Europe" element={<EuropeOutlines />} />
+            <Route path="Asia" element={<AsiaOutlines />} />
+            <Route path="Americas" element={<AmericasOutlines />} />
+            <Route path="Africa" element={<AfricaOutlines />} />
+            <Route path='Plus'>
+              <Route index element={<OutlinesPlus />} />
+              <Route path="Europe" element={<EuropeOutlinesPlus />} />
+              <Route path="Asia" element={<AsiaOutlinesPlus />} />
+              <Route path="Americas" element={<AmericasOutlinesPlus />} />
+              <Route path="Africa" element={<AfricaOutlinesPlus />} />
+            </Route>
           </Route>
-        </Route>
-        <Route path="Capitals" >
-          <Route index element={<Capitals />} />
-          <Route path="Europe" element={<EuropeCapitals />} />
-          <Route path="Asia" element={<AsiaCapitals />} />
-          <Route path="Americas" element={<AmericaCapitals />} />
-          <Route path="Africa" element={<AfricaCapitals />} />
-          <Route path='Plus'>
-            <Route index element={<CapitalsPlus />} />
-            <Route path="Europe" element={<EuropeCapitalsPlus />} />
-            <Route path="Asia" element={<AsiaCapitalsPlus />} />
-            <Route path="Americas" element={<AmericaCapitalsPlus />} />
-            <Route path="Africa" element={<AfricaCapitalsPlus />} />
+          <Route path="Capitals" >
+            <Route index element={<Capitals />} />
+            <Route path="Europe" element={<EuropeCapitals />} />
+            <Route path="Asia" element={<AsiaCapitals />} />
+            <Route path="Americas" element={<AmericaCapitals />} />
+            <Route path="Africa" element={<AfricaCapitals />} />
+            <Route path='Plus'>
+              <Route index element={<CapitalsPlus />} />
+              <Route path="Europe" element={<EuropeCapitalsPlus />} />
+              <Route path="Asia" element={<AsiaCapitalsPlus />} />
+              <Route path="Americas" element={<AmericaCapitalsPlus />} />
+              <Route path="Africa" element={<AfricaCapitalsPlus />} />
+            </Route>
           </Route>
-        </Route>
-        <Route path="Scores" element={<Scores />} />
-      </Routes>
+          <Route path="Scores" element={<Scores />} />
+        </Routes>
+      </ScoreContext.Provider>
     </>
   )
 }

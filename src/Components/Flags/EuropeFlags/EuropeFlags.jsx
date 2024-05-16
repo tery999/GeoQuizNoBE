@@ -16,7 +16,7 @@ export default function EuropeFlags () {
   
     useEffect(() => {
       const getFlags = async () => {
-        debugger;
+        // debugger;
         const flags = await getEuropeData();
         const shuffling = flags.sort(() => Math.random() - 0.5);
         const choices = [...shuffling];
@@ -44,7 +44,7 @@ export default function EuropeFlags () {
       if (name === currentFlag.name) {
         correctAsnwers.current++;
       }
-      debugger;
+      // debugger;
       const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
@@ -55,6 +55,11 @@ export default function EuropeFlags () {
     }
   
     const currentFlagImage = currentFlag?.name;
+
+    if (loaded && currentTurn.current > totalAnswers.current ) {
+      debugger;
+      console.log(`Score is ${correctAsnwers.current} out of ${totalAnswers.current}`);
+    }
     return (
       <div className={styles.container}>
         {currentTurn.current <= totalAnswers.current &&
