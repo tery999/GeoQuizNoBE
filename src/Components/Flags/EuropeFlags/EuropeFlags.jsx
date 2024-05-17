@@ -1,9 +1,11 @@
-import { useEffect, useRef, useState } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./EuropeFlags.module.css"
 import { getEuropeData } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 export default function EuropeFlags () {
   //original without custom hook
+  const {changeScoreFunc} = useContext(ScoreContext)
 
     const [flagsArrShuffled, setFlagsArrShuffled] = useState([]);
     const [choices, setChoices] = useState([]);
@@ -44,10 +46,14 @@ export default function EuropeFlags () {
       if (name === currentFlag.name) {
         correctAsnwers.current++;
       }
-      // debugger;
+      debugger;
       const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
+
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        changeScoreFunc({EuroFlags: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
@@ -56,10 +62,6 @@ export default function EuropeFlags () {
   
     const currentFlagImage = currentFlag?.name;
 
-    if (loaded && currentTurn.current > totalAnswers.current ) {
-      debugger;
-      console.log(`Score is ${correctAsnwers.current} out of ${totalAnswers.current}`);
-    }
     return (
       <div className={styles.container}>
         {currentTurn.current <= totalAnswers.current &&

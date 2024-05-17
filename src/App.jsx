@@ -35,18 +35,19 @@ import AmericasOutlinesPlus from './Components/OutlinesPlus/AmericasOutlinesPlus
 import AfricaOutlinesPlus from './Components/OutlinesPlus/AfricaOutlinesPlus/AfricaOutlinesPlus'
 import Scores from './Components/Scores/Scores'
 
-
+export const ScoreContext = createContext();
 function App() {
-  const ScoreContext = createContext();
   const [score, setScore] = useState({
     EuroFlags: 0,
     AsiaFlags: 0,
     AfricaFlags: 0,
     AmericasFlags: 0
   })
+  console.log("SCORE IS", score)
 
   const changeScoreFunc = (addedScore) => {
-    setScore((prev) => ({ ...prev, addedScore }))
+    debugger;
+    setScore((prev) => ({ ...prev, ...addedScore }))
   }
 
   const values = {
