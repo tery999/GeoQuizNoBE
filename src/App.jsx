@@ -41,7 +41,11 @@ function App() {
     EuroFlags: 0,
     AsiaFlags: 0,
     AfricaFlags: 0,
-    AmericasFlags: 0
+    AmericasFlags: 0,
+    EuroFlagsPlus: 0,
+    AsiaFlagsPlus: 0,
+    AfricaFlagsPlus: 0,
+    AmericasFlagsPlus: 0
   })
   console.log("SCORE IS", score)
 

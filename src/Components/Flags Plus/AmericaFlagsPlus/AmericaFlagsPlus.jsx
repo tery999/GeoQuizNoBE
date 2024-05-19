@@ -1,10 +1,12 @@
-import { useEffect, useRef, useState } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./AmericaFlags.module.css"
 import { useCustomFlags } from '../../../Services/useCustomFlags';
 import { getAmericaData, getAmericaDataPlus } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AmericaFlagsPlus () {
+  const {changeScoreFunc} = useContext(ScoreContext)
     //using custom hook, doesnt look pretty, need to make it better
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
@@ -29,6 +31,9 @@ export default function AmericaFlagsPlus () {
       const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        changeScoreFunc({EuroFlagsPlus: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
