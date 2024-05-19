@@ -1,11 +1,13 @@
-import { useEffect, useRef, useState } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./AfricaFlags.module.css"
 import { useCustomFlags } from '../../../Services/useCustomFlags';
 import { getAfricaData } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AfricaFlags () {
     //using custom hook, doesnt look pretty, need to make it better
+    const {changeScoreFunc} = useContext(ScoreContext)
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
         loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAfricaData);
@@ -29,6 +31,9 @@ export default function AfricaFlags () {
       const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        changeScoreFunc({AfricaFlags: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
