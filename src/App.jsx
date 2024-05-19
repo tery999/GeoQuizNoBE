@@ -38,14 +38,9 @@ import Scores from './Components/Scores/Scores'
 export const ScoreContext = createContext();
 function App() {
   const [score, setScore] = useState({
-    EuroFlags: 0,
-    AsiaFlags: 0,
-    AfricaFlags: 0,
-    AmericasFlags: 0,
-    EuroFlagsPlus: 0,
-    AsiaFlagsPlus: 0,
-    AfricaFlagsPlus: 0,
-    AmericasFlagsPlus: 0
+    EuroFlags: 0, AsiaFlags: 0, AfricaFlags: 0, AmericasFlags: 0,
+    EuroFlagsPlus: 0, AsiaFlagsPlus: 0, AfricaFlagsPlus: 0, AmericasFlagsPlus: 0,
+    EuroCapitals: 0, AsiaCapitals: 0, AfricaCapitals: 0, AmericasCapitals: 0
   })
   console.log("SCORE IS", score)
 
