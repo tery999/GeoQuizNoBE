@@ -40,7 +40,10 @@ function App() {
   const [score, setScore] = useState({
     EuroFlags: 0, AsiaFlags: 0, AfricaFlags: 0, AmericasFlags: 0,
     EuroFlagsPlus: 0, AsiaFlagsPlus: 0, AfricaFlagsPlus: 0, AmericasFlagsPlus: 0,
-    EuroCapitals: 0, AsiaCapitals: 0, AfricaCapitals: 0, AmericasCapitals: 0
+    EuroCapitals: 0, AsiaCapitals: 0, AfricaCapitals: 0, AmericasCapitals: 0,
+    EuroCapitalsPlus: 0, AsiaCapitalsPlus: 0, AfricaCapitalsPlus: 0, AmericasCapitalsPlus: 0,
+    EuroOutlines:0 , AsiaOutlines:0, AfricaOutlines:0, AmericasOutlines:0,
+    EuroOutlinesPlus:0, AsiaOutlinesPlus:0, AfricaOutlinesPlus:0, AmericasOutlinesPlus:0
   })
   console.log("SCORE IS", score)
 
