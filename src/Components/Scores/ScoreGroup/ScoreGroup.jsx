@@ -3,7 +3,7 @@ export default function ScoreGroup(prop) {
     const scoreGroup = prop.scoreGroup
     return (
         <>
-        <h2>{prop.children}</h2>
+        {prop.children}
             {scoreGroup.map(([key, value], i) => <div key={i}>
                 <div>{key}</div>   <div>{value}</div>
             </div>)

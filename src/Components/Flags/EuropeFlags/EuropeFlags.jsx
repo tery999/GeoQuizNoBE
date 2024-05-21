@@ -2,10 +2,13 @@ import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./EuropeFlags.module.css"
 import { getEuropeData } from '../../../Services/Services';
 import { ScoreContext } from '../../../App';
+import { useNavigate, useLocation } from 'react-router-dom';
 
 export default function EuropeFlags () {
   //original without custom hook
+  debugger;
   const {changeScoreFunc} = useContext(ScoreContext)
+  const [reloaded, setReloaded] = useState(false);
 
     const [flagsArrShuffled, setFlagsArrShuffled] = useState([]);
     const [choices, setChoices] = useState([]);
@@ -31,7 +34,7 @@ export default function EuropeFlags () {
         setLoaded(true);
       }
       getFlags();
-    }, [])
+    }, [reloaded])
     const fourChoices = [];
     fourChoices.push(currentFlag);
     const choicesWithoutCurrent = choices.filter((flagObj) => {
@@ -57,7 +60,8 @@ export default function EuropeFlags () {
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      currentTurn.current = 1;
+      setReloaded( (prev)=> !prev);
     }
   
     const currentFlagImage = currentFlag?.name;

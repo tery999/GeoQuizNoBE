@@ -18,18 +18,18 @@ export default function Scores() {
             <div className={styles.groupings}>
                 <div className={styles.flagGroup}>
                     <ScoreGroup scoreGroup={flagScores}>
-                        Flags
-                        </ScoreGroup>
+                        <h2>Flags</h2>
+                    </ScoreGroup>
                 </div>
                 <div className={styles.flagGroup}>
-                <ScoreGroup scoreGroup={capitalScores}>
-                        Capitals
-                        </ScoreGroup>
+                    <ScoreGroup scoreGroup={capitalScores}>
+                        <h2>Capitals</h2>
+                    </ScoreGroup>
                 </div>
                 <div className={styles.flagGroup}>
-                <ScoreGroup scoreGroup={outlineScores}>
-                        Outlines
-                        </ScoreGroup>
+                    <ScoreGroup scoreGroup={outlineScores}>
+                        <h2>Outlines</h2>
+                    </ScoreGroup>
                 </div>
             </div>
         </div>
