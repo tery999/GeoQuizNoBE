@@ -1,15 +1,17 @@
-import { useEffect, useRef, useState } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./AfricaOutlines.module.css"
 import {useCustomOutlines} from "../../../Services/useCustomOutlines"
 import { getAfricaData } from '../../../Services/Services';
 import { getAfricaDataPlus } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AfricaOutlinesPlus () {
-    //using custom hook, doesnt look pretty, need to make it better
+  const {changeScoreFunc} = useContext(ScoreContext)
+  const [reload, setReload] = useState(false);
     const [ countryArrShuffled ,choices, 
         setChoices, currentOutline, setCurrentOutline, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAfricaDataPlus);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAfricaDataPlus, reload);
   
 
     const fourChoices = [];
@@ -23,17 +25,20 @@ export default function AfricaOutlinesPlus () {
     const fourChoicesShuffled = fourChoices.sort(() => Math.random() - 0.5);
   
     const choiceClickFunction = (name) => {
-      if (name === currentOutline.name) {
+      if (name === currentFlag.name) {
         correctAsnwers.current++;
       }
       debugger;
-      const newCurOutline = countryArrShuffled.splice(0, 1)[0];
+      const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
-      setCurrentOutline(newCurOutline);
+      setCurrentFlag(newCurFlag);
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        changeScoreFunc({AfricaOutlinesPlus: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
   
     const currentOutlineName = currentOutline?.name;

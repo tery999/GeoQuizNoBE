@@ -1,14 +1,16 @@
-import { useEffect, useRef, useState } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import * as styles from "./AsiaOutlines.module.css"
 import {useCustomOutlines} from "../../../Services/useCustomOutlines"
 import { getAsiaData } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AsiaOutlines () {
-    //using custom hook, doesnt look pretty, need to make it better
+  const {changeScoreFunc} = useContext(ScoreContext)
+  const [reload, setReload] = useState(false);
     const [ countryArrShuffled ,choices, 
         setChoices, currentOutline, setCurrentOutline, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAsiaData);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomOutlines(getAsiaData, reload);
   
 
     const fourChoices = [];
@@ -22,17 +24,20 @@ export default function AsiaOutlines () {
     const fourChoicesShuffled = fourChoices.sort(() => Math.random() - 0.5);
   
     const choiceClickFunction = (name) => {
-      if (name === currentOutline.name) {
+      if (name === currentFlag.name) {
         correctAsnwers.current++;
       }
       debugger;
-      const newCurOutline = countryArrShuffled.splice(0, 1)[0];
+      const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
-      setCurrentOutline(newCurOutline);
+      setCurrentFlag(newCurFlag);
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        changeScoreFunc({AsiaOutlines: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
   
     const currentOutlineName = currentOutline?.name;

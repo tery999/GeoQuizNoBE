@@ -1,7 +1,8 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useContext, useState } from 'react'
 import * as styles from "./AmericaCapitals.module.css"
 import { useCustomCapitals } from '../../../Services/useCustomCapitals';
 import { getAmericaData } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AmericaCapitals () {
