@@ -8,9 +8,10 @@ import { ScoreContext } from '../../../App';
 export default function AsiaFlagsPlus () {
     //using custom hook, doesnt look pretty, need to make it better
     const {changeScoreFunc} = useContext(ScoreContext)
+    const [reload, setReload] = useState(false);
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAsiaDataPlus);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAsiaDataPlus, reload);
   
 
     const fourChoices = [];
@@ -27,17 +28,17 @@ export default function AsiaFlagsPlus () {
       if (name === currentFlag.name) {
         correctAsnwers.current++;
       }
-      debugger;
       const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
       if (loaded && currentTurn.current > totalAnswers.current ) {
-        changeScoreFunc({EuroFlagsPlus: correctAsnwers.current});
+        debugger;
+        changeScoreFunc({AsiaFlags: correctAsnwers.current});
       }
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
   
     const currentFlagImage = currentFlag?.name;

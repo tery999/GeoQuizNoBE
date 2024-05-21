@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 //Same as useCustomFlags, but with changed names
-export function useCustomOutlines(getOutlineFunc) {
+export function useCustomOutlines(getOutlineFunc, reload) {
     const [countryArrShuffled, setCountryArrShuffled] = useState([]);
     const [choices, setChoices] = useState([]);
     const [currentOutline, setCurrentOutline] = useState({});
@@ -17,7 +17,10 @@ export function useCustomOutlines(getOutlineFunc) {
           const shuffling = outlines.sort(() => Math.random() - 0.5);
           const choices = [...shuffling];
           setChoices(choices);
-          totalAnswers.current = outlines.length;
+
+          totalAnswers.current = flags.length;
+          correctAsnwers.current = 0;
+          currentTurn.current = 1;
     
           const currentOutline = shuffling.splice(0, 1)[0];
           setCountryArrShuffled(shuffling);
@@ -25,7 +28,7 @@ export function useCustomOutlines(getOutlineFunc) {
           setLoaded(true);
         }
         getOutlines();
-      }, [])
+      }, [reload])
 
       return [countryArrShuffled, choices, setChoices, currentOutline, setCurrentOutline, loaded, correctAsnwers, totalAnswers, currentTurn]
 }

@@ -8,9 +8,10 @@ import { ScoreContext } from '../../../App';
 export default function AfricaFlags () {
     //using custom hook, doesnt look pretty, need to make it better
     const {changeScoreFunc} = useContext(ScoreContext)
+    const [reload, setReload] = useState(false);
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAfricaData);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAfricaData, reload);
   
 
     const fourChoices = [];
@@ -37,7 +38,7 @@ export default function AfricaFlags () {
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
   
     const currentFlagImage = currentFlag?.name;

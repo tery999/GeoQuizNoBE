@@ -61,6 +61,7 @@ export default function EuropeFlags () {
   
     const ResetFunction = () => {
       currentTurn.current = 1;
+      correctAsnwers.current = 0;
       setReloaded( (prev)=> !prev);
     }
   

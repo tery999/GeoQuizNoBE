@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-export function useCustomFlags(getFlagFunc) {
+export function useCustomFlags(getFlagFunc, reload) {
     const [flagsArrShuffled, setFlagsArrShuffled] = useState([]);
     const [choices, setChoices] = useState([]);
     const [currentFlag, setCurrentFlag] = useState({});
@@ -16,7 +16,10 @@ export function useCustomFlags(getFlagFunc) {
           const shuffling = flags.sort(() => Math.random() - 0.5);
           const choices = [...shuffling];
           setChoices(choices);
+
           totalAnswers.current = flags.length;
+          correctAsnwers.current = 0;
+          currentTurn.current = 1;
     
           const currentFlg = shuffling.splice(0, 1)[0];
           setFlagsArrShuffled(shuffling);
@@ -24,7 +27,7 @@ export function useCustomFlags(getFlagFunc) {
           setLoaded(true);
         }
         getFlags();
-      }, [])
+      }, [reload])
 
       return [flagsArrShuffled, choices, setChoices, currentFlag, setCurrentFlag, loaded, correctAsnwers, totalAnswers, currentTurn]
 }

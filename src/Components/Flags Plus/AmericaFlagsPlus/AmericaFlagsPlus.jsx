@@ -7,10 +7,10 @@ import { ScoreContext } from '../../../App';
 
 export default function AmericaFlagsPlus () {
   const {changeScoreFunc} = useContext(ScoreContext)
-    //using custom hook, doesnt look pretty, need to make it better
+    const [reload, setReload] = useState(false);
     const [ flagsArrShuffled ,choices, 
         setChoices, currentFlag, setCurrentFlag, 
-        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAmericaDataPlus);
+        loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomFlags(getAmericaDataPlus, reload);
   
 
     const fourChoices = [];
@@ -32,12 +32,12 @@ export default function AmericaFlagsPlus () {
       currentTurn.current++;
       setCurrentFlag(newCurFlag);
       if (loaded && currentTurn.current > totalAnswers.current ) {
-        changeScoreFunc({EuroFlagsPlus: correctAsnwers.current});
+        changeScoreFunc({AmericasFlagsPlus: correctAsnwers.current});
       }
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
   
     const currentFlagImage = currentFlag?.name;

@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 //Same as useCustomFlags, but with changed names
-export function useCustomCapitals(getCapitalFunc) {
+export function useCustomCapitals(getCapitalFunc, reload) {
     const [countryArrShuffled, setCountryArrShuffled] = useState([]);
     const [choices, setChoices] = useState([]);
     const [currentCapital, setCurrentCapital] = useState({});
@@ -17,7 +17,10 @@ export function useCustomCapitals(getCapitalFunc) {
           const shuffling = capitals.sort(() => Math.random() - 0.5);
           const choices = [...shuffling];
           setChoices(choices);
-          totalAnswers.current = capitals.length;
+
+          totalAnswers.current = flags.length;
+          correctAsnwers.current = 0;
+          currentTurn.current = 1;
     
           const currentCapital = shuffling.splice(0, 1)[0];
           setCountryArrShuffled(shuffling);
@@ -25,7 +28,7 @@ export function useCustomCapitals(getCapitalFunc) {
           setLoaded(true);
         }
         getCapitals();
-      }, [])
+      }, [reload])
 
       return [countryArrShuffled, choices, setChoices, currentCapital, setCurrentCapital, loaded, correctAsnwers, totalAnswers, currentTurn]
 }

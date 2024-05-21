@@ -5,8 +5,9 @@ import { getAmericaData, getAmericaDataPlus } from '../../../Services/Services';
 
 
 export default function AmericaCapitalsPlus () {
-    //using custom hook, doesnt look pretty, need to make it better
-    const [ countryArrShuffled, choices, setChoices, currentCapital, setCurrentCapital, loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomCapitals(getAmericaDataPlus);
+  const {changeScoreFunc} = useContext(ScoreContext)
+  const [reload, setReload] = useState(false);
+    const [ countryArrShuffled, choices, setChoices, currentCapital, setCurrentCapital, loaded, correctAsnwers, totalAnswers, currentTurn] = useCustomCapitals(getAmericaDataPlus, reload);
   
 
     const fourChoices = [];
@@ -27,10 +28,14 @@ export default function AmericaCapitalsPlus () {
       const newCurCap = countryArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
       setCurrentCapital(newCurCap);
+      if (loaded && currentTurn.current > totalAnswers.current ) {
+        debugger;
+        changeScoreFunc({AmericasCapitalsPlus: correctAsnwers.current});
+      }
     }
   
     const ResetFunction = () => {
-      window.location.reload();
+      setReload( (prev)=> !prev);
     }
     debugger;
     const currentCapitalName = currentCapital?.name;
