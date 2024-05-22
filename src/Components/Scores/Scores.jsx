@@ -1,5 +1,6 @@
 import { useContext } from "react"
 import { ScoreContext } from "../../App"
+import { Link } from "react-router-dom";
 import * as styles from "./Scores.module.css"
 import filterScoreGrouping from "./filterScoreGrouping";
 import ScoreGroup from "./ScoreGroup/ScoreGroup";
@@ -18,17 +19,23 @@ export default function Scores() {
             <div className={styles.groupings}>
                 <div className={styles.flagGroup}>
                     <ScoreGroup scoreGroup={flagScores}>
-                        <h2>Flags</h2>
+                        <Link to={"/Flags"}>
+                            <h2>Flags</h2>
+                        </Link>
                     </ScoreGroup>
                 </div>
                 <div className={styles.flagGroup}>
                     <ScoreGroup scoreGroup={capitalScores}>
-                        <h2>Capitals</h2>
+                        <Link to={"/Capitals"}>
+                            <h2>Capitals</h2>
+                        </Link>
                     </ScoreGroup>
                 </div>
                 <div className={styles.flagGroup}>
                     <ScoreGroup scoreGroup={outlineScores}>
-                        <h2>Outlines</h2>
+                    <Link to={"/Outlines"}>
+                            <h2>Outlines</h2>
+                        </Link>
                     </ScoreGroup>
                 </div>
             </div>

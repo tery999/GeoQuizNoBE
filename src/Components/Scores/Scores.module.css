@@ -27,11 +27,26 @@
     border-radius: 10px;
 }
 
-.flagGroup > h2 {
+.flagGroup h2 {
     font-size: 25px;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
     color: white;
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flagGroup > a {
+    border-radius: 10px 10px 0px 0px;
+    text-decoration: none;
+    width: 100%;
+    transition: 0.3s;
+}
+
+.flagGroup > a:hover {
+    background-color:navy;
+    transition: 0.3s;
 }
 
 .flagGroup > div {
