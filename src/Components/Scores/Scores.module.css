@@ -42,11 +42,13 @@
     text-decoration: none;
     width: 100%;
     transition: 0.3s;
+    border-bottom: 3px solid rgba(255, 0, 0, 0);
 }
 
 .flagGroup > a:hover {
     background-color:navy;
     transition: 0.3s;
+    border-bottom: 3px solid yellow;
 }
 
 .flagGroup > div {

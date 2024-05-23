@@ -18,7 +18,7 @@ export function useCustomCapitals(getCapitalFunc, reload) {
           const choices = [...shuffling];
           setChoices(choices);
 
-          totalAnswers.current = flags.length;
+          totalAnswers.current = capitals.length;
           correctAsnwers.current = 0;
           currentTurn.current = 1;
     

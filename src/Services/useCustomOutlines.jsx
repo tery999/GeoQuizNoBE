@@ -18,7 +18,7 @@ export function useCustomOutlines(getOutlineFunc, reload) {
           const choices = [...shuffling];
           setChoices(choices);
 
-          totalAnswers.current = flags.length;
+          totalAnswers.current = outlines.length;
           correctAsnwers.current = 0;
           currentTurn.current = 1;
     

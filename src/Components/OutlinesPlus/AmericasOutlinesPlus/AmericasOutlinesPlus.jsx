@@ -3,6 +3,7 @@ import * as styles from "./AmericasOutlines.module.css"
 import { useCustomOutlines } from "../../../Services/useCustomOutlines"
 import { getAmericaData } from '../../../Services/Services';
 import { getAmericaDataPlus } from '../../../Services/Services';
+import { ScoreContext } from '../../../App';
 
 
 export default function AmericasOutlinesPlus() {

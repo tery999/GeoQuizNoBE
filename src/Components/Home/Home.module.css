@@ -5,10 +5,12 @@
     align-items: center;
     gap: 10px;
     margin-top: 10px;
+    height: 90vh;
 }
 
 .container > a {
-    height: 150px;
+    /* height: 150px; */
+    flex: 1;
     width: 100%;
     background-color: aqua;
     display: flex;
