@@ -3,6 +3,7 @@ import * as styles from "./AmericasOutlines.module.css"
 import { useCustomOutlines } from "../../../Services/useCustomOutlines"
 import { getAmericaData } from '../../../Services/Services';
 import { ScoreContext } from '../../../App';
+import { faL } from '@fortawesome/free-solid-svg-icons';
 
 export default function AmericasOutlines() {
   const {changeScoreFunc} = useContext(ScoreContext)
@@ -28,16 +29,17 @@ export default function AmericasOutlines() {
   }
 
   const choiceClickFunction = (name) => {
-    if (name === currentFlag.name) {
+    if (name === currentOutline.name) {
       correctAsnwers.current++;
     }
     debugger;
-    const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
+    const newCurOutline = countryArrShuffled.splice(0, 1)[0];
     currentTurn.current++;
-    setCurrentFlag(newCurFlag);
+    setCurrentOutline(newCurOutline);
     if (loaded && currentTurn.current > totalAnswers.current ) {
       changeScoreFunc({AmericasOutlines: correctAsnwers.current});
     }
+    setImageHasLoaded(false);
   }
 
   const ResetFunction = () => {

@@ -25,22 +25,21 @@ export default function AfricaOutlinesPlus () {
     const fourChoicesShuffled = fourChoices.sort(() => Math.random() - 0.5);
   
     const choiceClickFunction = (name) => {
-      if (name === currentFlag.name) {
+      if (name === currentOutline.name) {
         correctAsnwers.current++;
       }
       debugger;
-      const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
+      const newCurOutline = countryArrShuffled.splice(0, 1)[0];
       currentTurn.current++;
-      setCurrentFlag(newCurFlag);
+      setCurrentOutline(newCurOutline);
       if (loaded && currentTurn.current > totalAnswers.current ) {
-        changeScoreFunc({AfricaOutlinesPlus: correctAsnwers.current});
+        changeScoreFunc({AfricaOutlines: correctAsnwers.current});
       }
     }
   
     const ResetFunction = () => {
       setReload( (prev)=> !prev);
     }
-  
     const currentOutlineName = currentOutline?.name;
     return (
       <div className={styles.container}>

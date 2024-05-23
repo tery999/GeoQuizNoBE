@@ -30,15 +30,15 @@ export default function AmericasOutlinesPlus() {
   }
 
   const choiceClickFunction = (name) => {
-    if (name === currentFlag.name) {
+    if (name === currentOutline.name) {
       correctAsnwers.current++;
     }
     debugger;
-    const newCurFlag = flagsArrShuffled.splice(0, 1)[0];
+    const newCurOutline = countryArrShuffled.splice(0, 1)[0];
     currentTurn.current++;
-    setCurrentFlag(newCurFlag);
+    setCurrentOutline(newCurOutline);
     if (loaded && currentTurn.current > totalAnswers.current ) {
-      changeScoreFunc({AmericasOutlinesPlus: correctAsnwers.current});
+      changeScoreFunc({AmericasOutlines: correctAsnwers.current});
     }
   }
 
