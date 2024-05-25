@@ -6,6 +6,13 @@
     height: 40px;
 }
 
+@media screen and (max-width: 420px) {
+    .NavContainer {
+        flex-direction: column;
+        height: 100%;
+    }
+  }
+
 .NavContainer a {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
