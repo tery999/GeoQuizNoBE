@@ -6,10 +6,29 @@
     height: 40px;
 }
 
+.parentNav {
+    background-color: #00B8FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.minimize {
+    display: none;
+}
+
 @media screen and (max-width: 420px) {
     .NavContainer {
         flex-direction: column;
         height: 100%;
+    }
+
+    .minimize {
+        display: flex;
+        align-self: center;
+        margin: 10px;
+        color: white;
+        font-size: 26px;
     }
   }
 
