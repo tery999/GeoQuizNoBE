@@ -3,7 +3,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf3fe"
   },
   "name": "Algeria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Algeria_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Algeria.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/dz-03.png",
   "Capital": "Algiers",
   "Plus": false
@@ -13,7 +13,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf3ff"
   },
   "name": "Angola",
-  "flagURL": "https://www.nationsonline.org/flags_big/Angola_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Angola.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ao-03.png",
   "Capital": "Luanda",
   "Plus": false
@@ -23,7 +23,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf400"
   },
   "name": "Benin",
-  "flagURL": "https://www.nationsonline.org/flags_big/Benin_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Benin.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bj-03.png",
   "Capital": "Porto-Novo",
   "Plus": false
@@ -33,7 +33,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf401"
   },
   "name": "Botswana",
-  "flagURL": "https://www.nationsonline.org/flags_big/Botswana_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Botswana.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bw-03.png",
   "Capital": "Gaborone",
   "Plus": false
@@ -43,7 +43,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf402"
   },
   "name": "Burkina Faso",
-  "flagURL": "https://www.nationsonline.org/flags_big/Burkina_Faso_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Burkina_Faso.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bf-03.png",
   "Capital": "Ouagadougou",
   "Plus": false
@@ -53,7 +53,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf403"
   },
   "name": "Burundi",
-  "flagURL": "https://www.nationsonline.org/flags_big/Burundi_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Burundi.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bi-03.png",
   "Capital": "Gitega",
   "Plus": false
@@ -63,7 +63,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf404"
   },
   "name": "Cameroon",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cameroon_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Cameroon.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/cm-03.png",
   "Capital": "Yaoundé",
   "Plus": false
@@ -73,7 +73,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf405"
   },
   "name": "Cape Verde",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cape_Verde_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Cape_Verde.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/cv-04.png",
   "Capital": "Praia",
   "Plus": false
@@ -83,7 +83,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf406"
   },
   "name": "Central African Republic",
-  "flagURL": "https://www.nationsonline.org/flags_big/Central_African_Rep_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Central_African_Republic.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcYUF0cQOW5g9oxtaosH8uBwg6wwT4bSp3SxQLnyOGw&s",
   "Capital": "Bangui",
   "Plus": false
@@ -93,7 +93,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf407"
   },
   "name": "Chad",
-  "flagURL": "https://www.nationsonline.org/flags_big/Chad_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Chad.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxO77G0zzgSV0w0CH3RGLiJLe0L53065flNCKIYIXW3g&s",
   "Capital": "N'Djamena",
   "Plus": false
@@ -103,7 +103,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf408"
   },
   "name": "Comoros",
-  "flagURL": "https://www.nationsonline.org/flags_big/Comoros_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Comoros.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/km-03.png",
   "Capital": "Moroni",
   "Plus": false
@@ -113,7 +113,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf409"
   },
   "name": "D.R. Congo",
-  "flagURL": "https://www.nationsonline.org/flags_big/DRC_lgflag.jpg",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/cd-03.png",
   "Capital": "Kinshasa",
   "Plus": false
@@ -123,7 +123,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40a"
   },
   "name": "Congo",
-  "flagURL": "https://www.nationsonline.org/flags_big/Rep_of_the_Congo_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_the_Congo.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/big/cg-04.jpg",
   "Capital": "Brazzaville",
   "Plus": false
@@ -133,7 +133,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40b"
   },
   "name": "Djibouti",
-  "flagURL": "https://www.nationsonline.org/flags_big/Djibouti_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Djibouti.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/dj-03.png",
   "Capital": "Djibouti",
   "Plus": false
@@ -143,7 +143,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40c"
   },
   "name": "Egypt",
-  "flagURL": "https://www.nationsonline.org/flags_big/Egypt_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Egypt.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/eg-03.png",
   "Capital": "Cairo",
   "Plus": false
@@ -153,7 +153,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40d"
   },
   "name": "Equatorial Guinea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Equatorial_Guinea_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg",
   "OutlineURL": "https://www.shutterstock.com/image-vector/equatorial-guinea-map-line-outline-260nw-1591981507.jpg",
   "Capital": "Malabo",
   "Plus": false
@@ -163,7 +163,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40e"
   },
   "name": "Eritrea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Eritrea_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/er-03.png",
   "Capital": "Asmara",
   "Plus": false
@@ -173,7 +173,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf40f"
   },
   "name": "Ethiopia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ethiopia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Ethiopia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/et-03.png",
   "Capital": "Addis Ababa",
   "Plus": false
@@ -183,7 +183,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf410"
   },
   "name": "Gabon",
-  "flagURL": "https://www.nationsonline.org/flags_big/Gabon_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Gabon.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ga-03.png",
   "Capital": "Libreville",
   "Plus": false
@@ -193,7 +193,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf411"
   },
   "name": "Eswatini",
-  "flagURL": "https://www.nationsonline.org/flags_big/Swaziland_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Eswatini.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/040/134/463/non_2x/eswatini-map-with-administrative-divisions-illustration-vector.jpg",
   "Capital": "Mbabane",
   "Plus": false
@@ -203,7 +203,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf412"
   },
   "name": "Gambia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Gambia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_The_Gambia.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Ljau9Vvp-1qR498j-un21VBSXp1OspyOd3_TpwvUWhG-k8kOcX7nuMQdMux59O_NEk8&usqp=CAU",
   "Capital": "Banjul",
   "Plus": false
@@ -213,7 +213,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf413"
   },
   "name": "Ghana",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ghana_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Ghana.svg",
   "OutlineURL": "https://i.pinimg.com/474x/5f/d3/c1/5fd3c1fad6856cac05fdeeac88ac933d.jpg",
   "Capital": "Accra",
   "Plus": false
@@ -223,7 +223,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf414"
   },
   "name": "Guinea",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guinea_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Guinea.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIk4uEmCCkTjM1Y9yT3DqKEfcgsDj-WazMFNM2K9EJdg&s",
   "Capital": "Conakry",
   "Plus": false
@@ -233,7 +233,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf415"
   },
   "name": "Guinea-Bissau",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guinea-Bissau_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Guinea-Bissau.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/gw-03.png",
   "Capital": "Bissau",
   "Plus": false
@@ -243,7 +243,7 @@
     "$oid": "66424d0a54889e532c360c3f"
   },
   "name": "Ivory Coast",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cote_d_Ivoire_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_C%C3%B4te_d%27Ivoire.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/big/ci-03.jpg",
   "Capital": "Yamoussoukro",
   "Plus": false
@@ -253,7 +253,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf416"
   },
   "name": "Kenya",
-  "flagURL": "https://www.nationsonline.org/flags_big/Kenya_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Kenya.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRzcNsBBg_sCvCEcUQ1ITfzX4L2vsit7U-GlFPNk6jQ&s",
   "Capital": "Nairobi",
   "Plus": false
@@ -263,7 +263,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf417"
   },
   "name": "Lesotho",
-  "flagURL": "https://www.nationsonline.org/flags_big/Lesotho_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Lesotho.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ls-03.png",
   "Capital": "Maseru",
   "Plus": false
@@ -273,7 +273,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf418"
   },
   "name": "Liberia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Liberia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Liberia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/lr-03.png",
   "Capital": "Monrovia",
   "Plus": false
@@ -283,7 +283,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf419"
   },
   "name": "Libya",
-  "flagURL": "https://www.nationsonline.org/flags_big/Libya-new-lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Libya.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ly-03.png",
   "Capital": "Tripoli",
   "Plus": false
@@ -293,7 +293,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41a"
   },
   "name": "Madagascar",
-  "flagURL": "https://www.nationsonline.org/flags_big/Madagascar_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Madagascar.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/mg-03.png",
   "Capital": "Antananarivo",
   "Plus": false
@@ -303,7 +303,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41b"
   },
   "name": "Malawi",
-  "flagURL": "https://www.nationsonline.org/flags_big/Malawi_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Malawi.svg",
   "OutlineURL": "https://www.shutterstock.com/image-vector/blue-map-malawi-260nw-435090628.jpg",
   "Capital": "Lilongwe",
   "Plus": false
@@ -313,7 +313,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41c"
   },
   "name": "Mali",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mali_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Mali.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ml-03.png",
   "Capital": "Bamako",
   "Plus": false
@@ -323,7 +323,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41d"
   },
   "name": "Mauritania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mauritania_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Mauritania.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/mr-03.png",
   "Capital": "Nouakchott",
   "Plus": false
@@ -333,7 +333,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41e"
   },
   "name": "Morocco",
-  "flagURL": "https://www.nationsonline.org/flags_big/Morocco_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ma-03.png",
   "Capital": "Port Louis",
   "Plus": false
@@ -343,7 +343,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf41f"
   },
   "name": "Mozambique",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mozambique_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Mozambique.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/mz-03.png",
   "Capital": "Maputo",
   "Plus": false
@@ -353,7 +353,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf420"
   },
   "name": "Namibia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Namibia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Namibia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/na-03.png",
   "Capital": "Windhoek",
   "Plus": false
@@ -363,7 +363,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf421"
   },
   "name": "Niger",
-  "flagURL": "https://www.nationsonline.org/flags_big/Niger_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Niger.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ne-03.png",
   "Capital": "Niamey",
   "Plus": false
@@ -373,7 +373,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf422"
   },
   "name": "Nigeria",
-  "flagURL": "https://www.nationsonline.org/flags_big/Nigeria_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Nigeria.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ng-03.png",
   "Capital": "Abuja",
   "Plus": false
@@ -383,7 +383,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf423"
   },
   "name": "Rwanda",
-  "flagURL": "https://www.nationsonline.org/flags_big/Rwanda_lgflag.jpg",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Rwanda.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1NigukbAV99zWpop-4zQHkKx4apZuXQ6Fv4KX3B1lw&s",
   "Capital": "Kigali",
   "Plus": false
@@ -393,7 +393,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf424"
   },
   "name": "São Tomé and Príncipe",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sao_Tome_Principe_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/big/st-03.jpg",
   "Capital": "São Tomé",
   "Plus": false
@@ -403,7 +403,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf425"
   },
   "name": "Senegal",
-  "flagURL": "https://www.nationsonline.org/flags_big/Senegal_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Senegal.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/sn-03.png",
   "Capital": "Dakar",
   "Plus": false
@@ -413,7 +413,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf426"
   },
   "name": "Seychelles",
-  "flagURL": "https://www.nationsonline.org/flags_big/Seychelles_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Seychelles.svg",
   "OutlineURL": "https://www.shutterstock.com/image-vector/vector-illustration-seychelles-map-260nw-1108178672.jpg",
   "Capital": "Victoria",
   "Plus": false
@@ -423,7 +423,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf427"
   },
   "name": "Sierra Leone",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sierra_Leone_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Sierra_Leone.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/sl-03.png",
   "Capital": "Freetown",
   "Plus": false
@@ -433,7 +433,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf428"
   },
   "name": "Somalia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Somalia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Somalia.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Somalia_regions_map.svg/543px-Somalia_regions_map.svg.png",
   "Capital": "Mogadishu",
   "Plus": false
@@ -443,7 +443,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf429"
   },
   "name": "South Africa",
-  "flagURL": "https://www.nationsonline.org/flags_big/South_Africa_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_South_Africa.svg",
   "OutlineURL": "https://southafricamap360.com/img/1200/south%20africa-map-outlines.jpg",
   "Capital": "Pretoria",
   "Plus": false
@@ -453,7 +453,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42a"
   },
   "name": "South Sudan",
-  "flagURL": "https://www.nationsonline.org/flags_big/South-Sudan-lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_South_Sudan.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ss-03.png",
   "Capital": "Juba",
   "Plus": false
@@ -463,7 +463,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42b"
   },
   "name": "Sudan",
-  "flagURL": "https://www.nationsonline.org/flags_big/Sudan_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Sudan.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTvLT_Goa4khcMle6hhFnTc0K7wv-B8l5nUAuNU1OEQ&s",
   "Capital": "Khartoum",
   "Plus": false
@@ -473,7 +473,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42c"
   },
   "name": "Tanzania",
-  "flagURL": "https://www.nationsonline.org/flags_big/Tanzania_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Tanzania.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIt-4Lgjg0LCNaq3X2buIOjDymT1vWTYsjW6uuyBaGWg&s",
   "Capital": "Dodoma",
   "Plus": false
@@ -483,7 +483,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42d"
   },
   "name": "Togo",
-  "flagURL": "https://www.nationsonline.org/flags_big/Togo_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Togo.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKczbnID3jDjpLJx28N6SF6zhKadYJLAfuNsWoCmww4w&s",
   "Capital": "Lomé",
   "Plus": false
@@ -493,7 +493,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42e"
   },
   "name": "Tunisia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Tunisia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Tunisia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/tn-03.png",
   "Capital": "Tunis",
   "Plus": false
@@ -503,7 +503,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf42f"
   },
   "name": "Uganda",
-  "flagURL": "https://www.nationsonline.org/flags_big/Uganda_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Uganda.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ug-03.png",
   "Capital": "Kampala",
   "Plus": false
@@ -513,7 +513,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf430"
   },
   "name": "Zambia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Zambia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Zambia.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8viiB7anxDy4dXEGqgXk5s62xUH7sybUHA5-PX-6OQ&s",
   "Capital": "Lusaka",
   "Plus": false
@@ -523,7 +523,7 @@
     "$oid": "662807f3b0f3c7c2b3eaf431"
   },
   "name": "Zimbabwe",
-  "flagURL": "https://www.nationsonline.org/flags_big/Zimbabwe_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Zimbabwe.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/zw-03.png",
   "Capital": "Harare",
   "Plus": false
