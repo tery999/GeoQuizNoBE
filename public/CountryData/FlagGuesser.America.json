@@ -3,7 +3,7 @@
     "$oid": "6627cfca640c4a70582598ea"
   },
   "name": "Antigua and Barbuda",
-  "flagURL": "https://www.nationsonline.org/flags_big/Antigua_and_Barbuda_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Antigua_and_Barbuda.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/430/230/original/doodle-freehand-drawing-of-antigua-barbuda-map-free-png.png",
   "Capital": "St. John's",
   "Plus": false
@@ -13,7 +13,7 @@
     "$oid": "6627cfca640c4a70582598eb"
   },
   "name": "Argentina",
-  "flagURL": "https://www.nationsonline.org/flags_big/Argentina_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Argentina.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ar-03.png",
   "Capital": "Buenos Aires",
   "Plus": false
@@ -23,7 +23,7 @@
     "$oid": "6627cfca640c4a70582598ec"
   },
   "name": "Bahamas",
-  "flagURL": "https://www.nationsonline.org/flags_big/Bahamas_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Bahamas.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bs-02.png",
   "Capital": "Nassau",
   "Plus": false
@@ -33,7 +33,7 @@
     "$oid": "6627cfca640c4a70582598ed"
   },
   "name": "Barbados",
-  "flagURL": "https://www.nationsonline.org/flags_big/Barbados_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Barbados.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bb-02.png",
   "Capital": "Bridgetown",
   "Plus": false
@@ -43,7 +43,7 @@
     "$oid": "6627cfca640c4a70582598ee"
   },
   "name": "Belize",
-  "flagURL": "https://www.nationsonline.org/flags_big/Belize_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Belize.svg",
   "OutlineURL": "https://www.worldatlas.com/r/w768/webimage/countrys/namerica/camerica/outline/bzoutl.gif",
   "Capital": "Belmopan",
   "Plus": false
@@ -53,7 +53,7 @@
     "$oid": "6627cfca640c4a70582598ef"
   },
   "name": "Bolivia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Bolivia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Bolivia.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxc75Xk2oCosC2BRV7VEVJTzy4JMjkcwTFTANLphfICw&s",
   "Capital": "La Paz",
   "Plus": false
@@ -63,7 +63,7 @@
     "$oid": "6627cfca640c4a70582598f0"
   },
   "name": "Brazil",
-  "flagURL": "https://www.nationsonline.org/flags_big/Brazil_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/014/494/747/original/black-colored-brazil-outline-map-political-brazilian-map-illustration-vector.jpg",
   "Capital": "Brasília",
   "Plus": false
@@ -73,7 +73,7 @@
     "$oid": "6627cfca640c4a70582598f1"
   },
   "name": "Canada",
-  "flagURL": "https://www.nationsonline.org/flags_big/Canada_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Canada_(Pantone).svg",
   "OutlineURL": "https://www.shutterstock.com/image-vector/high-detailed-vector-map-canada-600nw-151004411.jpg",
   "Capital": "Ottawa",
   "Plus": false
@@ -93,7 +93,7 @@
     "$oid": "6627cfca640c4a70582598f2"
   },
   "name": "Chile",
-  "flagURL": "https://www.nationsonline.org/flags_big/Chile_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Chile.svg",
   "OutlineURL": "https://media.istockphoto.com/id/470863318/vector/chile-country-map.jpg?s=612x612&w=0&k=20&c=iHZrlLWiKKlfjeTD6jqNYZGJOFITqnI22Ne2n70a2kA=",
   "Capital": "Santiago",
   "Plus": false
@@ -103,7 +103,7 @@
     "$oid": "6627cfca640c4a70582598f3"
   },
   "name": "Colombia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Colombia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Colombia.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobxHm1oiKumI9djuECTrtEAy1KgKthmMlznEC_xi9Gg&s",
   "Capital": "Bogotá",
   "Plus": false
@@ -113,7 +113,7 @@
     "$oid": "6627cfca640c4a70582598f4"
   },
   "name": "Costa Rica",
-  "flagURL": "https://www.nationsonline.org/flags_big/Costa_Rica_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Costa_Rica_(state).svg",
   "OutlineURL": "https://t3.ftcdn.net/jpg/01/10/06/50/360_F_110065035_1MLTDfkfIG58yNL3pvEytX0tT4SXLcRD.jpg",
   "Capital": "San José",
   "Plus": false
@@ -123,7 +123,7 @@
     "$oid": "6627cfca640c4a70582598f5"
   },
   "name": "Cuba",
-  "flagURL": "https://www.nationsonline.org/flags_big/Cuba_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Cuba.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1-dMkKoV6IPw736WnR4-uJMbMkModKhF_sLQrCFdFw&s",
   "Capital": "Havana",
   "Plus": false
@@ -133,7 +133,7 @@
     "$oid": "6627cfca640c4a70582598f6"
   },
   "name": "Dominica",
-  "flagURL": "https://www.nationsonline.org/flags_big/Dominica_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Dominica.svg",
   "OutlineURL": "https://media.istockphoto.com/id/909550968/vector/black-silhouette-country-borders-map-of-dominica-on-white-background-of-vector-illustration.jpg?s=612x612&w=0&k=20&c=ovF1EXOS4zOEBczzkkgcXBd52xgcQyDp_ACg6eT2MGo=",
   "Capital": "Roseau",
   "Plus": false
@@ -143,7 +143,7 @@
     "$oid": "6627cfca640c4a70582598f7"
   },
   "name": "Dominican Republic",
-  "flagURL": "https://www.nationsonline.org/flags_big/Dominican_Republic_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg",
   "OutlineURL": "https://t4.ftcdn.net/jpg/00/05/07/01/360_F_5070139_mxnSkb5Wh3ZiscLsbaB6m7uYcpCWq5fT.jpg",
   "Capital": "Santo Domingo",
   "Plus": false
@@ -153,7 +153,7 @@
     "$oid": "6627cfca640c4a70582598f8"
   },
   "name": "Ecuador",
-  "flagURL": "https://www.nationsonline.org/flags_big/Ecuador_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Ecuador.svg",
   "OutlineURL": "https://media.istockphoto.com/id/470863336/vector/ecuador-country-map.jpg?s=612x612&w=0&k=20&c=Xcl88grI0f2yQz8Zx74Uwce_hbFcY7N2NYS1wrzvRDA=",
   "Capital": "Quito",
   "Plus": false
@@ -163,7 +163,7 @@
     "$oid": "6627cfca640c4a70582598fa"
   },
   "name": "El Salvador",
-  "flagURL": "https://www.nationsonline.org/flags_big/El_Salvador_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_El_Salvador.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/776/original/outline-simple-map-of-el-salvador-free-vector.jpg",
   "Capital": "San Salvador",
   "Plus": false
@@ -173,7 +173,7 @@
     "$oid": "6627cfca640c4a70582598fb"
   },
   "name": "Grenada",
-  "flagURL": "https://www.nationsonline.org/flags_big/Grenada_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Grenada.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Grenada_parishes_blank.png",
   "Capital": "St. George's",
   "Plus": false
@@ -183,7 +183,7 @@
     "$oid": "6627cfca640c4a70582598fc"
   },
   "name": "Guatemala",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guatemala_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Guatemala.svg",
   "OutlineURL": "https://t4.ftcdn.net/jpg/01/06/51/07/360_F_106510756_iB7kwt4LZZ9bymOWwRQYgcoLQ3qPpq3O.jpg",
   "Capital": "Guatemala City",
   "Plus": false
@@ -193,7 +193,7 @@
     "$oid": "6627cfca640c4a70582598fd"
   },
   "name": "Guyana",
-  "flagURL": "https://www.nationsonline.org/flags_big/Guyana_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Guyana.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/003/087/798/non_2x/outline-simple-map-of-guyana-free-vector.jpg",
   "Capital": "Georgetown",
   "Plus": false
@@ -203,7 +203,7 @@
     "$oid": "6627cfca640c4a70582598fe"
   },
   "name": "Haiti",
-  "flagURL": "https://www.nationsonline.org/flags_big/Haiti_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Haiti.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWkmu-sMpnKDo11eixhm7FeNAvkQFhDNuD3t-kySlhg&s",
   "Capital": "Port-au-Prince",
   "Plus": false
@@ -213,7 +213,7 @@
     "$oid": "6627cfca640c4a70582598ff"
   },
   "name": "Honduras",
-  "flagURL": "https://www.nationsonline.org/flags_big/Honduras_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Honduras.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBxv8P1oC7wLR8a8jFHvd2JLrvvKVhiZluVvUjoDdSdg&s",
   "Capital": "Tegucigalpa",
   "Plus": false
@@ -223,7 +223,7 @@
     "$oid": "6627cfca640c4a7058259900"
   },
   "name": "Jamaica",
-  "flagURL": "https://www.nationsonline.org/flags_big/Jamaica_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Jamaica.svg",
   "OutlineURL": "https://cdn.vectorstock.com/i/500p/62/98/jamaica-island-map-silhouette-vector-41356298.jpg",
   "Capital": "Kingston",
   "Plus": false
@@ -233,7 +233,7 @@
     "$oid": "6627cfca640c4a7058259901"
   },
   "name": "Mexico",
-  "flagURL": "https://www.nationsonline.org/flags_big/Mexico_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Mexico.svg",
   "OutlineURL": "https://i.etsystatic.com/16634666/r/il/cc2990/2112239331/il_570xN.2112239331_jlr4.jpg",
   "Capital": "Mexico City",
   "Plus": false
@@ -243,7 +243,7 @@
     "$oid": "6627cfca640c4a7058259902"
   },
   "name": "Nicaragua",
-  "flagURL": "https://www.nationsonline.org/flags_big/Nicaragua_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Nicaragua.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVNkxz16iwF2O9HsTxM8GHyRBpWEh3TOP9ES2LLSAJw&s",
   "Capital": "Managua",
   "Plus": false
@@ -253,7 +253,7 @@
     "$oid": "6627cfca640c4a7058259903"
   },
   "name": "Panama",
-  "flagURL": "https://www.nationsonline.org/flags_big/Panama_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Panama.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Panama%28outline%29.png",
   "Capital": "Panama City",
   "Plus": false
@@ -263,7 +263,7 @@
     "$oid": "6627cfca640c4a7058259904"
   },
   "name": "Paraguay",
-  "flagURL": "https://www.nationsonline.org/flags_big/Paraguay_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Paraguay.svg",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Paraguay-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6435083-1610338042/original-6435083-3.jpg",
   "Capital": "Asunción",
   "Plus": false
@@ -273,7 +273,7 @@
     "$oid": "6627cfca640c4a7058259905"
   },
   "name": "Peru",
-  "flagURL": "https://www.nationsonline.org/flags_big/Peru_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Peru.svg",
   "OutlineURL": "https://media.istockphoto.com/id/470870854/vector/peru-country-map.jpg?s=612x612&w=0&k=20&c=vJAZuz6To42znPGk-EjHzRDqUEPmOu4_gwtnSYm4waA=",
   "Capital": "Lima",
   "Plus": false
@@ -283,7 +283,7 @@
     "$oid": "6627cfca640c4a7058259906"
   },
   "name": "Puerto Rico",
-  "flagURL": "https://www.nationsonline.org/flags_big/Puerto_Rico_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Puerto_Rico.svg",
   "OutlineURL": "https://t3.ftcdn.net/jpg/01/04/36/26/360_F_104362699_ti81s2m34Pqaglv59Lc6dpolbgJAfuaP.jpg",
   "Capital": "San Juan",
   "Plus": true
@@ -293,7 +293,7 @@
     "$oid": "6627cfca640c4a7058259907"
   },
   "name": "St. Kitts and Nevis",
-  "flagURL": "https://www.nationsonline.org/flags_big/Saint_Kitts_Nevis_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Saint_Kitts_and_Nevis_blank.png",
   "Capital": "Basseterre",
   "Plus": false
@@ -303,7 +303,7 @@
     "$oid": "6627cfca640c4a7058259908"
   },
   "name": "Saint Lucia",
-  "flagURL": "https://www.nationsonline.org/flags_big/Saint_Lucia_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Saint_Lucia.svg",
   "OutlineURL": "https://media.istockphoto.com/id/1129593717/vector/vector-isolated-illustration-icon-with-black-silhouette-of-simplified-map-of-saint-lucia.jpg?s=612x612&w=0&k=20&c=t0onX49zTwD_uOcn8Q2YgMtVTpPvfVhzgwkuWr4NkMU=",
   "Capital": "Castries",
   "Plus": false
@@ -313,7 +313,7 @@
     "$oid": "6627cfca640c4a7058259909"
   },
   "name": "St. Vincent and the Grenadines",
-  "flagURL": "https://www.nationsonline.org/flags_big/Saint_Vincent_Grenad_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/vc-02.png",
   "Capital": "Kingstown",
   "Plus": false
@@ -323,7 +323,7 @@
     "$oid": "6627cfca640c4a705825990a"
   },
   "name": "Suriname",
-  "flagURL": "https://www.nationsonline.org/flags_big/Suriname_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Suriname.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn4Z_WmfpZL_EWOQuhj25V8ZqIAv4hTEHe2TPWgagbg&s",
   "Capital": "Paramaribo",
   "Plus": false
@@ -333,7 +333,7 @@
     "$oid": "6627cfca640c4a705825990b"
   },
   "name": "Trinidad and Tobago",
-  "flagURL": "https://www.nationsonline.org/flags_big/Trinidad_and_Tobago_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Trinidad_and_Tobago.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/tt-03.png",
   "Capital": "Port of Spain",
   "Plus": false
@@ -343,7 +343,7 @@
     "$oid": "6627cfca640c4a705825990c"
   },
   "name": "United States",
-  "flagURL": "https://www.nationsonline.org/flags_big/United_States_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_United_States_(Pantone).svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTni-4mbY2BKdhk9K71HwlsM9OOZoyiT3QytC8_gEDT7Q&s",
   "Capital": "Washington, D.C.",
   "Plus": false
@@ -353,7 +353,7 @@
     "$oid": "6627cfca640c4a705825990d"
   },
   "name": "Uruguay",
-  "flagURL": "https://www.nationsonline.org/flags_big/Uruguay_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Uruguay.svg",
   "OutlineURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqnuzyGk1mK_yZ8KFCVbrle5hoZdfxPU873aOdQ92PA&s",
   "Capital": "Montevideo",
   "Plus": false
@@ -363,7 +363,7 @@
     "$oid": "6627cfca640c4a705825990e"
   },
   "name": "Venezuela",
-  "flagURL": "https://www.nationsonline.org/flags_big/Venezuela_new_lgflag.gif",
+  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Venezuela.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ve-03.png",
   "Capital": "Caracas",
   "Plus": false
