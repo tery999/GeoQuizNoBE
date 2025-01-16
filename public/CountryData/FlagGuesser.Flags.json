@@ -3,7 +3,7 @@
     "$oid": "661d1261e415625eb3425a5a"
   },
   "name": "Albania",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Albania.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/al-03.png",
   "Capital": "Tirana",
   "Plus": false
@@ -13,7 +13,7 @@
     "$oid": "661d1540e415625eb3425a60"
   },
   "name": "Andora",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Andorra.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Andorra.svg",
   "OutlineURL": "https://t3.ftcdn.net/jpg/02/67/85/62/360_F_267856234_EOEEuH9ycxFGvDHB61Z0IudqoOqrqkVv.jpg",
   "Capital": "Andorra la Vella",
   "Plus": false
@@ -23,7 +23,7 @@
     "$oid": "663a16e6082f9f53b0dd433c"
   },
   "name": "Armenia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Armenia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
   "OutlineURL": "https://i.pinimg.com/originals/77/51/d6/7751d617e57809ba04022f4eb653cc73.gif",
   "Capital": "Yerevan",
   "Plus": true
@@ -33,7 +33,7 @@
     "$oid": "663df43ed9267a160747ce7a"
   },
   "name": "Azerbaijan",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Azerbaijan.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/olleg/olleg1901/olleg190100956.jpg",
   "Capital": "Baku",
   "Plus": true
@@ -43,7 +43,7 @@
     "$oid": "661d1540e415625eb3425a61"
   },
   "name": "Austria",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Austria.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
   "OutlineURL": "https://i.pinimg.com/736x/ec/70/da/ec70da1b204f68b50e0a7f9f31da98d4.jpg",
   "Capital": "Vienna",
   "Plus": false
@@ -53,7 +53,7 @@
     "$oid": "661d1540e415625eb3425a62"
   },
   "name": "Belarus",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Belarus.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
   "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/outline-map-of-belarus-bigalbaloo-stock.jpg",
   "Capital": "Minsk",
   "Plus": false
@@ -63,7 +63,7 @@
     "$oid": "661d1540e415625eb3425a63"
   },
   "name": "Belgium",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Belgium.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
   "OutlineURL": "https://i.pinimg.com/originals/22/15/d9/2215d9748728f05aa07ef0b4613d97bb.gif",
   "Capital": "Brussels",
   "Plus": false
@@ -73,7 +73,7 @@
     "$oid": "661eacb26f746774e6a58cc9"
   },
   "name": "Bosnia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Bosnia_and_Herzegovina.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Bosnia_and_Herzegovina.svg",
   "OutlineURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/bosnia-and-herzegovina-country-outline-bigalbaloo-stock.jpg",
   "Capital": "Sarajevo",
   "Plus": false
@@ -83,7 +83,7 @@
     "$oid": "661eacb26f746774e6a58cca"
   },
   "name": "Bulgaria",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Bulgaria.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/bg-03.png",
   "Capital": "Sofia",
   "Plus": false
@@ -93,7 +93,7 @@
     "$oid": "661eacb26f746774e6a58ccb"
   },
   "name": "Croatia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Croatia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Croatia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/hr-03.png",
   "Capital": "Zagreb",
   "Plus": false
@@ -103,7 +103,7 @@
     "$oid": "661eacb26f746774e6a58ccc"
   },
   "name": "Cyprus",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Cyprus.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1280px-Flag_of_Cyprus.svg.png",
   "OutlineURL": "https://www.wpclipart.com/geography/Country_Maps/C/Cyprus/Cyprus_outline.png",
   "Capital": "Nicosia",
   "Plus": false
@@ -113,7 +113,7 @@
     "$oid": "661eacb26f746774e6a58ccd"
   },
   "name": "Czech Republic",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_the_Czech_Republic.svg",
   "OutlineURL": "https://i.pinimg.com/originals/9b/83/13/9b8313c5f6c66d99cb4baf188d63bba5.gif",
   "Capital": "Prague",
   "Plus": false
@@ -123,7 +123,7 @@
     "$oid": "661eacb26f746774e6a58cce"
   },
   "name": "Denmark",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Denmark.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
   "OutlineURL": "https://media.istockphoto.com/id/470863190/vector/denmark-country-map.jpg?s=612x612&w=0&k=20&c=UgPMxUpVNGFG0XEf1Vk29AEsWOnRiPZq8bstX5wEVoA=",
   "Capital": "Copenhagen",
   "Plus": false
@@ -133,7 +133,7 @@
     "$oid": "661eacb26f746774e6a58ccf"
   },
   "name": "Estonia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Estonia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
   "OutlineURL": "https://img.freepik.com/premium-vector/outline-map-estonia-white-background-vector-map-with-contour_652994-1781.jpg",
   "Capital": "Tallinn",
   "Plus": false
@@ -143,7 +143,7 @@
     "$oid": "661eacb26f746774e6a58cd0"
   },
   "name": "Finland",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Finland.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Finland.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/864/original/map-of-finland-outline-map-illustration-free-vector.jpg",
   "Capital": "Helsinki",
   "Plus": false
@@ -153,7 +153,7 @@
     "$oid": "661eacb26f746774e6a58cd1"
   },
   "name": "France",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974,_2020%E2%80%93present).svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974,_2020%E2%80%93present).svg",
   "OutlineURL": "https://i.pinimg.com/originals/d9/a6/8e/d9a68e344bfe976a660f4b388196cfab.gif",
   "Capital": "Paris",
   "Plus": false
@@ -163,7 +163,7 @@
     "$oid": "663a16e6082f9f53b0dd433d"
   },
   "name": "Georgia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Georgia.svg",
   "OutlineURL": "https://images.assetsdelivery.com/compings_v2/pytyczech/pytyczech1901/pytyczech190100748.jpg",
   "Capital": "Tbilisi",
   "Plus": true
@@ -173,7 +173,7 @@
     "$oid": "661eacb26f746774e6a58cd2"
   },
   "name": "Germany",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/big/de-03.jpg",
   "Capital": "Berlin",
   "Plus": false
@@ -183,7 +183,7 @@
     "$oid": "661eacb26f746774e6a58cd3"
   },
   "name": "Greece",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Greece.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
   "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-greece-2-coloring-page.png",
   "Capital": "Athens",
   "Plus": false
@@ -193,7 +193,7 @@
     "$oid": "661eacb26f746774e6a58cd4"
   },
   "name": "Hungary",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Hungary.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Hungary.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/774/original/map-of-hungary-outline-map-illustration-free-vector.jpg",
   "Capital": "Budapest",
   "Plus": false
@@ -203,7 +203,7 @@
     "$oid": "661eacb26f746774e6a58cd5"
   },
   "name": "Iceland",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Iceland.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Iceland.svg",
   "OutlineURL": "https://t4.ftcdn.net/jpg/01/92/50/23/360_F_192502323_mSxYMXn1ULAP1B6IZ9BSOoPT6nfr8bWl.jpg",
   "Capital": "Reykjavík",
   "Plus": false
@@ -213,7 +213,7 @@
     "$oid": "661eacb26f746774e6a58cd6"
   },
   "name": "Ireland",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Ireland.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/ie-01.png",
   "Capital": "Dublin",
   "Plus": false
@@ -223,7 +223,7 @@
     "$oid": "661eacb26f746774e6a58cd7"
   },
   "name": "Italy",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Italy.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
   "OutlineURL": "https://i.pinimg.com/originals/13/06/d2/1306d29a7d2e3f3d5d040e9704e96750.jpg",
   "Capital": "Rome",
   "Plus": false
@@ -233,7 +233,7 @@
     "$oid": "663a16e6082f9f53b0dd433e"
   },
   "name": "Kazakhstan",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Kazakhstan.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Kazakhstan.svg",
   "OutlineURL": "https://i.pinimg.com/originals/b5/e9/38/b5e938f945f3fa46c8816e3369eb9744.gif",
   "Capital": "Astana",
   "Plus": true
@@ -243,7 +243,7 @@
     "$oid": "661eacb26f746774e6a58cd8"
   },
   "name": "Latvia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Latvia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/lv-01.png",
   "Capital": "Riga",
   "Plus": false
@@ -253,7 +253,7 @@
     "$oid": "661eacb26f746774e6a58cd9"
   },
   "name": "Lithuania",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Lithuania.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/lt-01.png",
   "Capital": "Vilnius",
   "Plus": false
@@ -263,7 +263,7 @@
     "$oid": "66424d7554889e532c360c62"
   },
   "name": "Liechtenstein",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Liechtenstein.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/Liechtenstein-Country-Map-Black-White-Solid-Outline-Maps-JPG-SVG-PNG-PDF-EPS-AI-6434914-1610328657/original-6434914-3.jpg",
   "Capital": "Vaduz",
   "Plus": false
@@ -273,7 +273,7 @@
     "$oid": "661eacb26f746774e6a58cda"
   },
   "name": "Luxembourg",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Luxembourg.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/lu-04.png",
   "Capital": "Luxembourg",
   "Plus": false
@@ -283,7 +283,7 @@
     "$oid": "661eacb26f746774e6a58cdb"
   },
   "name": "N.Macedonia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_North_Macedonia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_North_Macedonia.svg",
   "OutlineURL": "https://ecdn.teacherspayteachers.com/thumbitem/North-Macedonia-Country-Map-Black-White-Solid-Outline-Map-JPG-SVG-PNG-PDF-EPS-AI-6435026-1610333884/original-6435026-3.jpg",
   "Capital": "Skopje",
   "Plus": false
@@ -293,7 +293,7 @@
     "$oid": "661eacb26f746774e6a58cdc"
   },
   "name": "Malta",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Malta.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
   "OutlineURL": "https://cdn.vectorstock.com/i/500p/65/04/malta-island-map-silhouette-vector-41356504.jpg",
   "Capital": "Valletta",
   "Plus": false
@@ -303,7 +303,7 @@
     "$oid": "661eacb26f746774e6a58cdd"
   },
   "name": "Moldova",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Moldova.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/big/md-03.jpg",
   "Capital": "Chișinău",
   "Plus": false
@@ -313,7 +313,7 @@
     "$oid": "661eacb26f746774e6a58cde"
   },
   "name": "Monaco",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Monaco.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Monaco.svg",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/020/715/192/original/outline-country-state-monaco-border-outline-state-monaco-vector.jpg",
   "Capital": "Monaco",
   "Plus": false
@@ -323,7 +323,7 @@
     "$oid": "661eacb26f746774e6a58cdf"
   },
   "name": "Montenegro",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Montenegro.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Montenegro.svg",
   "OutlineURL": "https://i.pinimg.com/736x/5f/cf/d2/5fcfd2691f7ec02b66c5cf14c0a6401a.jpg",
   "Capital": "Podgorica",
   "Plus": false
@@ -333,7 +333,7 @@
     "$oid": "661eacb26f746774e6a58ce0"
   },
   "name": "Netherlands",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blank_map_of_the_Netherlands.svg/1928px-Blank_map_of_the_Netherlands.svg.png",
   "Capital": "Amsterdam",
   "Plus": false
@@ -343,7 +343,7 @@
     "$oid": "661eacb26f746774e6a58ce1"
   },
   "name": "Norway",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Norway.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/no-03.png",
   "Capital": "Oslo",
   "Plus": false
@@ -353,7 +353,7 @@
     "$oid": "661eacb26f746774e6a58ce2"
   },
   "name": "Poland",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Poland.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/large/pl-03.jpg",
   "Capital": "Warsaw",
   "Plus": false
@@ -363,7 +363,7 @@
     "$oid": "661eacb26f746774e6a58ce3"
   },
   "name": "Portugal",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Portugal.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
   "OutlineURL": "https://i.pinimg.com/originals/9a/0c/29/9a0c2908ff412b8cdea1cbb9301795c2.gif",
   "Capital": "Lisbon",
   "Plus": false
@@ -373,7 +373,7 @@
     "$oid": "661eacb26f746774e6a58ce4"
   },
   "name": "Romania",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Romania.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
   "OutlineURL": "https://vemaps.com/uploads/img/large/ro-01.jpg",
   "Capital": "Bucharest",
   "Plus": false
@@ -383,7 +383,7 @@
     "$oid": "661eacb26f746774e6a58ce5"
   },
   "name": "Russia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Russia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Russian%2C_outline.svg",
   "Capital": "Moscow",
   "Plus": false
@@ -393,7 +393,7 @@
     "$oid": "661eacb26f746774e6a58ce6"
   },
   "name": "Serbia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Serbia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Serbia.svg/1920px-Flag_of_Serbia.svg.png",
   "OutlineURL": "https://vemaps.com/uploads/img/rs-03.png",
   "Capital": "Belgrade",
   "Plus": false
@@ -403,7 +403,7 @@
     "$oid": "661eacb26f746774e6a58ce7"
   },
   "name": "San Marino",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_San_Marino.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_San_Marino.svg/1280px-Flag_of_San_Marino.svg.png",
   "OutlineURL": "https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2023/05/outline-map-of-san-marino-coloring-page.png",
   "Capital": "San Marino",
   "Plus": false
@@ -413,7 +413,7 @@
     "$oid": "661eacb26f746774e6a58ce8"
   },
   "name": "Slovakia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Slovakia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
   "OutlineURL": "https://vemaps.com/uploads/img/sk-03.png",
   "Capital": "Bratislava",
   "Plus": false
@@ -423,7 +423,7 @@
     "$oid": "661eacb26f746774e6a58ce9"
   },
   "name": "Slovenia",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Slovenia.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1280px-Flag_of_Slovenia.svg.png",
   "OutlineURL": "https://media.istockphoto.com/id/470865712/vector/slovenia-country-map.jpg?s=612x612&w=0&k=20&c=mmBKIvEnifaLnM9YtnC4XZeoBODDuNVbLtteUyAibwE=",
   "Capital": "Ljubljana",
   "Plus": false
@@ -433,7 +433,7 @@
     "$oid": "661eacb26f746774e6a58cea"
   },
   "name": "Spain",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Bandera_de_Espa%C3%B1a.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blank_Spain_Map_%28Autonomous_Communities%29.svg/2560px-Blank_Spain_Map_%28Autonomous_Communities%29.svg.png",
   "Capital": "Madrid",
   "Plus": false
@@ -443,7 +443,7 @@
     "$oid": "661eacb26f746774e6a58ceb"
   },
   "name": "Sweden",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Sweden.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
   "OutlineURL": "https://vemaps.com/uploads/img/se-03.png",
   "Capital": "Stockholm",
   "Plus": false
@@ -453,7 +453,7 @@
     "$oid": "661eacb26f746774e6a58cec"
   },
   "name": "Switzerland",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Switzerland.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Switzerland.svg/1280px-Flag_of_Switzerland.svg.png",
   "OutlineURL": "https://vemaps.com/uploads/img/ch-03.png",
   "Capital": "Bern",
   "Plus": false
@@ -463,7 +463,7 @@
     "$oid": "661eacb26f746774e6a58ced"
   },
   "name": "Turkey",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Turkey.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
   "OutlineURL": "https://media.istockphoto.com/id/470863544/vector/turkey-country-map.jpg?s=612x612&w=0&k=20&c=C_Cyam9Zn-UM95_90kds3yMl4z40qj9vrq5rsUBguSU=",
   "Capital": "Ankara",
   "Plus": true
@@ -473,7 +473,7 @@
     "$oid": "661eacb26f746774e6a58cee"
   },
   "name": "Ukraine",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Ukraine.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
   "OutlineURL": "https://static.vecteezy.com/system/resources/previews/008/726/675/original/map-of-ukraine-outline-map-illustration-free-vector.jpg",
   "Capital": "Kiev",
   "Plus": false
@@ -483,7 +483,7 @@
     "$oid": "661eacb26f746774e6a58cef"
   },
   "name": "United Kingdom",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
   "OutlineURL": "https://ukmap360.com/img/1200/united%20kingdom%20(uk)-map-vector.jpg",
   "Capital": "London",
   "Plus": false
@@ -493,7 +493,7 @@
     "$oid": "661eacb26f746774e6a58cf0"
   },
   "name": "Vatican",
-  "flagURL": "https://en.wikipedia.org/wiki/File:Flag_of_Vatican_City_(2023%E2%80%93present).svg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Vatican_City.svg/1280px-Flag_of_Vatican_City.svg.png",
   "OutlineURL": "https://cdn.vectorstock.com/i/preview-1x/37/55/map-of-vatican-high-detailed-vector-22403755.jpg",
   "Capital": "Vatican",
   "Plus": false
@@ -503,7 +503,7 @@
     "$oid": "661eacb26f746774e6a58cf1"
   },
   "name": "Kosovo",
-  "flagURL": "https://cdn.britannica.com/18/114418-004-2A12F087/Flag-Kosovo.jpg",
+  "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
   "OutlineURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kosovo_outline.svg",
   "Capital": "Pristina",
   "Plus": false
